@@ -1,0 +1,4715 @@
+{
+  "documents": [
+    {
+      "docid": "WLCM",
+      "scheme": "BCVWP|token-string"
+    },
+    {
+      "docid": "TBI",
+      "scheme": "BCVWP|token-string"
+    }
+  ],
+  "meta": {
+    "conformsTo": "0.3",
+    "creator": "Mission Mutual"
+  },
+  "roles": [
+    "source",
+    "target"
+  ],
+  "type": "translation",
+  "records": [
+    {
+      "source": [
+        "o340010010011|מַשָּׂא"
+      ],
+      "target": [
+        "34001001002|ilahi"
+      ],
+      "meta": {
+        "id": "34001001.1",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o340010010021|נִינְוֵה"
+      ],
+      "target": [
+        "34001001004|Niniwe"
+      ],
+      "meta": {
+        "id": "34001001.2",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o340010010031|סֵפֶר"
+      ],
+      "target": [
+        "34001001006|Kitab"
+      ],
+      "meta": {
+        "id": "34001001.3",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o340010010041|חֲזוֹן"
+      ],
+      "target": [
+        "34001001007|penglihatan"
+      ],
+      "meta": {
+        "id": "34001001.4",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o340010010051|נַחוּם"
+      ],
+      "target": [
+        "34001001008|Nahum"
+      ],
+      "meta": {
+        "id": "34001001.5",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o340010010062|אֶלְקֹשִׁי"
+      ],
+      "target": [
+        "34001001011|Elkosh"
+      ],
+      "meta": {
+        "id": "34001001.6",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o340010020011|אֵל"
+      ],
+      "target": [
+        "34001002003|Allah"
+      ],
+      "meta": {
+        "id": "34001002.1",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o340010020032|נֹקֵם"
+      ],
+      "target": [
+        "34001002024|pendendam"
+      ],
+      "meta": {
+        "id": "34001002.3",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o340010020041|יְהוָה"
+      ],
+      "target": [
+        "34001002001|Tuhan"
+      ],
+      "meta": {
+        "id": "34001002.4",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o340010020061|יְהוָה"
+      ],
+      "target": [
+        "34001002009|Tuhan"
+      ],
+      "meta": {
+        "id": "34001002.5",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o340010020072|בַעַל"
+      ],
+      "target": [
+        "34001002013|penuh"
+      ],
+      "meta": {
+        "id": "34001002.6",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o340010020081|חֵמָה"
+      ],
+      "target": [
+        "34001002014|kehangatan"
+      ],
+      "meta": {
+        "id": "34001002.7",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o340010020101|יְהוָה"
+      ],
+      "target": [
+        "34001002017|Tuhan"
+      ],
+      "meta": {
+        "id": "34001002.8",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o340010020112|צָרָי"
+      ],
+      "target": [
+        "34001002022|lawan-Nya"
+      ],
+      "meta": {
+        "id": "34001002.9",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o340010020142|אֹיְבָי"
+      ],
+      "target": [
+        "34001002027|musuh-Nya"
+      ],
+      "meta": {
+        "id": "34001002.11",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o340010030011|יְהֹוָה"
+      ],
+      "target": [
+        "34001003001|Tuhan"
+      ],
+      "meta": {
+        "id": "34001003.1",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o340010030021|אֶרֶךְ"
+      ],
+      "target": [
+        "34001003004|sabar"
+      ],
+      "meta": {
+        "id": "34001003.2",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o340010030052|גְדָל"
+      ],
+      "target": [
+        "34001003006|besar"
+      ],
+      "meta": {
+        "id": "34001003.3",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o340010030061|כֹּחַ"
+      ],
+      "target": [
+        "34001003007|kuasa"
+      ],
+      "meta": {
+        "id": "34001003.4",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o340010030072|נַקֵּה"
+      ],
+      "target": [
+        "34001003015|hukuman"
+      ],
+      "meta": {
+        "id": "34001003.5",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o340010030081|לֹא"
+      ],
+      "target": [
+        "34001003011|tidak"
+      ],
+      "meta": {
+        "id": "34001003.6",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o340010030112|סוּפָה"
+      ],
+      "target": [
+        "34001003023|puting"
+      ],
+      "meta": {
+        "id": "34001003.9",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o340010030142|עָנָן"
+      ],
+      "target": [
+        "34001003029|awan"
+      ],
+      "meta": {
+        "id": "34001003.10",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o340010030151|אֲבַק"
+      ],
+      "target": [
+        "34001003031|debu"
+      ],
+      "meta": {
+        "id": "34001003.11",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o340010030161|רַגְלָי"
+      ],
+      "target": [
+        "34001003032|kaki-Nya"
+      ],
+      "meta": {
+        "id": "34001003.12",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o340010040011|גּוֹעֵר"
+      ],
+      "target": [
+        "34001004002|menghardik"
+      ],
+      "meta": {
+        "id": "34001004.1",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o340010040022|יָּם"
+      ],
+      "target": [
+        "34001004003|laut"
+      ],
+      "meta": {
+        "id": "34001004.2",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o340010040032|יַּבְּשֵׁ"
+      ],
+      "target": [
+        "34001004011|kering"
+      ],
+      "meta": {
+        "id": "34001004.3",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o340010040042|כָל"
+      ],
+      "target": [
+        "34001004008|segala"
+      ],
+      "meta": {
+        "id": "34001004.5",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o340010040052|נְּהָרוֹת"
+      ],
+      "target": [
+        "34001004009|sungai"
+      ],
+      "meta": {
+        "id": "34001004.6",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o340010040061|הֶחֱרִיב"
+      ],
+      "target": [
+        "34001004005|mengeringkannya"
+      ],
+      "meta": {
+        "id": "34001004.7",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o340010040071|אֻמְלַל"
+      ],
+      "target": [
+        "34001004017|merana"
+      ],
+      "meta": {
+        "id": "34001004.8",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o340010040081|בָּשָׁן"
+      ],
+      "target": [
+        "34001004013|Basan"
+      ],
+      "meta": {
+        "id": "34001004.9",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o340010040092|כַרְמֶל"
+      ],
+      "target": [
+        "34001004015|Karmel"
+      ],
+      "meta": {
+        "id": "34001004.10",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o340010040102|פֶרַח"
+      ],
+      "target": [
+        "34001004019|kembang"
+      ],
+      "meta": {
+        "id": "34001004.11",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o340010040111|לְבָנוֹן"
+      ],
+      "target": [
+        "34001004020|Libanon"
+      ],
+      "meta": {
+        "id": "34001004.12",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o340010050011|הָרִים"
+      ],
+      "target": [
+        "34001005001|Gunung-gunung"
+      ],
+      "meta": {
+        "id": "34001005.1",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o340010050021|רָעֲשׁוּ"
+      ],
+      "target": [
+        "34001005002|gemetar"
+      ],
+      "meta": {
+        "id": "34001005.2",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o340010050043|גְּבָעוֹת"
+      ],
+      "target": [
+        "34001005007|bukit-bukit"
+      ],
+      "meta": {
+        "id": "34001005.3",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o340010050072|אָרֶץ"
+      ],
+      "target": [
+        "34001005010|Bumi"
+      ],
+      "meta": {
+        "id": "34001005.5",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o340010050082|פָּנָי"
+      ],
+      "target": [
+        "34001005015|hadapan-Nya"
+      ],
+      "meta": {
+        "id": "34001005.6",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o340010050092|תֵבֵל"
+      ],
+      "target": [
+        "34001005017|dunia"
+      ],
+      "meta": {
+        "id": "34001005.8",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o340010050102|כָל"
+      ],
+      "target": [
+        "34001005019|seluruh"
+      ],
+      "meta": {
+        "id": "34001005.9",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o340010050111|יֹשְׁבֵי"
+      ],
+      "target": [
+        "34001005020|penduduknya"
+      ],
+      "meta": {
+        "id": "34001005.10",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o340010060012|פְנֵי"
+      ],
+      "target": [
+        "34001006030|hadapan-Nya"
+      ],
+      "meta": {
+        "id": "34001006.1",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o340010060021|זַעְמ"
+      ],
+      "target": [
+        "34001006006|geram-Nya"
+      ],
+      "meta": {
+        "id": "34001006.2",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o340010060031|מִי"
+      ],
+      "target": [
+        "34001006001|Siapakah"
+      ],
+      "meta": {
+        "id": "34001006.4",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o340010060041|יַעֲמוֹד"
+      ],
+      "target": [
+        "34001006004|berdiri"
+      ],
+      "meta": {
+        "id": "34001006.5",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o340010060052|מִי"
+      ],
+      "target": [
+        "34001006009|siapakah"
+      ],
+      "meta": {
+        "id": "34001006.6",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o340010060072|חֲרוֹן"
+      ],
+      "target": [
+        "34001006014|murka-Nya"
+      ],
+      "meta": {
+        "id": "34001006.7",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o340010060091|חֲמָת"
+      ],
+      "target": [
+        "34001006018|Kehangatan"
+      ],
+      "meta": {
+        "id": "34001006.10",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o340010060101|נִתְּכָה"
+      ],
+      "target": [
+        "34001006020|tercurah"
+      ],
+      "meta": {
+        "id": "34001006.12",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o340010060112|אֵשׁ"
+      ],
+      "target": [
+        "34001006022|api"
+      ],
+      "meta": {
+        "id": "34001006.13",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o340010060123|צֻּרִים"
+      ],
+      "target": [
+        "34001006026|batu"
+      ],
+      "meta": {
+        "id": "34001006.14",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o340010060131|נִתְּצוּ"
+      ],
+      "target": [
+        "34001006028|roboh"
+      ],
+      "meta": {
+        "id": "34001006.15",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o340010070011|טוֹב"
+      ],
+      "target": [
+        "34001007003|baik"
+      ],
+      "meta": {
+        "id": "34001007.1",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o340010070021|יְהוָה"
+      ],
+      "target": [
+        "34001007001|Tuhan"
+      ],
+      "meta": {
+        "id": "34001007.2",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o340010070032|מָעוֹז"
+      ],
+      "target": [
+        "34001007008|pengungsian"
+      ],
+      "meta": {
+        "id": "34001007.3",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o340010070042|יוֹם"
+      ],
+      "target": [
+        "34001007010|waktu"
+      ],
+      "meta": {
+        "id": "34001007.4",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o340010070051|צָרָה"
+      ],
+      "target": [
+        "34001007011|kesusahan"
+      ],
+      "meta": {
+        "id": "34001007.5",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o340010070062|יֹדֵעַ"
+      ],
+      "target": [
+        "34001007014|mengenal"
+      ],
+      "meta": {
+        "id": "34001007.6",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o340010070071|חֹסֵי"
+      ],
+      "target": [
+        "34001007017|berlindung"
+      ],
+      "meta": {
+        "id": "34001007.7",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o340010080013|שֶׁטֶף"
+      ],
+      "target": [
+        "34001008006|banjir"
+      ],
+      "meta": {
+        "id": "34001008.1",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o340010080021|עֹבֵר"
+      ],
+      "target": [
+        "34001008002|menyeberangkan"
+      ],
+      "meta": {
+        "id": "34001008.2",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o340010080031|כָּלָה"
+      ],
+      "target": [
+        "34001008009|menghabisi"
+      ],
+      "meta": {
+        "id": "34001008.3",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o340010080062|אֹיְבָי"
+      ],
+      "target": [
+        "34001008019|musuh-Nya"
+      ],
+      "meta": {
+        "id": "34001008.4",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o340010080081|חֹשֶׁךְ"
+      ],
+      "target": [
+        "34001008023|gelap"
+      ],
+      "meta": {
+        "id": "34001008.6",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o340010090011|מַה"
+      ],
+      "target": [
+        "34001009001|Apakah"
+      ],
+      "meta": {
+        "id": "34001009.1",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o340010090041|יְהוָה"
+      ],
+      "target": [
+        "34001009004|Tuhan"
+      ],
+      "meta": {
+        "id": "34001009.2",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o340010090051|כָּלָה"
+      ],
+      "target": [
+        "34001009008|menghabisi"
+      ],
+      "meta": {
+        "id": "34001009.3",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o340010090081|לֹא"
+      ],
+      "target": [
+        "34001009013|tidak"
+      ],
+      "meta": {
+        "id": "34001009.4",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o340010090101|פַּעֲמַיִם"
+      ],
+      "target": [
+        "34001009017|kali"
+      ],
+      "meta": {
+        "id": "34001009.5",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o340010090111|צָרָה"
+      ],
+      "target": [
+        "34001009012|kesengsaraan"
+      ],
+      "meta": {
+        "id": "34001009.6",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o340010100011|כִּי"
+      ],
+      "target": [
+        "34001010001|Sebab"
+      ],
+      "meta": {
+        "id": "34001010.1",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o340010100031|סִירִים"
+      ],
+      "target": [
+        "34001010007|duri"
+      ],
+      "meta": {
+        "id": "34001010.2",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o340010100041|סְבֻכִים"
+      ],
+      "target": [
+        "34001010009|berjalin-jalin"
+      ],
+      "meta": {
+        "id": "34001010.3",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o340010100071|אֻכְּלוּ"
+      ],
+      "target": [
+        "34001010011|dimakan"
+      ],
+      "meta": {
+        "id": "34001010.4",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o340010100082|קַשׁ"
+      ],
+      "target": [
+        "34001010014|jerami"
+      ],
+      "meta": {
+        "id": "34001010.5",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o340010100091|יָבֵשׁ"
+      ],
+      "target": [
+        "34001010015|kering"
+      ],
+      "meta": {
+        "id": "34001010.6",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o340010110021|יָצָא"
+      ],
+      "target": [
+        "34001011004|muncul"
+      ],
+      "meta": {
+        "id": "34001011.1",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o340010110031|חֹשֵׁב"
+      ],
+      "target": [
+        "34001011007|merancang"
+      ],
+      "meta": {
+        "id": "34001011.2",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o340010110051|יְהוָה"
+      ],
+      "target": [
+        "34001011010|Tuhan"
+      ],
+      "meta": {
+        "id": "34001011.3",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o340010110061|רָעָה"
+      ],
+      "target": [
+        "34001011008|kejahatan"
+      ],
+      "meta": {
+        "id": "34001011.4",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o340010110071|יֹעֵץ"
+      ],
+      "target": [
+        "34001011015|nasihat"
+      ],
+      "meta": {
+        "id": "34001011.5",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o340010110081|בְּלִיָּעַל"
+      ],
+      "target": [
+        "34001011016|dursila"
+      ],
+      "meta": {
+        "id": "34001011.6",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o340010120011|כֹּה"
+      ],
+      "target": [
+        "34001012001|Beginilah"
+      ],
+      "meta": {
+        "id": "34001012.1",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o340010120021|אָמַר"
+      ],
+      "target": [
+        "34001012002|firman"
+      ],
+      "meta": {
+        "id": "34001012.2",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o340010120031|יְהוָה"
+      ],
+      "target": [
+        "34001012003|Tuhan"
+      ],
+      "meta": {
+        "id": "34001012.3",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o340010120051|שְׁלֵמִים"
+      ],
+      "target": [
+        "34001012008|utuh"
+      ],
+      "meta": {
+        "id": "34001012.4",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o340010120071|רַבִּים"
+      ],
+      "target": [
+        "34001012011|banyak"
+      ],
+      "meta": {
+        "id": "34001012.5",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o340010120091|נָגֹזּוּ"
+      ],
+      "target": [
+        "34001012018|terbabat"
+      ],
+      "meta": {
+        "id": "34001012.6",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o340010120112|עִנִּתִ"
+      ],
+      "target": [
+        "34001012026|merendahkan"
+      ],
+      "meta": {
+        "id": "34001012.7",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o340010120121|לֹא"
+      ],
+      "target": [
+        "34001012031|tidak"
+      ],
+      "meta": {
+        "id": "34001012.9",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o340010120131|אֲעַנֵּ"
+      ],
+      "target": [
+        "34001012033|merendahkan"
+      ],
+      "meta": {
+        "id": "34001012.10",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o340010120141|עוֹד"
+      ],
+      "target": [
+        "34001012035|lagi"
+      ],
+      "meta": {
+        "id": "34001012.12",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o340010130012|עַתָּה"
+      ],
+      "target": [
+        "34001013001|Sekarang"
+      ],
+      "meta": {
+        "id": "34001013.1",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o340010130021|אֶשְׁבֹּר"
+      ],
+      "target": [
+        "34001013005|mematahkan"
+      ],
+      "meta": {
+        "id": "34001013.2",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o340010130052|מוֹסְרֹתַיִ"
+      ],
+      "target": [
+        "34001013014|belenggu-belenggu"
+      ],
+      "meta": {
+        "id": "34001013.3",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o340010130061|אֲנַתֵּק"
+      ],
+      "target": [
+        "34001013013|memutuskan"
+      ],
+      "meta": {
+        "id": "34001013.5",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o340010140012|צִוָּה"
+      ],
+      "target": [
+        "34001014005|perintah"
+      ],
+      "meta": {
+        "id": "34001014.1",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o340010140031|יְהוָה"
+      ],
+      "target": [
+        "34001014006|Tuhan"
+      ],
+      "meta": {
+        "id": "34001014.2",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o340010140041|לֹא"
+      ],
+      "target": [
+        "34001014009|Tidak"
+      ],
+      "meta": {
+        "id": "34001014.3",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o340010140051|יִזָּרַע"
+      ],
+      "target": [
+        "34001014013|keturunan"
+      ],
+      "meta": {
+        "id": "34001014.4",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o340010140062|שִּׁמְ"
+      ],
+      "target": [
+        "34001014015|namamu"
+      ],
+      "meta": {
+        "id": "34001014.5",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o340010140071|עוֹד"
+      ],
+      "target": [
+        "34001014012|lagi"
+      ],
+      "meta": {
+        "id": "34001014.6",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o340010140082|בֵּית"
+      ],
+      "target": [
+        "34001014018|rumah"
+      ],
+      "meta": {
+        "id": "34001014.7",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o340010140091|אֱלֹהֶי"
+      ],
+      "target": [
+        "34001014019|allahmu"
+      ],
+      "meta": {
+        "id": "34001014.8",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o340010140101|אַכְרִית"
+      ],
+      "target": [
+        "34001014022|melenyapkan"
+      ],
+      "meta": {
+        "id": "34001014.10",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o340010140111|פֶּסֶל"
+      ],
+      "target": [
+        "34001014023|patung"
+      ],
+      "meta": {
+        "id": "34001014.11",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o340010140122|מַסֵּכָה"
+      ],
+      "target": [
+        "34001014027|tuangan"
+      ],
+      "meta": {
+        "id": "34001014.12",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o340010140141|קִבְרֶ"
+      ],
+      "target": [
+        "34001014029|kuburmu"
+      ],
+      "meta": {
+        "id": "34001014.13",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o340010140151|כִּי"
+      ],
+      "target": [
+        "34001014033|sebab"
+      ],
+      "meta": {
+        "id": "34001014.15",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o340020010011|הִנֵּה"
+      ],
+      "target": [
+        "34001015001|Lihatlah"
+      ],
+      "meta": {
+        "id": "34002001.1",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o340020010032|הָרִים"
+      ],
+      "target": [
+        "34001015005|gunung-gunung"
+      ],
+      "meta": {
+        "id": "34002001.2",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o340020010051|מְבַשֵּׂר"
+      ],
+      "target": [
+        "34001015013|mengabarkan"
+      ],
+      "meta": {
+        "id": "34002001.3",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o340020010071|שָׁלוֹם"
+      ],
+      "target": [
+        "34001015015|damai"
+      ],
+      "meta": {
+        "id": "34002001.5",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o340020010091|יְהוּדָה"
+      ],
+      "target": [
+        "34001015023|Yehuda"
+      ],
+      "meta": {
+        "id": "34002001.6",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o340020010101|חַגַּיִ"
+      ],
+      "target": [
+        "34001015020|rayamu"
+      ],
+      "meta": {
+        "id": "34002001.7",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o340020010111|שַׁלְּמִי"
+      ],
+      "target": [
+        "34001015025|bayarlah"
+      ],
+      "meta": {
+        "id": "34002001.9",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o340020010121|נְדָרָיִ"
+      ],
+      "target": [
+        "34001015026|nazarmu"
+      ],
+      "meta": {
+        "id": "34002001.10",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o340020010131|כִּי"
+      ],
+      "target": [
+        "34001015028|Sebab"
+      ],
+      "meta": {
+        "id": "34002001.12",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o340020010141|לֹא"
+      ],
+      "target": [
+        "34001015029|tidak"
+      ],
+      "meta": {
+        "id": "34002001.13",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o340020010151|יוֹסִיף"
+      ],
+      "target": [
+        "34001015032|lagi"
+      ],
+      "meta": {
+        "id": "34002001.14",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o340020010182|עֲבָר"
+      ],
+      "target": [
+        "34001015035|menyerang"
+      ],
+      "meta": {
+        "id": "34002001.16",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o340020010201|בְּלִיַּעַל"
+      ],
+      "target": [
+        "34001015034|dursila"
+      ],
+      "meta": {
+        "id": "34002001.17",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o340020010221|נִכְרָת"
+      ],
+      "target": [
+        "34001015040|dilenyapkan"
+      ],
+      "meta": {
+        "id": "34002001.18",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o340020020011|עָלָה"
+      ],
+      "target": [
+        "34002001002|maju"
+      ],
+      "meta": {
+        "id": "34002002.1",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o340020020061|מְצֻרָה"
+      ],
+      "target": [
+        "34002001009|benteng"
+      ],
+      "meta": {
+        "id": "34002002.2",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o340020020071|צַפֵּה"
+      ],
+      "target": [
+        "34002001007|penjagaan"
+      ],
+      "meta": {
+        "id": "34002002.3",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o340020020081|דֶרֶךְ"
+      ],
+      "target": [
+        "34002001013|jalan"
+      ],
+      "meta": {
+        "id": "34002002.4",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o340020020091|חַזֵּק"
+      ],
+      "target": [
+        "34002001015|ikatlah"
+      ],
+      "meta": {
+        "id": "34002002.5",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o340020020101|מָתְנַיִם"
+      ],
+      "target": [
+        "34002001016|pinggangmu"
+      ],
+      "meta": {
+        "id": "34002002.6",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o340020020121|כֹּחַ"
+      ],
+      "target": [
+        "34002001021|kekuatan"
+      ],
+      "meta": {
+        "id": "34002002.7",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o340020030011|כִּי"
+      ],
+      "target": [
+        "34002002012|sebab"
+      ],
+      "meta": {
+        "id": "34002003.1",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o340020030021|שָׁב"
+      ],
+      "target": [
+        "34002002004|memulihkan"
+      ],
+      "meta": {
+        "id": "34002003.2",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o340020030031|יְהוָה"
+      ],
+      "target": [
+        "34002002003|Tuhan"
+      ],
+      "meta": {
+        "id": "34002003.3",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o340020030051|גְּאוֹן"
+      ],
+      "target": [
+        "34002002005|kebanggaan"
+      ],
+      "meta": {
+        "id": "34002003.4",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o340020030061|יַעֲקֹב"
+      ],
+      "target": [
+        "34002002006|Yakub"
+      ],
+      "meta": {
+        "id": "34002003.5",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o340020030072|גְאוֹן"
+      ],
+      "target": [
+        "34002002009|kebanggaan"
+      ],
+      "meta": {
+        "id": "34002003.6",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o340020030081|יִשְׂרָאֵל"
+      ],
+      "target": [
+        "34002002010|Israel"
+      ],
+      "meta": {
+        "id": "34002003.7",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o340020030131|שִׁחֵתוּ"
+      ],
+      "target": [
+        "34002002015|merusakkannya"
+      ],
+      "meta": {
+        "id": "34002003.9",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o340020040011|מָגֵן"
+      ],
+      "target": [
+        "34002003001|Perisai"
+      ],
+      "meta": {
+        "id": "34002004.1",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o340020040021|גִּבֹּרֵי"
+      ],
+      "target": [
+        "34002003003|pahlawannya"
+      ],
+      "meta": {
+        "id": "34002004.2",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o340020040031|מְאָדָּם"
+      ],
+      "target": [
+        "34002003005|merah"
+      ],
+      "meta": {
+        "id": "34002004.4",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o340020040061|מְתֻלָּעִים"
+      ],
+      "target": [
+        "34002003008|berpakaian"
+      ],
+      "meta": {
+        "id": "34002004.5",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o340020040072|אֵשׁ"
+      ],
+      "target": [
+        "34002003014|api"
+      ],
+      "meta": {
+        "id": "34002004.6",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o340020040092|רֶכֶב"
+      ],
+      "target": [
+        "34002003011|kereta"
+      ],
+      "meta": {
+        "id": "34002004.7",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o340020040102|יוֹם"
+      ],
+      "target": [
+        "34002003017|hari"
+      ],
+      "meta": {
+        "id": "34002004.8",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o340020050012|חוּצוֹת"
+      ],
+      "target": [
+        "34002004005|jalan"
+      ],
+      "meta": {
+        "id": "34002005.1",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o340020050032|רֶכֶב"
+      ],
+      "target": [
+        "34002004001|Kereta"
+      ],
+      "meta": {
+        "id": "34002005.2",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o340020050041|יִשְׁתַּקְשְׁקוּ"
+      ],
+      "target": [
+        "34002004002|melaju"
+      ],
+      "meta": {
+        "id": "34002005.3",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o340020050052|רְחֹבוֹת"
+      ],
+      "target": [
+        "34002004009|lapangan"
+      ],
+      "meta": {
+        "id": "34002005.4",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o340020050061|מַרְאֵי"
+      ],
+      "target": [
+        "34002004011|kelihatannya"
+      ],
+      "meta": {
+        "id": "34002005.5",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o340020050072|לַּפִּידִם"
+      ],
+      "target": [
+        "34002004013|suluh"
+      ],
+      "meta": {
+        "id": "34002005.7",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o340020050082|בְּרָקִים"
+      ],
+      "target": [
+        "34002004017|kilat"
+      ],
+      "meta": {
+        "id": "34002005.8",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o340020060021|אַדִּירָי"
+      ],
+      "target": [
+        "34002005001|Pasukan-pasukan"
+      ],
+      "meta": {
+        "id": "34002006.1",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o340020060031|יִכָּשְׁלוּ"
+      ],
+      "target": [
+        "34002005006|tersandung"
+      ],
+      "meta": {
+        "id": "34002006.2",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o340020060052|הֲלִיכָתָ"
+      ],
+      "target": [
+        "34002005017|arah"
+      ],
+      "meta": {
+        "id": "34002006.3",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o340020060071|חוֹמָתָ"
+      ],
+      "target": [
+        "34002005018|tembok"
+      ],
+      "meta": {
+        "id": "34002006.4",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o340020070011|שַׁעֲרֵי"
+      ],
+      "target": [
+        "34002006001|Pintu-pintu"
+      ],
+      "meta": {
+        "id": "34002007.1",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o340020070022|נְּהָרוֹת"
+      ],
+      "target": [
+        "34002006003|sungai-sungai"
+      ],
+      "meta": {
+        "id": "34002007.2",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o340020070031|נִפְתָּחוּ"
+      ],
+      "target": [
+        "34002006005|dibuka"
+      ],
+      "meta": {
+        "id": "34002007.3",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o340020070043|הֵיכָל"
+      ],
+      "target": [
+        "34002006008|istana"
+      ],
+      "meta": {
+        "id": "34002007.4",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o340020070051|נָמוֹג"
+      ],
+      "target": [
+        "34002006010|gempar"
+      ],
+      "meta": {
+        "id": "34002007.5",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o340020080021|גֻּלְּתָה"
+      ],
+      "target": [
+        "34002007006|ditelanjangi"
+      ],
+      "meta": {
+        "id": "34002008.1",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o340020080031|הֹעֲלָתָה"
+      ],
+      "target": [
+        "34002007002|dibawa"
+      ],
+      "meta": {
+        "id": "34002008.2",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o340020080051|מְנַהֲגוֹת"
+      ],
+      "target": [
+        "34002007009|mengerang"
+      ],
+      "meta": {
+        "id": "34002008.3",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o340020080062|קוֹל"
+      ],
+      "target": [
+        "34002007013|suara"
+      ],
+      "meta": {
+        "id": "34002008.4",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o340020080071|יוֹנִים"
+      ],
+      "target": [
+        "34002007014|merpati"
+      ],
+      "meta": {
+        "id": "34002008.5",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o340020080081|מְתֹפְפֹת"
+      ],
+      "target": [
+        "34002007008|dayang-dayangnya"
+      ],
+      "meta": {
+        "id": "34002008.6",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o340020080101|לִבְבֵ"
+      ],
+      "target": [
+        "34002007017|dada"
+      ],
+      "meta": {
+        "id": "34002008.7",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o340020090012|נִינְוֵה"
+      ],
+      "target": [
+        "34002008001|Niniwe"
+      ],
+      "meta": {
+        "id": "34002009.1",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o340020090022|בְרֵכַת"
+      ],
+      "target": [
+        "34002008004|kolam"
+      ],
+      "meta": {
+        "id": "34002009.2",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o340020090031|מַיִם"
+      ],
+      "target": [
+        "34002008005|air"
+      ],
+      "meta": {
+        "id": "34002009.3",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o340020090071|נָסִים"
+      ],
+      "target": [
+        "34002008008|mengalir"
+      ],
+      "meta": {
+        "id": "34002009.4",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o340020090081|עִמְדוּ"
+      ],
+      "target": [
+        "34002008013|Berhenti"
+      ],
+      "meta": {
+        "id": "34002009.5",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o340020090091|עֲמֹדוּ"
+      ],
+      "target": [
+        "34002008015|Berhenti"
+      ],
+      "meta": {
+        "id": "34002009.6",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o340020090102|אֵין"
+      ],
+      "target": [
+        "34002008023|ada"
+      ],
+      "meta": {
+        "id": "34002009.7",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o340020090111|מַפְנֶה"
+      ],
+      "target": [
+        "34002008025|berpaling"
+      ],
+      "meta": {
+        "id": "34002009.8",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o340020100021|כֶסֶף"
+      ],
+      "target": [
+        "34002009002|perak"
+      ],
+      "meta": {
+        "id": "34002010.1",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o340020100041|זָהָב"
+      ],
+      "target": [
+        "34002009005|emas"
+      ],
+      "meta": {
+        "id": "34002010.2",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o340020100052|אֵין"
+      ],
+      "target": [
+        "34002009008|tidak"
+      ],
+      "meta": {
+        "id": "34002010.3",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o340020100061|קֵצֶה"
+      ],
+      "target": [
+        "34002009009|berkesudahan"
+      ],
+      "meta": {
+        "id": "34002010.4",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o340020100072|תְּכוּנָה"
+      ],
+      "target": [
+        "34002009010|persediaan"
+      ],
+      "meta": {
+        "id": "34002010.5",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o340020100081|כָּבֹד"
+      ],
+      "target": [
+        "34002009011|harta"
+      ],
+      "meta": {
+        "id": "34002010.6",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o340020100092|כֹּל"
+      ],
+      "target": [
+        "34002009015|segala"
+      ],
+      "meta": {
+        "id": "34002010.7",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o340020100101|כְּלִי"
+      ],
+      "target": [
+        "34002009016|barang"
+      ],
+      "meta": {
+        "id": "34002010.8",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o340020100111|חֶמְדָּה"
+      ],
+      "target": [
+        "34002009018|indah-indah"
+      ],
+      "meta": {
+        "id": "34002010.9",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o340020110042|לֵב"
+      ],
+      "target": [
+        "34002010007|Hati"
+      ],
+      "meta": {
+        "id": "34002011.1",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o340020110051|נָמֵס"
+      ],
+      "target": [
+        "34002010009|tawar"
+      ],
+      "meta": {
+        "id": "34002011.2",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o340020110071|בִּרְכַּיִם"
+      ],
+      "target": [
+        "34002010011|lutut"
+      ],
+      "meta": {
+        "id": "34002011.3",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o340020110082|חַלְחָלָה"
+      ],
+      "target": [
+        "34002010016|gemetar"
+      ],
+      "meta": {
+        "id": "34002011.4",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o340020110092|כָל"
+      ],
+      "target": [
+        "34002010014|Segenap"
+      ],
+      "meta": {
+        "id": "34002011.5",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o340020110101|מָתְנַיִם"
+      ],
+      "target": [
+        "34002010015|pinggang"
+      ],
+      "meta": {
+        "id": "34002011.6",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o340020110112|פְנֵי"
+      ],
+      "target": [
+        "34002010019|muka"
+      ],
+      "meta": {
+        "id": "34002011.7",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o340020110121|כֻלָּ"
+      ],
+      "target": [
+        "34002010020|sekalian"
+      ],
+      "meta": {
+        "id": "34002011.8",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o340020110131|קִבְּצוּ"
+      ],
+      "target": [
+        "34002010024|pasi"
+      ],
+      "meta": {
+        "id": "34002011.10",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o340020120011|אַיֵּה"
+      ],
+      "target": [
+        "34002011002|mana"
+      ],
+      "meta": {
+        "id": "34002012.1",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o340020120021|מְעוֹן"
+      ],
+      "target": [
+        "34002011004|persembunyian"
+      ],
+      "meta": {
+        "id": "34002012.2",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o340020120031|אֲרָיוֹת"
+      ],
+      "target": [
+        "34002011005|singa"
+      ],
+      "meta": {
+        "id": "34002012.3",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o340020120062|כְּפִרִים"
+      ],
+      "target": [
+        "34002011012|singa"
+      ],
+      "meta": {
+        "id": "34002012.4",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o340020120081|הָלַךְ"
+      ],
+      "target": [
+        "34002011014|pergi"
+      ],
+      "meta": {
+        "id": "34002012.5",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o340020120091|אַרְיֵה"
+      ],
+      "target": [
+        "34002011018|singa"
+      ],
+      "meta": {
+        "id": "34002012.6",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o340020120111|שָׁם"
+      ],
+      "target": [
+        "34002011021|mana"
+      ],
+      "meta": {
+        "id": "34002012.8",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o340020120142|אֵין"
+      ],
+      "target": [
+        "34002011023|ada"
+      ],
+      "meta": {
+        "id": "34002012.11",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o340020120151|מַחֲרִיד"
+      ],
+      "target": [
+        "34002011025|mengganggunya"
+      ],
+      "meta": {
+        "id": "34002012.12",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o340020130011|אַרְיֵה"
+      ],
+      "target": [
+        "34002012002|singa"
+      ],
+      "meta": {
+        "id": "34002013.1",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o340020130021|טֹרֵף"
+      ],
+      "target": [
+        "34002012004|menerkam"
+      ],
+      "meta": {
+        "id": "34002013.2",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o340020130032|דֵי"
+      ],
+      "target": [
+        "34002012006|cukup"
+      ],
+      "meta": {
+        "id": "34002013.3",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o340020130062|לִבְאֹתָי"
+      ],
+      "target": [
+        "34002012013|betina-betinanya"
+      ],
+      "meta": {
+        "id": "34002013.4",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o340020130072|יְמַלֵּא"
+      ],
+      "target": [
+        "34002012016|memenuhi"
+      ],
+      "meta": {
+        "id": "34002013.6",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o340020130081|טֶרֶף"
+      ],
+      "target": [
+        "34002012011|mangsa"
+      ],
+      "meta": {
+        "id": "34002013.7",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o340020130102|מְעֹנֹתָי"
+      ],
+      "target": [
+        "34002012021|persembunyiannya"
+      ],
+      "meta": {
+        "id": "34002013.8",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o340020130111|טְרֵפָה"
+      ],
+      "target": [
+        "34002012019|mangsa"
+      ],
+      "meta": {
+        "id": "34002013.10",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o340020140011|הִנְ"
+      ],
+      "target": [
+        "34002013001|Lihat"
+      ],
+      "meta": {
+        "id": "34002014.1",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o340020140031|נְאֻם"
+      ],
+      "target": [
+        "34002013008|demikianlah"
+      ],
+      "meta": {
+        "id": "34002014.3",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o340020140041|יְהוָה"
+      ],
+      "target": [
+        "34002013010|Tuhan"
+      ],
+      "meta": {
+        "id": "34002014.4",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o340020140062|הִבְעַרְתִּי"
+      ],
+      "target": [
+        "34002013016|membakar"
+      ],
+      "meta": {
+        "id": "34002014.6",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o340020140072|עָשָׁן"
+      ],
+      "target": [
+        "34002013019|asap"
+      ],
+      "meta": {
+        "id": "34002014.7",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o340020140081|רִכְבָּ"
+      ],
+      "target": [
+        "34002013017|keretamu"
+      ],
+      "meta": {
+        "id": "34002014.8",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o340020140092|כְפִירַיִ"
+      ],
+      "target": [
+        "34002013026|singa"
+      ],
+      "meta": {
+        "id": "34002014.10",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o340020140101|תֹּאכַל"
+      ],
+      "target": [
+        "34002013024|memakan"
+      ],
+      "meta": {
+        "id": "34002014.12",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o340020140111|חָרֶב"
+      ],
+      "target": [
+        "34002013022|pedang"
+      ],
+      "meta": {
+        "id": "34002014.13",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o340020140122|הִכְרַתִּי"
+      ],
+      "target": [
+        "34002013031|melenyapkan"
+      ],
+      "meta": {
+        "id": "34002014.14",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o340020140132|אֶרֶץ"
+      ],
+      "target": [
+        "34002013035|bumi"
+      ],
+      "meta": {
+        "id": "34002014.15",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o340020140141|טַרְפֵּ"
+      ],
+      "target": [
+        "34002013032|mangsamu"
+      ],
+      "meta": {
+        "id": "34002014.16",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o340020140152|לֹא"
+      ],
+      "target": [
+        "34002013040|tidak"
+      ],
+      "meta": {
+        "id": "34002014.18",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o340020140161|יִשָּׁמַע"
+      ],
+      "target": [
+        "34002013042|terdengar"
+      ],
+      "meta": {
+        "id": "34002014.19",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o340020140171|עוֹד"
+      ],
+      "target": [
+        "34002013043|lagi"
+      ],
+      "meta": {
+        "id": "34002014.20",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o340020140181|קוֹל"
+      ],
+      "target": [
+        "34002013038|suara"
+      ],
+      "meta": {
+        "id": "34002014.21",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o340020140191|מַלְאָכֵ"
+      ],
+      "target": [
+        "34002013039|utusan-utusanmu"
+      ],
+      "meta": {
+        "id": "34002014.22",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o340030010011|הוֹי"
+      ],
+      "target": [
+        "34003001001|Celakalah"
+      ],
+      "meta": {
+        "id": "34003001.1",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o340030010021|עִיר"
+      ],
+      "target": [
+        "34003001002|kota"
+      ],
+      "meta": {
+        "id": "34003001.2",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o340030010031|דָּמִים"
+      ],
+      "target": [
+        "34003001004|darah"
+      ],
+      "meta": {
+        "id": "34003001.3",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o340030010041|כֻּלָּ"
+      ],
+      "target": [
+        "34003001011|penuh"
+      ],
+      "meta": {
+        "id": "34003001.4",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o340030010081|לֹא"
+      ],
+      "target": [
+        "34003001016|tidak"
+      ],
+      "meta": {
+        "id": "34003001.6",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o340030020021|שׁוֹט"
+      ],
+      "target": [
+        "34003002004|cambuk"
+      ],
+      "meta": {
+        "id": "34003002.1",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o340030020041|רַעַשׁ"
+      ],
+      "target": [
+        "34003002006|derak-derik"
+      ],
+      "meta": {
+        "id": "34003002.2",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o340030020051|אוֹפָן"
+      ],
+      "target": [
+        "34003002007|roda"
+      ],
+      "meta": {
+        "id": "34003002.3",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o340030020062|סוּס"
+      ],
+      "target": [
+        "34003002011|kuda"
+      ],
+      "meta": {
+        "id": "34003002.4",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o340030020082|מֶרְכָּבָה"
+      ],
+      "target": [
+        "34003002016|kereta"
+      ],
+      "meta": {
+        "id": "34003002.5",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o340030030011|פָּרָשׁ"
+      ],
+      "target": [
+        "34003003002|berkuda"
+      ],
+      "meta": {
+        "id": "34003003.1",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o340030030021|מַעֲלֶה"
+      ],
+      "target": [
+        "34003003003|menyerang"
+      ],
+      "meta": {
+        "id": "34003003.2",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o340030030032|לַהַב"
+      ],
+      "target": [
+        "34003003006|bernyala-nyala"
+      ],
+      "meta": {
+        "id": "34003003.3",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o340030030041|חֶרֶב"
+      ],
+      "target": [
+        "34003003005|pedang"
+      ],
+      "meta": {
+        "id": "34003003.4",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o340030030052|בְרַק"
+      ],
+      "target": [
+        "34003003009|berkilat-kilat"
+      ],
+      "meta": {
+        "id": "34003003.5",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o340030030061|חֲנִית"
+      ],
+      "target": [
+        "34003003008|tombak"
+      ],
+      "meta": {
+        "id": "34003003.6",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o340030030072|רֹב"
+      ],
+      "target": [
+        "34003003011|Banyak"
+      ],
+      "meta": {
+        "id": "34003003.7",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o340030030081|חָלָל"
+      ],
+      "target": [
+        "34003003014|terbunuh"
+      ],
+      "meta": {
+        "id": "34003003.8",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o340030030101|פָּגֶר"
+      ],
+      "target": [
+        "34003003016|bangkai"
+      ],
+      "meta": {
+        "id": "34003003.9",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o340030030112|אֵין"
+      ],
+      "target": [
+        "34003003019|Tidak"
+      ],
+      "meta": {
+        "id": "34003003.10",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o340030030132|גְּוִיָּה"
+      ],
+      "target": [
+        "34003003021|mayat-mayat"
+      ],
+      "meta": {
+        "id": "34003003.11",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o340030030151|וְ"
+      ],
+      "target": [
+        "34003003025|jatuh"
+      ],
+      "meta": {
+        "id": "34003003.12",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o340030030152|כָשְׁלוּ"
+      ],
+      "target": [
+        "34003003024|tersandung"
+      ],
+      "meta": {
+        "id": "34003003.13",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o340030030161|בִּ"
+      ],
+      "target": [
+        "34003003027|mayat-mayat"
+      ],
+      "meta": {
+        "id": "34003003.14",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o340030040012|רֹב"
+      ],
+      "target": [
+        "34003004003|banyaknya"
+      ],
+      "meta": {
+        "id": "34003004.1",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o340030040021|זְנוּנֵי"
+      ],
+      "target": [
+        "34003004021|persundalannya"
+      ],
+      "meta": {
+        "id": "34003004.2",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o340030040031|זוֹנָה"
+      ],
+      "target": [
+        "34003004007|sundal"
+      ],
+      "meta": {
+        "id": "34003004.3",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o340030040071|כְּשָׁפִים"
+      ],
+      "target": [
+        "34003004015|sihir"
+      ],
+      "meta": {
+        "id": "34003004.4",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o340030040091|גּוֹיִם"
+      ],
+      "target": [
+        "34003004019|bangsa-bangsa"
+      ],
+      "meta": {
+        "id": "34003004.5",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o340030040112|מִשְׁפָּחוֹת"
+      ],
+      "target": [
+        "34003004023|kaum-kaum"
+      ],
+      "meta": {
+        "id": "34003004.8",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o340030050011|הִנְ"
+      ],
+      "target": [
+        "34003005001|Lihat"
+      ],
+      "meta": {
+        "id": "34003005.1",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o340030050031|נְאֻם"
+      ],
+      "target": [
+        "34003005009|firman"
+      ],
+      "meta": {
+        "id": "34003005.3",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o340030050041|יְהוָה"
+      ],
+      "target": [
+        "34003005010|Tuhan"
+      ],
+      "meta": {
+        "id": "34003005.4",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o340030050062|גִלֵּיתִי"
+      ],
+      "target": [
+        "34003005016|mengangkat"
+      ],
+      "meta": {
+        "id": "34003005.6",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o340030050071|שׁוּלַיִ"
+      ],
+      "target": [
+        "34003005018|kainmu"
+      ],
+      "meta": {
+        "id": "34003005.7",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o340030050091|פָּנָיִ"
+      ],
+      "target": [
+        "34003005021|mukamu"
+      ],
+      "meta": {
+        "id": "34003005.9",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o340030050111|גוֹיִם"
+      ],
+      "target": [
+        "34003005027|bangsa-bangsa"
+      ],
+      "meta": {
+        "id": "34003005.10",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o340030050132|מַמְלָכוֹת"
+      ],
+      "target": [
+        "34003005031|kerajaan-kerajaan"
+      ],
+      "meta": {
+        "id": "34003005.11",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o340030060012|הִשְׁלַכְתִּי"
+      ],
+      "target": [
+        "34003006003|melemparkan"
+      ],
+      "meta": {
+        "id": "34003006.1",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o340030060031|שִׁקֻּצִים"
+      ],
+      "target": [
+        "34003006005|keji"
+      ],
+      "meta": {
+        "id": "34003006.2",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o340030060042|נִבַּלְתִּי"
+      ],
+      "target": [
+        "34003006010|menghina"
+      ],
+      "meta": {
+        "id": "34003006.3",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o340030060052|שַׂמְתִּי"
+      ],
+      "target": [
+        "34003006014|membuat"
+      ],
+      "meta": {
+        "id": "34003006.4",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o340030060062|רֹאִי"
+      ],
+      "target": [
+        "34003006017|tontonan"
+      ],
+      "meta": {
+        "id": "34003006.6",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o340030070012|הָיָה"
+      ],
+      "target": [
+        "34003007001|Maka"
+      ],
+      "meta": {
+        "id": "34003007.1",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o340030070021|כָל"
+      ],
+      "target": [
+        "34003007002|semua"
+      ],
+      "meta": {
+        "id": "34003007.2",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o340030070031|רֹאַיִ"
+      ],
+      "target": [
+        "34003007005|melihat"
+      ],
+      "meta": {
+        "id": "34003007.3",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o340030070041|יִדּוֹד"
+      ],
+      "target": [
+        "34003007008|lari"
+      ],
+      "meta": {
+        "id": "34003007.5",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o340030070062|אָמַר"
+      ],
+      "target": [
+        "34003007012|berkata"
+      ],
+      "meta": {
+        "id": "34003007.6",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o340030070071|שָׁדְּדָה"
+      ],
+      "target": [
+        "34003007021|meratapi"
+      ],
+      "meta": {
+        "id": "34003007.7",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o340030070081|נִינְוֵה"
+      ],
+      "target": [
+        "34003007015|Niniwe"
+      ],
+      "meta": {
+        "id": "34003007.8",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o340030070091|מִי"
+      ],
+      "target": [
+        "34003007019|Siapakah"
+      ],
+      "meta": {
+        "id": "34003007.9",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o340030070131|אֲבַקֵּשׁ"
+      ],
+      "target": [
+        "34003007028|mencari"
+      ],
+      "meta": {
+        "id": "34003007.11",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o340030070141|מְנַחֲמִים"
+      ],
+      "target": [
+        "34003007029|penghibur-penghibur"
+      ],
+      "meta": {
+        "id": "34003007.12",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o340030080011|הֲ"
+      ],
+      "target": [
+        "34003008001|Adakah"
+      ],
+      "meta": {
+        "id": "34003008.1",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o340030080012|תֵיטְבִי"
+      ],
+      "target": [
+        "34003008004|baik"
+      ],
+      "meta": {
+        "id": "34003008.2",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o340030080022|נֹּא"
+      ],
+      "target": [
+        "34003008006|Tebe"
+      ],
+      "meta": {
+        "id": "34003008.3",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o340030080031|אָמוֹן"
+      ],
+      "target": [
+        "34003008010|Amon"
+      ],
+      "meta": {
+        "id": "34003008.4",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o340030080042|יֹּשְׁבָה"
+      ],
+      "target": [
+        "34003008013|letaknya"
+      ],
+      "meta": {
+        "id": "34003008.6",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o340030080052|יְאֹרִים"
+      ],
+      "target": [
+        "34003008016|Nil"
+      ],
+      "meta": {
+        "id": "34003008.7",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o340030080071|סָבִיב"
+      ],
+      "target": [
+        "34003008019|air"
+      ],
+      "meta": {
+        "id": "34003008.9",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o340030080081|לָ"
+      ],
+      "target": [
+        "34003008020|sekelilingnya"
+      ],
+      "meta": {
+        "id": "34003008.10",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o340030080111|יָם"
+      ],
+      "target": [
+        "34003008023|tembok"
+      ],
+      "meta": {
+        "id": "34003008.12",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o340030080121|מִ"
+      ],
+      "target": [
+        "34003008026|laut"
+      ],
+      "meta": {
+        "id": "34003008.13",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o340030090011|כּוּשׁ"
+      ],
+      "target": [
+        "34003009001|Etiopia"
+      ],
+      "meta": {
+        "id": "34003009.1",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o340030090021|עָצְמָ"
+      ],
+      "target": [
+        "34003009003|kekuatannya"
+      ],
+      "meta": {
+        "id": "34003009.2",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o340030090032|מִצְרַיִם"
+      ],
+      "target": [
+        "34003009006|Mesir"
+      ],
+      "meta": {
+        "id": "34003009.3",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o340030090042|אֵין"
+      ],
+      "target": [
+        "34003009009|tidak"
+      ],
+      "meta": {
+        "id": "34003009.4",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o340030090051|קֵצֶה"
+      ],
+      "target": [
+        "34003009010|terbatas"
+      ],
+      "meta": {
+        "id": "34003009.5",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o340030090061|פּוּט"
+      ],
+      "target": [
+        "34003009012|Put"
+      ],
+      "meta": {
+        "id": "34003009.6",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o340030090072|לוּבִים"
+      ],
+      "target": [
+        "34003009015|Libia"
+      ],
+      "meta": {
+        "id": "34003009.7",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o340030090081|הָיוּ"
+      ],
+      "target": [
+        "34003009002|adalah"
+      ],
+      "meta": {
+        "id": "34003009.8",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o340030100011|גַּם"
+      ],
+      "target": [
+        "34003010004|pun"
+      ],
+      "meta": {
+        "id": "34003010.1",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o340030100032|גֹּלָה"
+      ],
+      "target": [
+        "34003010009|pembuangan"
+      ],
+      "meta": {
+        "id": "34003010.2",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o340030100041|הָלְכָה"
+      ],
+      "target": [
+        "34003010006|pergi"
+      ],
+      "meta": {
+        "id": "34003010.3",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o340030100052|שֶּׁבִי"
+      ],
+      "target": [
+        "34003010015|tawanan"
+      ],
+      "meta": {
+        "id": "34003010.4",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o340030100061|גַּם"
+      ],
+      "target": [
+        "34003010018|pun"
+      ],
+      "meta": {
+        "id": "34003010.5",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o340030100071|עֹלָלֶי"
+      ],
+      "target": [
+        "34003010017|Bayi-bayinya"
+      ],
+      "meta": {
+        "id": "34003010.6",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o340030100101|כָּל"
+      ],
+      "target": [
+        "34003010022|segala"
+      ],
+      "meta": {
+        "id": "34003010.9",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o340030100111|חוּצוֹת"
+      ],
+      "target": [
+        "34003010023|jalan"
+      ],
+      "meta": {
+        "id": "34003010.10",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o340030100131|נִכְבַּדֶּי"
+      ],
+      "target": [
+        "34003010029|dihormati"
+      ],
+      "meta": {
+        "id": "34003010.11",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o340030100141|יַדּוּ"
+      ],
+      "target": [
+        "34003010031|undi"
+      ],
+      "meta": {
+        "id": "34003010.13",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o340030100162|כָל"
+      ],
+      "target": [
+        "34003010026|semua"
+      ],
+      "meta": {
+        "id": "34003010.15",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o340030100181|רֻתְּקוּ"
+      ],
+      "target": [
+        "34003010038|rantai"
+      ],
+      "meta": {
+        "id": "34003010.16",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o340030100192|זִּקִּים"
+      ],
+      "target": [
+        "34003010036|dibelenggu"
+      ],
+      "meta": {
+        "id": "34003010.17",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o340030110011|גַּם"
+      ],
+      "target": [
+        "34003011002|pun"
+      ],
+      "meta": {
+        "id": "34003011.1",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o340030110031|תִּשְׁכְּרִי"
+      ],
+      "target": [
+        "34003011005|mabuk"
+      ],
+      "meta": {
+        "id": "34003011.2",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o340030110061|גַּם"
+      ],
+      "target": [
+        "34003011013|pun"
+      ],
+      "meta": {
+        "id": "34003011.3",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o340030110081|תְּבַקְשִׁי"
+      ],
+      "target": [
+        "34003011015|mencari"
+      ],
+      "meta": {
+        "id": "34003011.4",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o340030110091|מָעוֹז"
+      ],
+      "target": [
+        "34003011017|perlindungan"
+      ],
+      "meta": {
+        "id": "34003011.5",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o340030110102|אוֹיֵב"
+      ],
+      "target": [
+        "34003011019|musuh"
+      ],
+      "meta": {
+        "id": "34003011.6",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o340030120011|כָּל"
+      ],
+      "target": [
+        "34003012001|Segala"
+      ],
+      "meta": {
+        "id": "34003012.1",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o340030120021|מִבְצָרַיִ"
+      ],
+      "target": [
+        "34003012002|kubumu"
+      ],
+      "meta": {
+        "id": "34003012.2",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o340030120031|תְּאֵנִים"
+      ],
+      "target": [
+        "34003012006|ara"
+      ],
+      "meta": {
+        "id": "34003012.4",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o340030120051|בִּכּוּרִים"
+      ],
+      "target": [
+        "34003012011|masak"
+      ],
+      "meta": {
+        "id": "34003012.5",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o340030120061|אִם"
+      ],
+      "target": [
+        "34003012004|seperti"
+      ],
+      "meta": {
+        "id": "34003012.6",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o340030120071|יִנּוֹעוּ"
+      ],
+      "target": [
+        "34003012015|diayunkan"
+      ],
+      "meta": {
+        "id": "34003012.7",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o340030120082|נָפְלוּ"
+      ],
+      "target": [
+        "34003012018|jatuhlah"
+      ],
+      "meta": {
+        "id": "34003012.8",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o340030120101|פִּי"
+      ],
+      "target": [
+        "34003012022|mulut"
+      ],
+      "meta": {
+        "id": "34003012.9",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o340030120111|אוֹכֵל"
+      ],
+      "target": [
+        "34003012026|memakannya"
+      ],
+      "meta": {
+        "id": "34003012.10",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o340030130011|הִנֵּה"
+      ],
+      "target": [
+        "34003013001|Sesungguhnya"
+      ],
+      "meta": {
+        "id": "34003013.1",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o340030130042|קִרְבֵּ"
+      ],
+      "target": [
+        "34003013006|tengah-tengahmu"
+      ],
+      "meta": {
+        "id": "34003013.2",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o340030130052|אֹיְבַיִ"
+      ],
+      "target": [
+        "34003013017|musuhmu"
+      ],
+      "meta": {
+        "id": "34003013.4",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o340030130061|פָּתוֹחַ"
+      ],
+      "target": [
+        "34003013014|terbuka"
+      ],
+      "meta": {
+        "id": "34003013.6",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o340030130081|שַׁעֲרֵי"
+      ],
+      "target": [
+        "34003013012|gerbang"
+      ],
+      "meta": {
+        "id": "34003013.8",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o340030130101|אָכְלָה"
+      ],
+      "target": [
+        "34003013021|memakan"
+      ],
+      "meta": {
+        "id": "34003013.9",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o340030130111|אֵשׁ"
+      ],
+      "target": [
+        "34003013019|api"
+      ],
+      "meta": {
+        "id": "34003013.10",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o340030130121|בְּרִיחָיִ"
+      ],
+      "target": [
+        "34003013023|palang"
+      ],
+      "meta": {
+        "id": "34003013.11",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o340030140011|מֵי"
+      ],
+      "target": [
+        "34003014002|air"
+      ],
+      "meta": {
+        "id": "34003014.1",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o340030140021|מָצוֹר"
+      ],
+      "target": [
+        "34003014004|pengepungan"
+      ],
+      "meta": {
+        "id": "34003014.2",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o340030140031|שַׁאֲבִי"
+      ],
+      "target": [
+        "34003014001|Timbalah"
+      ],
+      "meta": {
+        "id": "34003014.3",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o340030140051|חַזְּקִי"
+      ],
+      "target": [
+        "34003014006|perkuatlah"
+      ],
+      "meta": {
+        "id": "34003014.4",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o340030140082|טִּיט"
+      ],
+      "target": [
+        "34003014010|lumpur"
+      ],
+      "meta": {
+        "id": "34003014.5",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o340030140102|חֹמֶר"
+      ],
+      "target": [
+        "34003014014|liat"
+      ],
+      "meta": {
+        "id": "34003014.6",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o340030140121|מַלְבֵּן"
+      ],
+      "target": [
+        "34003014019|bata"
+      ],
+      "meta": {
+        "id": "34003014.7",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o340030150011|שָׁם"
+      ],
+      "target": [
+        "34003015002|sana"
+      ],
+      "meta": {
+        "id": "34003015.1",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o340030150021|תֹּאכְלֵ"
+      ],
+      "target": [
+        "34003015005|memakan"
+      ],
+      "meta": {
+        "id": "34003015.2",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o340030150031|אֵשׁ"
+      ],
+      "target": [
+        "34003015003|api"
+      ],
+      "meta": {
+        "id": "34003015.4",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o340030150051|חֶרֶב"
+      ],
+      "target": [
+        "34003015009|pedang"
+      ],
+      "meta": {
+        "id": "34003015.5",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o340030150061|תֹּאכְלֵ"
+      ],
+      "target": [
+        "34003015015|memakan"
+      ],
+      "meta": {
+        "id": "34003015.6",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o340030150072|יָּלֶק"
+      ],
+      "target": [
+        "34003015019|pelompat"
+      ],
+      "meta": {
+        "id": "34003015.8",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o340030150092|יֶּלֶק"
+      ],
+      "target": [
+        "34003015027|pelompat"
+      ],
+      "meta": {
+        "id": "34003015.9",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o340030150112|אַרְבֶּה"
+      ],
+      "target": [
+        "34003015018|belalang"
+      ],
+      "meta": {
+        "id": "34003015.10",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o340030160021|רֹכְלַיִ"
+      ],
+      "target": [
+        "34003016004|dagangmu"
+      ],
+      "meta": {
+        "id": "34003016.1",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o340030160032|כּוֹכְבֵי"
+      ],
+      "target": [
+        "34003016007|bintang-bintang"
+      ],
+      "meta": {
+        "id": "34003016.3",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o340030160042|שָּׁמָיִם"
+      ],
+      "target": [
+        "34003016009|langit"
+      ],
+      "meta": {
+        "id": "34003016.4",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o340030160051|יֶלֶק"
+      ],
+      "target": [
+        "34003016013|pelompat"
+      ],
+      "meta": {
+        "id": "34003016.5",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o340030160072|יָּעֹף"
+      ],
+      "target": [
+        "34003016018|terbang"
+      ],
+      "meta": {
+        "id": "34003016.6",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o340030170022|אַרְבֶּה"
+      ],
+      "target": [
+        "34003017005|belalang"
+      ],
+      "meta": {
+        "id": "34003017.1",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o340030170032|טַפְסְרַיִ"
+      ],
+      "target": [
+        "34003017011|kawanan"
+      ],
+      "meta": {
+        "id": "34003017.2",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o340030170051|גֹּבָי"
+      ],
+      "target": [
+        "34003017012|belalang"
+      ],
+      "meta": {
+        "id": "34003017.5",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o340030170072|גְּדֵרוֹת"
+      ],
+      "target": [
+        "34003017017|tembok-tembok"
+      ],
+      "meta": {
+        "id": "34003017.6",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o340030170082|יוֹם"
+      ],
+      "target": [
+        "34003017019|waktu"
+      ],
+      "meta": {
+        "id": "34003017.7",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o340030170091|קָרָה"
+      ],
+      "target": [
+        "34003017020|dingin"
+      ],
+      "meta": {
+        "id": "34003017.8",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o340030170101|שֶׁמֶשׁ"
+      ],
+      "target": [
+        "34003017024|matahari"
+      ],
+      "meta": {
+        "id": "34003017.9",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o340030170111|זָרְחָה"
+      ],
+      "target": [
+        "34003017025|terbit"
+      ],
+      "meta": {
+        "id": "34003017.10",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o340030170122|נוֹדַד"
+      ],
+      "target": [
+        "34003017028|lari"
+      ],
+      "meta": {
+        "id": "34003017.11",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o340030170132|לֹא"
+      ],
+      "target": [
+        "34003017031|tidak"
+      ],
+      "meta": {
+        "id": "34003017.12",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o340030170151|מְקוֹמ"
+      ],
+      "target": [
+        "34003017033|tempatnya"
+      ],
+      "meta": {
+        "id": "34003017.13",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o340030170161|אַיָּ"
+      ],
+      "target": [
+        "34003017006|pindahan"
+      ],
+      "meta": {
+        "id": "34003017.15",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o340030180011|נָמוּ"
+      ],
+      "target": [
+        "34003018004|terlelapnya"
+      ],
+      "meta": {
+        "id": "34003018.1",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o340030180021|רֹעֶי"
+      ],
+      "target": [
+        "34003018006|gembalamu"
+      ],
+      "meta": {
+        "id": "34003018.2",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o340030180031|מֶלֶךְ"
+      ],
+      "target": [
+        "34003018009|raja"
+      ],
+      "meta": {
+        "id": "34003018.4",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o340030180041|אַשּׁוּר"
+      ],
+      "target": [
+        "34003018011|Asyur"
+      ],
+      "meta": {
+        "id": "34003018.5",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o340030180071|נָפֹשׁוּ"
+      ],
+      "target": [
+        "34003018018|berserak-serak"
+      ],
+      "meta": {
+        "id": "34003018.6",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o340030180102|הָרִים"
+      ],
+      "target": [
+        "34003018020|gunung-gunung"
+      ],
+      "meta": {
+        "id": "34003018.7",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o340030180112|אֵין"
+      ],
+      "target": [
+        "34003018024|ada"
+      ],
+      "meta": {
+        "id": "34003018.8",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o340030180121|מְקַבֵּץ"
+      ],
+      "target": [
+        "34003018026|mengumpulkan"
+      ],
+      "meta": {
+        "id": "34003018.9",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o340030190011|אֵין"
+      ],
+      "target": [
+        "34003019007|tidak"
+      ],
+      "meta": {
+        "id": "34003019.1",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o340030190021|כֵּהָה"
+      ],
+      "target": [
+        "34003019002|pengobatan"
+      ],
+      "meta": {
+        "id": "34003019.2",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o340030190041|נַחְלָה"
+      ],
+      "target": [
+        "34003019008|tersembuhkan"
+      ],
+      "meta": {
+        "id": "34003019.3",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o340030190051|מַכָּתֶ"
+      ],
+      "target": [
+        "34003019004|cederamu"
+      ],
+      "meta": {
+        "id": "34003019.4",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o340030190061|כֹּל"
+      ],
+      "target": [
+        "34003019010|Semua"
+      ],
+      "meta": {
+        "id": "34003019.5",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o340030190071|שֹׁמְעֵי"
+      ],
+      "target": [
+        "34003019013|mendengar"
+      ],
+      "meta": {
+        "id": "34003019.6",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o340030190081|שִׁמְעֲ"
+      ],
+      "target": [
+        "34003019014|tentang"
+      ],
+      "meta": {
+        "id": "34003019.7",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o340030190091|תָּקְעוּ"
+      ],
+      "target": [
+        "34003019016|bertepuk"
+      ],
+      "meta": {
+        "id": "34003019.9",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o340030190101|כַף"
+      ],
+      "target": [
+        "34003019017|tangan"
+      ],
+      "meta": {
+        "id": "34003019.10",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o340030190121|כִּי"
+      ],
+      "target": [
+        "34003019021|sebab"
+      ],
+      "meta": {
+        "id": "34003019.11",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o340030190141|מִי"
+      ],
+      "target": [
+        "34003019023|siapakah"
+      ],
+      "meta": {
+        "id": "34003019.12",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o340030190151|לֹא"
+      ],
+      "target": [
+        "34003019024|tidak"
+      ],
+      "meta": {
+        "id": "34003019.13",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o340030190171|רָעָתְ"
+      ],
+      "target": [
+        "34003019027|jahatmu"
+      ],
+      "meta": {
+        "id": "34003019.14",
+        "origin": "manual"
+      }
+    }
+  ]
+}

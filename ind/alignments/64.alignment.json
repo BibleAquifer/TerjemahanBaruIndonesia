@@ -1,0 +1,1331 @@
+{
+  "documents": [
+    {
+      "docid": "SBLGNT",
+      "scheme": "BCVWP|token-string"
+    },
+    {
+      "docid": "TBI",
+      "scheme": "BCVWP|token-string"
+    }
+  ],
+  "meta": {
+    "conformsTo": "0.3",
+    "creator": "Mission Mutual"
+  },
+  "roles": [
+    "source",
+    "target"
+  ],
+  "type": "translation",
+  "records": [
+    {
+      "source": [
+        "n64001001002|πρεσβύτερος"
+      ],
+      "target": [
+        "64001001002|penatua"
+      ],
+      "meta": {
+        "id": "64001001.1",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "n64001001003|Γαΐῳ"
+      ],
+      "target": [
+        "64001001004|Gayus"
+      ],
+      "meta": {
+        "id": "64001001.2",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "n64001001005|ἀγαπητῷ"
+      ],
+      "target": [
+        "64001001006|kekasih"
+      ],
+      "meta": {
+        "id": "64001001.3",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "n64001001010|ἀληθείᾳ"
+      ],
+      "target": [
+        "64001001011|kebenaran"
+      ],
+      "meta": {
+        "id": "64001001.5",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "n64001002001|Ἀγαπητέ"
+      ],
+      "target": [
+        "64001002003|kekasih"
+      ],
+      "meta": {
+        "id": "64001002.1",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "n64001002003|πάντων"
+      ],
+      "target": [
+        "64001002015|segala"
+      ],
+      "meta": {
+        "id": "64001002.2",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "n64001002004|εὔχομαί"
+      ],
+      "target": [
+        "64001002006|berdoa"
+      ],
+      "meta": {
+        "id": "64001002.3",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "n64001002006|εὐοδοῦσθαι"
+      ],
+      "target": [
+        "64001002008|semoga"
+      ],
+      "meta": {
+        "id": "64001002.4",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "n64001002008|ὑγιαίνειν"
+      ],
+      "target": [
+        "64001002012|sehat-sehat"
+      ],
+      "meta": {
+        "id": "64001002.5",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "n64001002009|καθὼς"
+      ],
+      "target": [
+        "64001002019|seperti"
+      ],
+      "meta": {
+        "id": "64001002.6",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "n64001002013|ψυχή"
+      ],
+      "target": [
+        "64001002020|jiwamu"
+      ],
+      "meta": {
+        "id": "64001002.8",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "n64001003001|ἐχάρην"
+      ],
+      "target": [
+        "64001003004|bersukacita"
+      ],
+      "meta": {
+        "id": "64001003.1",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "n64001003002|γὰρ"
+      ],
+      "target": [
+        "64001003001|Sebab"
+      ],
+      "meta": {
+        "id": "64001003.2",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "n64001003003|λίαν"
+      ],
+      "target": [
+        "64001003003|sangat"
+      ],
+      "meta": {
+        "id": "64001003.3",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "n64001003004|ἐρχομένων"
+      ],
+      "target": [
+        "64001003009|datang"
+      ],
+      "meta": {
+        "id": "64001003.4",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "n64001003005|ἀδελφῶν"
+      ],
+      "target": [
+        "64001003008|saudara"
+      ],
+      "meta": {
+        "id": "64001003.5",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "n64001003007|μαρτυρούντων"
+      ],
+      "target": [
+        "64001003012|kesaksian"
+      ],
+      "meta": {
+        "id": "64001003.6",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "n64001003010|ἀληθείᾳ"
+      ],
+      "target": [
+        "64001003016|kebenaran"
+      ],
+      "meta": {
+        "id": "64001003.7",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "n64001003011|καθὼς"
+      ],
+      "target": [
+        "64001003019|memang"
+      ],
+      "meta": {
+        "id": "64001003.8",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "n64001003014|ἀληθείᾳ"
+      ],
+      "target": [
+        "64001003023|kebenaran"
+      ],
+      "meta": {
+        "id": "64001003.9",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "n64001003015|περιπατεῖς"
+      ],
+      "target": [
+        "64001003021|hidup"
+      ],
+      "meta": {
+        "id": "64001003.10",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "n64001004001|μειζοτέραν"
+      ],
+      "target": [
+        "64001004007|besar"
+      ],
+      "meta": {
+        "id": "64001004.1",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "n64001004003|οὐ"
+      ],
+      "target": [
+        "64001004002|tidak"
+      ],
+      "meta": {
+        "id": "64001004.2",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "n64001004004|ἔχω"
+      ],
+      "target": [
+        "64001004003|ada"
+      ],
+      "meta": {
+        "id": "64001004.3",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "n64001004005|χαράν"
+      ],
+      "target": [
+        "64001004004|sukacita"
+      ],
+      "meta": {
+        "id": "64001004.4",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "n64001004007|ἀκούω"
+      ],
+      "target": [
+        "64001004010|mendengar"
+      ],
+      "meta": {
+        "id": "64001004.5",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "n64001004010|τέκνα"
+      ],
+      "target": [
+        "64001004013|anak-anakku"
+      ],
+      "meta": {
+        "id": "64001004.6",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "n64001004013|ἀληθείᾳ"
+      ],
+      "target": [
+        "64001004016|kebenaran"
+      ],
+      "meta": {
+        "id": "64001004.7",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "n64001004014|περιπατοῦντα"
+      ],
+      "target": [
+        "64001004014|hidup"
+      ],
+      "meta": {
+        "id": "64001004.8",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "n64001005001|Ἀγαπητέ"
+      ],
+      "target": [
+        "64001005003|kekasih"
+      ],
+      "meta": {
+        "id": "64001005.1",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "n64001005002|πιστὸν"
+      ],
+      "target": [
+        "64001005009|percaya"
+      ],
+      "meta": {
+        "id": "64001005.2",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "n64001005003|ποιεῖς"
+      ],
+      "target": [
+        "64001005014|berbuat"
+      ],
+      "meta": {
+        "id": "64001005.3",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "n64001005009|ἀδελφοὺς"
+      ],
+      "target": [
+        "64001005018|saudara-saudara"
+      ],
+      "meta": {
+        "id": "64001005.4",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "n64001005012|ξένους"
+      ],
+      "target": [
+        "64001005024|asing"
+      ],
+      "meta": {
+        "id": "64001005.5",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "n64001006002|ἐμαρτύρησάν"
+      ],
+      "target": [
+        "64001006004|kesaksian"
+      ],
+      "meta": {
+        "id": "64001006.1",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "n64001006005|ἀγάπῃ"
+      ],
+      "target": [
+        "64001006009|kasihmu"
+      ],
+      "meta": {
+        "id": "64001006.2",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "n64001006006|ἐνώπιον"
+      ],
+      "target": [
+        "64001006006|hadapan"
+      ],
+      "meta": {
+        "id": "64001006.3",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "n64001006007|ἐκκλησίας"
+      ],
+      "target": [
+        "64001006007|jemaat"
+      ],
+      "meta": {
+        "id": "64001006.4",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "n64001006009|καλῶς"
+      ],
+      "target": [
+        "64001006012|benar"
+      ],
+      "meta": {
+        "id": "64001006.5",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "n64001006010|ποιήσεις"
+      ],
+      "target": [
+        "64001006011|Baik"
+      ],
+      "meta": {
+        "id": "64001006.6",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "n64001006011|προπέμψας"
+      ],
+      "target": [
+        "64001006020|perjalanan"
+      ],
+      "meta": {
+        "id": "64001006.7",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "n64001006014|θεοῦ"
+      ],
+      "target": [
+        "64001006029|Allah"
+      ],
+      "meta": {
+        "id": "64001006.8",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "n64001007002|γὰρ"
+      ],
+      "target": [
+        "64001007001|Sebab"
+      ],
+      "meta": {
+        "id": "64001007.1",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "n64001007004|ὀνόματος"
+      ],
+      "target": [
+        "64001007003|nama-Nya"
+      ],
+      "meta": {
+        "id": "64001007.2",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "n64001007005|ἐξῆλθον"
+      ],
+      "target": [
+        "64001007006|berangkat"
+      ],
+      "meta": {
+        "id": "64001007.3",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "n64001007006|μηδὲν"
+      ],
+      "target": [
+        "64001007011|pun"
+      ],
+      "meta": {
+        "id": "64001007.4",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "n64001007007|λαμβάνοντες"
+      ],
+      "target": [
+        "64001007009|menerima"
+      ],
+      "meta": {
+        "id": "64001007.5",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "n64001007010|ἐθνικῶν"
+      ],
+      "target": [
+        "64001007016|mengenal"
+      ],
+      "meta": {
+        "id": "64001007.6",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "n64001008003|ὀφείλομεν"
+      ],
+      "target": [
+        "64001008002|wajib"
+      ],
+      "meta": {
+        "id": "64001008.1",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "n64001008006|τοιούτους"
+      ],
+      "target": [
+        "64001008006|demikian"
+      ],
+      "meta": {
+        "id": "64001008.2",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "n64001008007|ἵνα"
+      ],
+      "target": [
+        "64001008008|supaya"
+      ],
+      "meta": {
+        "id": "64001008.3",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "n64001008008|συνεργοὶ"
+      ],
+      "target": [
+        "64001008014|pekerjaan"
+      ],
+      "meta": {
+        "id": "64001008.4",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "n64001008011|ἀληθείᾳ"
+      ],
+      "target": [
+        "64001008017|kebenaran"
+      ],
+      "meta": {
+        "id": "64001008.6",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "n64001009001|Ἔγραψά"
+      ],
+      "target": [
+        "64001009003|menulis"
+      ],
+      "meta": {
+        "id": "64001009.1",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "n64001009004|ἐκκλησίᾳ"
+      ],
+      "target": [
+        "64001009006|jemaat"
+      ],
+      "meta": {
+        "id": "64001009.2",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "n64001009005|ἀλλ"
+      ],
+      "target": [
+        "64001009008|tetapi"
+      ],
+      "meta": {
+        "id": "64001009.3",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "n64001009008|αὐτῶν"
+      ],
+      "target": [
+        "64001009017|mereka"
+      ],
+      "meta": {
+        "id": "64001009.4",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "n64001009009|Διοτρέφης"
+      ],
+      "target": [
+        "64001009009|Diotrefes"
+      ],
+      "meta": {
+        "id": "64001009.5",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "n64001009010|οὐ"
+      ],
+      "target": [
+        "64001009019|tidak"
+      ],
+      "meta": {
+        "id": "64001009.6",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "n64001009011|ἐπιδέχεται"
+      ],
+      "target": [
+        "64001009020|mau"
+      ],
+      "meta": {
+        "id": "64001009.7",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "n64001009012|ἡμᾶς"
+      ],
+      "target": [
+        "64001009001|Aku"
+      ],
+      "meta": {
+        "id": "64001009.8",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "n64001010004|ἔλθω"
+      ],
+      "target": [
+        "64001010006|datang"
+      ],
+      "meta": {
+        "id": "64001010.1",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "n64001010005|ὑπομνήσω"
+      ],
+      "target": [
+        "64001010011|perhatian"
+      ],
+      "meta": {
+        "id": "64001010.2",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "n64001010006|αὐτοῦ"
+      ],
+      "target": [
+        "64001010055|mereka"
+      ],
+      "meta": {
+        "id": "64001010.3",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "n64001010008|ἔργα"
+      ],
+      "target": [
+        "64001010014|perbuatan"
+      ],
+      "meta": {
+        "id": "64001010.4",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "n64001010010|ποιεῖ"
+      ],
+      "target": [
+        "64001010017|dilakukannya"
+      ],
+      "meta": {
+        "id": "64001010.5",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "n64001010012|πονηροῖς"
+      ],
+      "target": [
+        "64001010025|kasar"
+      ],
+      "meta": {
+        "id": "64001010.6",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "n64001010014|ἡμᾶς"
+      ],
+      "target": [
+        "64001010005|aku"
+      ],
+      "meta": {
+        "id": "64001010.7",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "n64001010016|μὴ"
+      ],
+      "target": [
+        "64001010040|tidak"
+      ],
+      "meta": {
+        "id": "64001010.8",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "n64001010017|ἀρκούμενος"
+      ],
+      "target": [
+        "64001010032|puas"
+      ],
+      "meta": {
+        "id": "64001010.9",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "n64001010024|ἀδελφοὺς"
+      ],
+      "target": [
+        "64001010043|saudara-saudara"
+      ],
+      "meta": {
+        "id": "64001010.12",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "n64001010027|βουλομένους"
+      ],
+      "target": [
+        "64001010053|mau"
+      ],
+      "meta": {
+        "id": "64001010.13",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "n64001010028|κωλύει"
+      ],
+      "target": [
+        "64001010049|mencegah"
+      ],
+      "meta": {
+        "id": "64001010.14",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "n64001010032|ἐκκλησίας"
+      ],
+      "target": [
+        "64001010061|jemaat"
+      ],
+      "meta": {
+        "id": "64001010.15",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "n64001011001|Ἀγαπητέ"
+      ],
+      "target": [
+        "64001011003|kekasih"
+      ],
+      "meta": {
+        "id": "64001011.1",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "n64001011002|μὴ"
+      ],
+      "target": [
+        "64001011029|tidak"
+      ],
+      "meta": {
+        "id": "64001011.2",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "n64001011003|μιμοῦ"
+      ],
+      "target": [
+        "64001011006|meniru"
+      ],
+      "meta": {
+        "id": "64001011.3",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "n64001011005|κακὸν"
+      ],
+      "target": [
+        "64001011008|jahat"
+      ],
+      "meta": {
+        "id": "64001011.4",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "n64001011006|ἀλλὰ"
+      ],
+      "target": [
+        "64001011023|tetapi"
+      ],
+      "meta": {
+        "id": "64001011.5",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "n64001011008|ἀγαθόν"
+      ],
+      "target": [
+        "64001011012|baik"
+      ],
+      "meta": {
+        "id": "64001011.6",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "n64001011009|ὁ"
+      ],
+      "target": [
+        "64001011014|Barangsiapa"
+      ],
+      "meta": {
+        "id": "64001011.7",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "n64001011010|ἀγαθοποιῶν"
+      ],
+      "target": [
+        "64001011016|baik"
+      ],
+      "meta": {
+        "id": "64001011.8",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "n64001011013|θεοῦ"
+      ],
+      "target": [
+        "64001011021|Allah"
+      ],
+      "meta": {
+        "id": "64001011.9",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "n64001011016|κακοποιῶν"
+      ],
+      "target": [
+        "64001011015|berbuat"
+      ],
+      "meta": {
+        "id": "64001011.10",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "n64001011018|ἑώρακεν"
+      ],
+      "target": [
+        "64001011031|melihat"
+      ],
+      "meta": {
+        "id": "64001011.12",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "n64001011020|θεόν"
+      ],
+      "target": [
+        "64001011032|Allah"
+      ],
+      "meta": {
+        "id": "64001011.13",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "n64001012001|Δημητρίῳ"
+      ],
+      "target": [
+        "64001012002|Demetrius"
+      ],
+      "meta": {
+        "id": "64001012.1",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "n64001012002|μεμαρτύρηται"
+      ],
+      "target": [
+        "64001012006|kesaksian"
+      ],
+      "meta": {
+        "id": "64001012.2",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "n64001012004|πάντων"
+      ],
+      "target": [
+        "64001012003|semua"
+      ],
+      "meta": {
+        "id": "64001012.3",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "n64001012009|ἀληθείας"
+      ],
+      "target": [
+        "64001012011|kebenaran"
+      ],
+      "meta": {
+        "id": "64001012.4",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "n64001012013|μαρτυροῦμεν"
+      ],
+      "target": [
+        "64001012014|kesaksian"
+      ],
+      "meta": {
+        "id": "64001012.5",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "n64001012015|οἶδας"
+      ],
+      "target": [
+        "64001012030|tahu"
+      ],
+      "meta": {
+        "id": "64001012.6",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "n64001012018|μαρτυρία"
+      ],
+      "target": [
+        "64001012022|kesaksian"
+      ],
+      "meta": {
+        "id": "64001012.7",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "n64001012020|ἀληθής"
+      ],
+      "target": [
+        "64001012036|benar"
+      ],
+      "meta": {
+        "id": "64001012.8",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "n64001013001|Πολλὰ"
+      ],
+      "target": [
+        "64001013001|Banyak"
+      ],
+      "meta": {
+        "id": "64001013.1",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "n64001013003|γράψαι"
+      ],
+      "target": [
+        "64001013012|menulis"
+      ],
+      "meta": {
+        "id": "64001013.2",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "n64001013005|ἀλλ"
+      ],
+      "target": [
+        "64001013008|tetapi"
+      ],
+      "meta": {
+        "id": "64001013.3",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "n64001013006|οὐ"
+      ],
+      "target": [
+        "64001013010|tidak"
+      ],
+      "meta": {
+        "id": "64001013.4",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "n64001013007|θέλω"
+      ],
+      "target": [
+        "64001013011|mau"
+      ],
+      "meta": {
+        "id": "64001013.5",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "n64001013009|μέλανος"
+      ],
+      "target": [
+        "64001013015|tinta"
+      ],
+      "meta": {
+        "id": "64001013.6",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "n64001013013|γράφειν"
+      ],
+      "target": [
+        "64001013005|kutuliskan"
+      ],
+      "meta": {
+        "id": "64001013.7",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "n64001014001|ἐλπίζω"
+      ],
+      "target": [
+        "64001014002|harap"
+      ],
+      "meta": {
+        "id": "64001014.1",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "n64001014003|εὐθέως"
+      ],
+      "target": [
+        "64001014003|segera"
+      ],
+      "meta": {
+        "id": "64001014.2",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "n64001014007|στόμα"
+      ],
+      "target": [
+        "64001014010|muka"
+      ],
+      "meta": {
+        "id": "64001014.3",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "n64001014010|λαλήσομεν"
+      ],
+      "target": [
+        "64001014008|berbicara"
+      ],
+      "meta": {
+        "id": "64001014.6",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "n64001015001|Εἰρήνη"
+      ],
+      "target": [
+        "64001015001|Damai"
+      ],
+      "meta": {
+        "id": "64001015.1",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "n64001015003|ἀσπάζονταί"
+      ],
+      "target": [
+        "64001015006|Salam"
+      ],
+      "meta": {
+        "id": "64001015.2",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "n64001015006|φίλοι"
+      ],
+      "target": [
+        "64001015013|sahabat-sahabat"
+      ],
+      "meta": {
+        "id": "64001015.3",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "n64001015009|φίλους"
+      ],
+      "target": [
+        "64001015008|sahabat-sahabatmu"
+      ],
+      "meta": {
+        "id": "64001015.5",
+        "origin": "manual"
+      }
+    }
+  ]
+}
