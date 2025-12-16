@@ -1,0 +1,10223 @@
+{
+  "documents": [
+    {
+      "docid": "WLCM",
+      "scheme": "BCVWP|token-string"
+    },
+    {
+      "docid": "TBI",
+      "scheme": "BCVWP|token-string"
+    }
+  ],
+  "meta": {
+    "conformsTo": "0.3",
+    "creator": "Mission Mutual"
+  },
+  "roles": [
+    "source",
+    "target"
+  ],
+  "type": "translation",
+  "records": [
+    {
+      "source": [
+        "o080010010012|יְהִי"
+      ],
+      "target": [
+        "08001001006|ada"
+      ],
+      "meta": {
+        "id": "08001001.1",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080010010021|בִּ"
+      ],
+      "target": [
+        "08001001030|sebagai"
+      ],
+      "meta": {
+        "id": "08001001.2",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080010010031|שְׁפֹט"
+      ],
+      "target": [
+        "08001001004|hakim"
+      ],
+      "meta": {
+        "id": "08001001.3",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080010010052|יְהִי"
+      ],
+      "target": [
+        "08001001014|seorang"
+      ],
+      "meta": {
+        "id": "08001001.5",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080010010061|רָעָב"
+      ],
+      "target": [
+        "08001001007|kelaparan"
+      ],
+      "meta": {
+        "id": "08001001.6",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080010010072|אָרֶץ"
+      ],
+      "target": [
+        "08001001009|tanah"
+      ],
+      "meta": {
+        "id": "08001001.8",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080010010082|יֵּלֶךְ"
+      ],
+      "target": [
+        "08001001013|pergilah"
+      ],
+      "meta": {
+        "id": "08001001.9",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080010010091|אִישׁ"
+      ],
+      "target": [
+        "08001001031|orang"
+      ],
+      "meta": {
+        "id": "08001001.10",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080010010101|מִ"
+      ],
+      "target": [
+        "08001001022|laki-laki"
+      ],
+      "meta": {
+        "id": "08001001.11",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080010010102|בֵּית"
+      ],
+      "target": [
+        "08001001016|Betlehem-Yehuda"
+      ],
+      "meta": {
+        "id": "08001001.12",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080010010141|בִּ"
+      ],
+      "target": [
+        "08001001032|asing"
+      ],
+      "meta": {
+        "id": "08001001.16",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080010010151|מוֹאָב"
+      ],
+      "target": [
+        "08001001025|Moab"
+      ],
+      "meta": {
+        "id": "08001001.18",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080010010181|וּ"
+      ],
+      "target": [
+        "08001001018|isterinya"
+      ],
+      "meta": {
+        "id": "08001001.20",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080010010191|בָנָי"
+      ],
+      "target": [
+        "08001001020|kedua"
+      ],
+      "meta": {
+        "id": "08001001.21",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080010020012|שֵׁם"
+      ],
+      "target": [
+        "08001002001|Nama"
+      ],
+      "meta": {
+        "id": "08001002.1",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080010020022|אִישׁ"
+      ],
+      "target": [
+        "08001002002|orang"
+      ],
+      "meta": {
+        "id": "08001002.2",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080010020031|אֱלִימֶלֶךְ"
+      ],
+      "target": [
+        "08001002005|Elimelekh"
+      ],
+      "meta": {
+        "id": "08001002.3",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080010020042|שֵׁם"
+      ],
+      "target": [
+        "08001002007|nama"
+      ],
+      "meta": {
+        "id": "08001002.4",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080010020051|אִשְׁתּ"
+      ],
+      "target": [
+        "08001002008|isterinya"
+      ],
+      "meta": {
+        "id": "08001002.5",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080010020061|נָעֳמִי"
+      ],
+      "target": [
+        "08001002009|Naomi"
+      ],
+      "meta": {
+        "id": "08001002.7",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080010020072|שֵׁם"
+      ],
+      "target": [
+        "08001002011|nama"
+      ],
+      "meta": {
+        "id": "08001002.8",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080010020081|שְׁנֵי"
+      ],
+      "target": [
+        "08001002012|kedua"
+      ],
+      "meta": {
+        "id": "08001002.9",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080010020091|בָנָי"
+      ],
+      "target": [
+        "08001002013|anaknya"
+      ],
+      "meta": {
+        "id": "08001002.10",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080010020101|מַחְלוֹן"
+      ],
+      "target": [
+        "08001002014|Mahlon"
+      ],
+      "meta": {
+        "id": "08001002.12",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080010020121|אֶפְרָתִים"
+      ],
+      "target": [
+        "08001002020|Efrata"
+      ],
+      "meta": {
+        "id": "08001002.14",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080010020132|בֵּית"
+      ],
+      "target": [
+        "08001002022|Betlehem-Yehuda"
+      ],
+      "meta": {
+        "id": "08001002.15",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080010020171|שְׂדֵי"
+      ],
+      "target": [
+        "08001002026|sampai"
+      ],
+      "meta": {
+        "id": "08001002.18",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080010020181|מוֹאָב"
+      ],
+      "target": [
+        "08001002029|Moab"
+      ],
+      "meta": {
+        "id": "08001002.19",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080010030012|יָּמָת"
+      ],
+      "target": [
+        "08001003002|matilah"
+      ],
+      "meta": {
+        "id": "08001003.1",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080010030021|אֱלִימֶלֶךְ"
+      ],
+      "target": [
+        "08001003003|Elimelekh"
+      ],
+      "meta": {
+        "id": "08001003.2",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080010030031|אִישׁ"
+      ],
+      "target": [
+        "08001003005|suami"
+      ],
+      "meta": {
+        "id": "08001003.3",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080010030041|נָעֳמִי"
+      ],
+      "target": [
+        "08001003006|Naomi"
+      ],
+      "meta": {
+        "id": "08001003.4",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080010030052|תִּשָּׁאֵר"
+      ],
+      "target": [
+        "08001003011|tertinggal"
+      ],
+      "meta": {
+        "id": "08001003.5",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080010030072|שְׁנֵי"
+      ],
+      "target": [
+        "08001003013|kedua"
+      ],
+      "meta": {
+        "id": "08001003.6",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080010030081|בָנֶי"
+      ],
+      "target": [
+        "08001003014|anaknya"
+      ],
+      "meta": {
+        "id": "08001003.7",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080010040031|נָשִׁים"
+      ],
+      "target": [
+        "08001004003|perempuan"
+      ],
+      "meta": {
+        "id": "08001004.1",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080010040041|מֹאֲבִיּוֹת"
+      ],
+      "target": [
+        "08001004004|Moab"
+      ],
+      "meta": {
+        "id": "08001004.2",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080010040051|שֵׁם"
+      ],
+      "target": [
+        "08001004008|bernama"
+      ],
+      "meta": {
+        "id": "08001004.3",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080010040071|עָרְפָּה"
+      ],
+      "target": [
+        "08001004009|Orpa"
+      ],
+      "meta": {
+        "id": "08001004.4",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080010040082|שֵׁם"
+      ],
+      "target": [
+        "08001004013|bernama"
+      ],
+      "meta": {
+        "id": "08001004.5",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080010040092|שֵּׁנִית"
+      ],
+      "target": [
+        "08001004012|kedua"
+      ],
+      "meta": {
+        "id": "08001004.6",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080010040101|רוּת"
+      ],
+      "target": [
+        "08001004014|Rut"
+      ],
+      "meta": {
+        "id": "08001004.7",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080010040112|יֵּשְׁבוּ"
+      ],
+      "target": [
+        "08001004018|diam"
+      ],
+      "meta": {
+        "id": "08001004.8",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080010040121|שָׁם"
+      ],
+      "target": [
+        "08001004020|situ"
+      ],
+      "meta": {
+        "id": "08001004.9",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080010040132|עֶשֶׂר"
+      ],
+      "target": [
+        "08001004022|sepuluh"
+      ],
+      "meta": {
+        "id": "08001004.10",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080010040141|שָׁנִים"
+      ],
+      "target": [
+        "08001004023|tahun"
+      ],
+      "meta": {
+        "id": "08001004.11",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080010050012|יָּמוּתוּ"
+      ],
+      "target": [
+        "08001005002|matilah"
+      ],
+      "meta": {
+        "id": "08001005.1",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080010050021|גַם"
+      ],
+      "target": [
+        "08001005003|juga"
+      ],
+      "meta": {
+        "id": "08001005.2",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080010050031|שְׁנֵי"
+      ],
+      "target": [
+        "08001005015|kedua"
+      ],
+      "meta": {
+        "id": "08001005.3",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080010050041|מַחְלוֹן"
+      ],
+      "target": [
+        "08001005007|Mahlon"
+      ],
+      "meta": {
+        "id": "08001005.5",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080010050072|אִשָּׁה"
+      ],
+      "target": [
+        "08001005012|perempuan"
+      ],
+      "meta": {
+        "id": "08001005.7",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080010050091|יְלָדֶי"
+      ],
+      "target": [
+        "08001005016|anaknya"
+      ],
+      "meta": {
+        "id": "08001005.8",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080010050103|אִישָׁ"
+      ],
+      "target": [
+        "08001005018|suaminya"
+      ],
+      "meta": {
+        "id": "08001005.9",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080010060042|תָּשָׁב"
+      ],
+      "target": [
+        "08001006009|pulang"
+      ],
+      "meta": {
+        "id": "08001006.1",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080010060052|שְּׂדֵי"
+      ],
+      "target": [
+        "08001006006|menantunya"
+      ],
+      "meta": {
+        "id": "08001006.2",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080010060061|מוֹאָב"
+      ],
+      "target": [
+        "08001006012|Moab"
+      ],
+      "meta": {
+        "id": "08001006.3",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080010060071|כִּי"
+      ],
+      "target": [
+        "08001006014|sebab"
+      ],
+      "meta": {
+        "id": "08001006.4",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080010060081|שָׁמְעָה"
+      ],
+      "target": [
+        "08001006019|mendengar"
+      ],
+      "meta": {
+        "id": "08001006.5",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080010060101|מוֹאָב"
+      ],
+      "target": [
+        "08001006017|Moab"
+      ],
+      "meta": {
+        "id": "08001006.6",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080010060111|כִּי"
+      ],
+      "target": [
+        "08001006020|bahwa"
+      ],
+      "meta": {
+        "id": "08001006.7",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080010060121|פָקַד"
+      ],
+      "target": [
+        "08001006023|memperhatikan"
+      ],
+      "meta": {
+        "id": "08001006.8",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080010060131|יְהוָה"
+      ],
+      "target": [
+        "08001006021|Tuhan"
+      ],
+      "meta": {
+        "id": "08001006.9",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080010060151|עַמּ"
+      ],
+      "target": [
+        "08001006024|umat-Nya"
+      ],
+      "meta": {
+        "id": "08001006.10",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080010060162|תֵת"
+      ],
+      "target": [
+        "08001006026|memberikan"
+      ],
+      "meta": {
+        "id": "08001006.12",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080010060181|לָחֶם"
+      ],
+      "target": [
+        "08001006027|makanan"
+      ],
+      "meta": {
+        "id": "08001006.13",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080010070032|מָּקוֹם"
+      ],
+      "target": [
+        "08001007005|tempat"
+      ],
+      "meta": {
+        "id": "08001007.1",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080010070051|הָיְתָה"
+      ],
+      "target": [
+        "08001007001|Maka"
+      ],
+      "meta": {
+        "id": "08001007.2",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080010070072|שְׁתֵּי"
+      ],
+      "target": [
+        "08001007011|kedua"
+      ],
+      "meta": {
+        "id": "08001007.3",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080010070081|כַלֹּתֶי"
+      ],
+      "target": [
+        "08001007012|menantunya"
+      ],
+      "meta": {
+        "id": "08001007.4",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080010070091|עִמָּ"
+      ],
+      "target": [
+        "08001007009|bersama-sama"
+      ],
+      "meta": {
+        "id": "08001007.6",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080010070111|בַ"
+      ],
+      "target": [
+        "08001007006|tinggalnya"
+      ],
+      "meta": {
+        "id": "08001007.8",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080010070112|דֶּרֶךְ"
+      ],
+      "target": [
+        "08001007018|jalan"
+      ],
+      "meta": {
+        "id": "08001007.9",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080010070122|שׁוּב"
+      ],
+      "target": [
+        "08001007020|pulang"
+      ],
+      "meta": {
+        "id": "08001007.10",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080010070141|אֶרֶץ"
+      ],
+      "target": [
+        "08001007022|tanah"
+      ],
+      "meta": {
+        "id": "08001007.11",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080010070151|יְהוּדָה"
+      ],
+      "target": [
+        "08001007023|Yehuda"
+      ],
+      "meta": {
+        "id": "08001007.12",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080010080012|תֹּאמֶר"
+      ],
+      "target": [
+        "08001008001|berkatalah"
+      ],
+      "meta": {
+        "id": "08001008.1",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080010080021|נָעֳמִי"
+      ],
+      "target": [
+        "08001008002|Naomi"
+      ],
+      "meta": {
+        "id": "08001008.2",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080010080032|שְׁתֵּי"
+      ],
+      "target": [
+        "08001008004|kedua"
+      ],
+      "meta": {
+        "id": "08001008.3",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080010080041|כַלֹּתֶי"
+      ],
+      "target": [
+        "08001008005|menantunya"
+      ],
+      "meta": {
+        "id": "08001008.4",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080010080051|לֵכְנָה"
+      ],
+      "target": [
+        "08001008009|Pergilah"
+      ],
+      "meta": {
+        "id": "08001008.6",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080010080061|שֹּׁבְנָה"
+      ],
+      "target": [
+        "08001008011|pulanglah"
+      ],
+      "meta": {
+        "id": "08001008.7",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080010080082|בֵית"
+      ],
+      "target": [
+        "08001008014|rumah"
+      ],
+      "meta": {
+        "id": "08001008.8",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080010080091|אִמָּ"
+      ],
+      "target": [
+        "08001008015|ibunya"
+      ],
+      "meta": {
+        "id": "08001008.9",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080010080111|יַעַשׂ"
+      ],
+      "target": [
+        "08001008026|tunjukkan"
+      ],
+      "meta": {
+        "id": "08001008.11",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080010080121|יְהוָה"
+      ],
+      "target": [
+        "08001008017|Tuhan"
+      ],
+      "meta": {
+        "id": "08001008.12",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080010080141|חֶסֶד"
+      ],
+      "target": [
+        "08001008020|kasih-Nya"
+      ],
+      "meta": {
+        "id": "08001008.13",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080010080182|מֵּתִים"
+      ],
+      "target": [
+        "08001008031|mati"
+      ],
+      "meta": {
+        "id": "08001008.14",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080010090021|יְהוָה"
+      ],
+      "target": [
+        "08001009004|Tuhan"
+      ],
+      "meta": {
+        "id": "08001009.1",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080010090042|מְצֶאןָ"
+      ],
+      "target": [
+        "08001009006|mendapat"
+      ],
+      "meta": {
+        "id": "08001009.2",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080010090071|בֵּית"
+      ],
+      "target": [
+        "08001009012|rumah"
+      ],
+      "meta": {
+        "id": "08001009.3",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080010090081|אִישָׁ"
+      ],
+      "target": [
+        "08001009010|masing-masing"
+      ],
+      "meta": {
+        "id": "08001009.4",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080010090092|תִּשַּׁק"
+      ],
+      "target": [
+        "08001009017|diciumnyalah"
+      ],
+      "meta": {
+        "id": "08001009.6",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080010090121|קוֹלָ"
+      ],
+      "target": [
+        "08001009024|suara"
+      ],
+      "meta": {
+        "id": "08001009.7",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080010090132|תִּבְכֶּינָה"
+      ],
+      "target": [
+        "08001009022|menangis"
+      ],
+      "meta": {
+        "id": "08001009.9",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080010100012|תֹּאמַרְנָה"
+      ],
+      "target": [
+        "08001010002|berkata"
+      ],
+      "meta": {
+        "id": "08001010.1",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080010100051|נָשׁוּב"
+      ],
+      "target": [
+        "08001010012|pulang"
+      ],
+      "meta": {
+        "id": "08001010.2",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080010110012|תֹּאמֶר"
+      ],
+      "target": [
+        "08001011003|berkata"
+      ],
+      "meta": {
+        "id": "08001011.1",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080010110021|נָעֳמִי"
+      ],
+      "target": [
+        "08001011002|Naomi"
+      ],
+      "meta": {
+        "id": "08001011.2",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080010110031|שֹׁבְנָה"
+      ],
+      "target": [
+        "08001011006|Pulanglah"
+      ],
+      "meta": {
+        "id": "08001011.3",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080010110041|בְנֹתַ"
+      ],
+      "target": [
+        "08001011021|anak"
+      ],
+      "meta": {
+        "id": "08001011.4",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080010110061|תֵלַכְנָה"
+      ],
+      "target": [
+        "08001011010|mengapakah"
+      ],
+      "meta": {
+        "id": "08001011.6",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080010110082|עוֹד"
+      ],
+      "target": [
+        "08001011016|Bukankah"
+      ],
+      "meta": {
+        "id": "08001011.7",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080010110091|לִ"
+      ],
+      "target": [
+        "08001011020|lagi"
+      ],
+      "meta": {
+        "id": "08001011.8",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080010110111|בְּ"
+      ],
+      "target": [
+        "08001011008|anak-anakku"
+      ],
+      "meta": {
+        "id": "08001011.11",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080010110122|הָיוּ"
+      ],
+      "target": [
+        "08001011026|dijadikan"
+      ],
+      "meta": {
+        "id": "08001011.12",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080010110131|לָ"
+      ],
+      "target": [
+        "08001011019|ada"
+      ],
+      "meta": {
+        "id": "08001011.13",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080010120011|שֹׁבְנָה"
+      ],
+      "target": [
+        "08001012001|Pulanglah"
+      ],
+      "meta": {
+        "id": "08001012.1",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080010120021|בְנֹתַ"
+      ],
+      "target": [
+        "08001012034|anak"
+      ],
+      "meta": {
+        "id": "08001012.2",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080010120031|לֵכְןָ"
+      ],
+      "target": [
+        "08001012005|pergilah"
+      ],
+      "meta": {
+        "id": "08001012.4",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080010120041|כִּי"
+      ],
+      "target": [
+        "08001012007|sebab"
+      ],
+      "meta": {
+        "id": "08001012.5",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080010120051|זָקַנְתִּי"
+      ],
+      "target": [
+        "08001012010|tua"
+      ],
+      "meta": {
+        "id": "08001012.6",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080010120072|אִישׁ"
+      ],
+      "target": [
+        "08001012035|laki-laki"
+      ],
+      "meta": {
+        "id": "08001012.7",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080010120091|אָמַרְתִּי"
+      ],
+      "target": [
+        "08001012016|pikirku"
+      ],
+      "meta": {
+        "id": "08001012.9",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080010120101|יֶשׁ"
+      ],
+      "target": [
+        "08001012018|Ada"
+      ],
+      "meta": {
+        "id": "08001012.10",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080010120121|תִקְוָה"
+      ],
+      "target": [
+        "08001012019|harapan"
+      ],
+      "meta": {
+        "id": "08001012.11",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080010120131|גַּם"
+      ],
+      "target": [
+        "08001012029|bahkan"
+      ],
+      "meta": {
+        "id": "08001012.12",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080010120152|לַּיְלָה"
+      ],
+      "target": [
+        "08001012024|malam"
+      ],
+      "meta": {
+        "id": "08001012.13",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080010120181|יָלַדְתִּי"
+      ],
+      "target": [
+        "08001012033|melahirkan"
+      ],
+      "meta": {
+        "id": "08001012.15",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080010120191|בָנִים"
+      ],
+      "target": [
+        "08001012003|anak-anakku"
+      ],
+      "meta": {
+        "id": "08001012.16",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080010130011|הֲ"
+      ],
+      "target": [
+        "08001013025|bukankah"
+      ],
+      "meta": {
+        "id": "08001013.1",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080010130021|תְּשַׂבֵּרְנָה"
+      ],
+      "target": [
+        "08001013003|menanti"
+      ],
+      "meta": {
+        "id": "08001013.2",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080010130031|עַד"
+      ],
+      "target": [
+        "08001013004|sampai"
+      ],
+      "meta": {
+        "id": "08001013.3",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080010130061|הֲ"
+      ],
+      "target": [
+        "08001013001|masakan"
+      ],
+      "meta": {
+        "id": "08001013.4",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080010130071|תֵּעָגֵנָה"
+      ],
+      "target": [
+        "08001013013|menahan"
+      ],
+      "meta": {
+        "id": "08001013.5",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080010130082|בִלְתִּי"
+      ],
+      "target": [
+        "08001013017|bersuami"
+      ],
+      "meta": {
+        "id": "08001013.6",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080010130091|הֱיוֹת"
+      ],
+      "target": [
+        "08001013012|harus"
+      ],
+      "meta": {
+        "id": "08001013.7",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080010130121|בְּנֹתַ"
+      ],
+      "target": [
+        "08001013023|anak-anakku"
+      ],
+      "meta": {
+        "id": "08001013.10",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080010130131|כִּי"
+      ],
+      "target": [
+        "08001013036|sebab"
+      ],
+      "meta": {
+        "id": "08001013.11",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080010130141|מַר"
+      ],
+      "target": [
+        "08001013028|pahit"
+      ],
+      "meta": {
+        "id": "08001013.12",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080010130181|כִּי"
+      ],
+      "target": [
+        "08001013009|karena"
+      ],
+      "meta": {
+        "id": "08001013.13",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080010130211|יַד"
+      ],
+      "target": [
+        "08001013037|tangan"
+      ],
+      "meta": {
+        "id": "08001013.14",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080010130221|יְהוָה"
+      ],
+      "target": [
+        "08001013038|Tuhan"
+      ],
+      "meta": {
+        "id": "08001013.15",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080010140021|קוֹלָ"
+      ],
+      "target": [
+        "08001014005|suara"
+      ],
+      "meta": {
+        "id": "08001014.1",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080010140032|תִּבְכֶּינָה"
+      ],
+      "target": [
+        "08001014001|Menangis"
+      ],
+      "meta": {
+        "id": "08001014.3",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080010140052|תִּשַּׁק"
+      ],
+      "target": [
+        "08001014010|mencium"
+      ],
+      "meta": {
+        "id": "08001014.4",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080010140061|עָרְפָּה"
+      ],
+      "target": [
+        "08001014009|Orpa"
+      ],
+      "meta": {
+        "id": "08001014.5",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080010140072|חֲמוֹתָ"
+      ],
+      "target": [
+        "08001014011|mertuanya"
+      ],
+      "meta": {
+        "id": "08001014.6",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080010140082|רוּת"
+      ],
+      "target": [
+        "08001014017|Rut"
+      ],
+      "meta": {
+        "id": "08001014.8",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080010140091|דָּבְקָה"
+      ],
+      "target": [
+        "08001014019|berpaut"
+      ],
+      "meta": {
+        "id": "08001014.9",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080010150012|תֹּאמֶר"
+      ],
+      "target": [
+        "08001015001|Berkatalah"
+      ],
+      "meta": {
+        "id": "08001015.1",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080010150031|שָׁבָה"
+      ],
+      "target": [
+        "08001015006|pulang"
+      ],
+      "meta": {
+        "id": "08001015.2",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080010150091|שׁוּבִי"
+      ],
+      "target": [
+        "08001015015|pulanglah"
+      ],
+      "meta": {
+        "id": "08001015.3",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080010150101|אַחֲרֵי"
+      ],
+      "target": [
+        "08001015016|mengikuti"
+      ],
+      "meta": {
+        "id": "08001015.4",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080010160012|תֹּאמֶר"
+      ],
+      "target": [
+        "08001016002|kata"
+      ],
+      "meta": {
+        "id": "08001016.1",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080010160021|רוּת"
+      ],
+      "target": [
+        "08001016003|Rut"
+      ],
+      "meta": {
+        "id": "08001016.2",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080010160041|תִּפְגְּעִי"
+      ],
+      "target": [
+        "08001016007|desak"
+      ],
+      "meta": {
+        "id": "08001016.3",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080010160062|עָזְבֵ"
+      ],
+      "target": [
+        "08001016009|meninggalkan"
+      ],
+      "meta": {
+        "id": "08001016.4",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080010160072|שׁוּב"
+      ],
+      "target": [
+        "08001016012|pulang"
+      ],
+      "meta": {
+        "id": "08001016.6",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080010160082|אַחֲרָיִ"
+      ],
+      "target": [
+        "08001016015|mengikuti"
+      ],
+      "meta": {
+        "id": "08001016.7",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080010160091|כִּי"
+      ],
+      "target": [
+        "08001016018|sebab"
+      ],
+      "meta": {
+        "id": "08001016.9",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080010160121|תֵּלְכִי"
+      ],
+      "target": [
+        "08001016022|pergi"
+      ],
+      "meta": {
+        "id": "08001016.10",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080010160131|אֵלֵךְ"
+      ],
+      "target": [
+        "08001016028|pergi"
+      ],
+      "meta": {
+        "id": "08001016.11",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080010160151|תָּלִינִי"
+      ],
+      "target": [
+        "08001016034|bermalam"
+      ],
+      "meta": {
+        "id": "08001016.12",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080010160161|אָלִין"
+      ],
+      "target": [
+        "08001016040|bermalam"
+      ],
+      "meta": {
+        "id": "08001016.13",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080010160171|עַמֵּ"
+      ],
+      "target": [
+        "08001016042|bangsamulah"
+      ],
+      "meta": {
+        "id": "08001016.14",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080010160192|אלֹהַיִ"
+      ],
+      "target": [
+        "08001016045|Allahmulah"
+      ],
+      "meta": {
+        "id": "08001016.16",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080010170021|תָּמוּתִי"
+      ],
+      "target": [
+        "08001017004|mati"
+      ],
+      "meta": {
+        "id": "08001017.1",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080010170031|אָמוּת"
+      ],
+      "target": [
+        "08001017008|mati"
+      ],
+      "meta": {
+        "id": "08001017.2",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080010170042|שָׁם"
+      ],
+      "target": [
+        "08001017010|sana"
+      ],
+      "meta": {
+        "id": "08001017.3",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080010170051|אֶקָּבֵר"
+      ],
+      "target": [
+        "08001017016|dikuburkan"
+      ],
+      "meta": {
+        "id": "08001017.4",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080010170061|כֹּה"
+      ],
+      "target": [
+        "08001017018|Beginilah"
+      ],
+      "meta": {
+        "id": "08001017.5",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080010170071|יַעֲשֶׂה"
+      ],
+      "target": [
+        "08001017033|apa"
+      ],
+      "meta": {
+        "id": "08001017.6",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080010170081|יְהוָה"
+      ],
+      "target": [
+        "08001017020|Tuhan"
+      ],
+      "meta": {
+        "id": "08001017.7",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080010170111|יֹסִיף"
+      ],
+      "target": [
+        "08001017026|lagi"
+      ],
+      "meta": {
+        "id": "08001017.9",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080010170132|מָּוֶת"
+      ],
+      "target": [
+        "08001017043|maut"
+      ],
+      "meta": {
+        "id": "08001017.10",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080010170141|יַפְרִיד"
+      ],
+      "target": [
+        "08001017035|memisahkan"
+      ],
+      "meta": {
+        "id": "08001017.11",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080010180012|תֵּרֶא"
+      ],
+      "target": [
+        "08001018003|melihat"
+      ],
+      "meta": {
+        "id": "08001018.1",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080010180021|כִּי"
+      ],
+      "target": [
+        "08001018005|bahwa"
+      ],
+      "meta": {
+        "id": "08001018.2",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080010180052|לֶכֶת"
+      ],
+      "target": [
+        "08001018009|ikut"
+      ],
+      "meta": {
+        "id": "08001018.3",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080010180072|תֶּחְדַּל"
+      ],
+      "target": [
+        "08001018014|berhentilah"
+      ],
+      "meta": {
+        "id": "08001018.4",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080010180091|אֵלֶי"
+      ],
+      "target": [
+        "08001018017|kepadanya"
+      ],
+      "meta": {
+        "id": "08001018.5",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080010190012|תֵּלַכְנָה"
+      ],
+      "target": [
+        "08001019002|berjalanlah"
+      ],
+      "meta": {
+        "id": "08001019.1",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080010190021|שְׁתֵּי"
+      ],
+      "target": [
+        "08001019003|keduanya"
+      ],
+      "meta": {
+        "id": "08001019.2",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080010190031|עַד"
+      ],
+      "target": [
+        "08001019004|sampai"
+      ],
+      "meta": {
+        "id": "08001019.4",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080010190041|בֹּאָ"
+      ],
+      "target": [
+        "08001019012|masuk"
+      ],
+      "meta": {
+        "id": "08001019.5",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080010190051|בֵּית"
+      ],
+      "target": [
+        "08001019008|Betlehem"
+      ],
+      "meta": {
+        "id": "08001019.7",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080010190061|לָחֶם"
+      ],
+      "target": [
+        "08001019014|Betlehem"
+      ],
+      "meta": {
+        "id": "08001019.8",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080010190081|כְּ"
+      ],
+      "target": [
+        "08001019010|Ketika"
+      ],
+      "meta": {
+        "id": "08001019.10",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080010190091|בֵּית"
+      ],
+      "target": [
+        "08001019006|tiba"
+      ],
+      "meta": {
+        "id": "08001019.11",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080010190132|עִיר"
+      ],
+      "target": [
+        "08001019017|seluruh"
+      ],
+      "meta": {
+        "id": "08001019.15",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080010190151|וַ"
+      ],
+      "target": [
+        "08001019018|kota"
+      ],
+      "meta": {
+        "id": "08001019.16",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080010190162|זֹאת"
+      ],
+      "target": [
+        "08001019025|berkata"
+      ],
+      "meta": {
+        "id": "08001019.17",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080010200012|תֹּאמֶר"
+      ],
+      "target": [
+        "08001020003|berkata"
+      ],
+      "meta": {
+        "id": "08001020.1",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080010200061|נָעֳמִי"
+      ],
+      "target": [
+        "08001020011|Naomi"
+      ],
+      "meta": {
+        "id": "08001020.2",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080010200091|מָרָא"
+      ],
+      "target": [
+        "08001020015|Mara"
+      ],
+      "meta": {
+        "id": "08001020.3",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080010200101|כִּי"
+      ],
+      "target": [
+        "08001020017|sebab"
+      ],
+      "meta": {
+        "id": "08001020.4",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080010200111|הֵמַר"
+      ],
+      "target": [
+        "08001020024|pahit"
+      ],
+      "meta": {
+        "id": "08001020.5",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080010200121|שַׁדַּי"
+      ],
+      "target": [
+        "08001020019|Mahakuasa"
+      ],
+      "meta": {
+        "id": "08001020.6",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080010210011|אֲנִי"
+      ],
+      "target": [
+        "08001021005|aku"
+      ],
+      "meta": {
+        "id": "08001021.1",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080010210021|מְלֵאָה"
+      ],
+      "target": [
+        "08001021004|penuh"
+      ],
+      "meta": {
+        "id": "08001021.2",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080010210031|הָלַכְתִּי"
+      ],
+      "target": [
+        "08001021006|pergi"
+      ],
+      "meta": {
+        "id": "08001021.3",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080010210042|רֵיקָם"
+      ],
+      "target": [
+        "08001021012|kosong"
+      ],
+      "meta": {
+        "id": "08001021.4",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080010210051|הֱשִׁיבַ"
+      ],
+      "target": [
+        "08001021014|memulangkan"
+      ],
+      "meta": {
+        "id": "08001021.5",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080010210061|יְהוָה"
+      ],
+      "target": [
+        "08001021013|Tuhan"
+      ],
+      "meta": {
+        "id": "08001021.6",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080010210081|תִקְרֶאנָה"
+      ],
+      "target": [
+        "08001021017|Mengapakah"
+      ],
+      "meta": {
+        "id": "08001021.7",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080010210101|נָעֳמִי"
+      ],
+      "target": [
+        "08001021021|Naomi"
+      ],
+      "meta": {
+        "id": "08001021.8",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080010210112|יהוָה"
+      ],
+      "target": [
+        "08001021024|Tuhan"
+      ],
+      "meta": {
+        "id": "08001021.10",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080010210131|בִ"
+      ],
+      "target": [
+        "08001021027|saksi"
+      ],
+      "meta": {
+        "id": "08001021.12",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080010210142|שַׁדַּי"
+      ],
+      "target": [
+        "08001021032|Mahakuasa"
+      ],
+      "meta": {
+        "id": "08001021.14",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080010220012|תָּשָׁב"
+      ],
+      "target": [
+        "08001022003|pulang"
+      ],
+      "meta": {
+        "id": "08001022.1",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080010220021|נָעֳמִי"
+      ],
+      "target": [
+        "08001022002|Naomi"
+      ],
+      "meta": {
+        "id": "08001022.2",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080010220032|רוּת"
+      ],
+      "target": [
+        "08001022006|Rut"
+      ],
+      "meta": {
+        "id": "08001022.3",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080010220042|מּוֹאֲבִיָּה"
+      ],
+      "target": [
+        "08001022009|Moab"
+      ],
+      "meta": {
+        "id": "08001022.4",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080010220061|עִמָּ"
+      ],
+      "target": [
+        "08001022004|bersama-sama"
+      ],
+      "meta": {
+        "id": "08001022.5",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080010220072|שָּׁבָה"
+      ],
+      "target": [
+        "08001022016|pulang"
+      ],
+      "meta": {
+        "id": "08001022.7",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080010220082|שְּׂדֵי"
+      ],
+      "target": [
+        "08001022012|menantunya"
+      ],
+      "meta": {
+        "id": "08001022.8",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080010220091|מוֹאָב"
+      ],
+      "target": [
+        "08001022019|Moab"
+      ],
+      "meta": {
+        "id": "08001022.9",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080010220102|הֵמָּה"
+      ],
+      "target": [
+        "08001022023|mereka"
+      ],
+      "meta": {
+        "id": "08001022.10",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080010220121|בֵּית"
+      ],
+      "target": [
+        "08001022025|Betlehem"
+      ],
+      "meta": {
+        "id": "08001022.11",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080010220151|קְצִיר"
+      ],
+      "target": [
+        "08001022027|permulaan"
+      ],
+      "meta": {
+        "id": "08001022.13",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080010220161|שְׂעֹרִים"
+      ],
+      "target": [
+        "08001022029|menuai"
+      ],
+      "meta": {
+        "id": "08001022.14",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080020010013|נָעֳמִי"
+      ],
+      "target": [
+        "08002001001|Naomi"
+      ],
+      "meta": {
+        "id": "08002001.1",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080020010031|מוֹדַע"
+      ],
+      "target": [
+        "08002001005|sanak"
+      ],
+      "meta": {
+        "id": "08002001.2",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080020010042|אִישָׁ"
+      ],
+      "target": [
+        "08002001004|seorang"
+      ],
+      "meta": {
+        "id": "08002001.3",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080020010051|אִישׁ"
+      ],
+      "target": [
+        "08002001010|seorang"
+      ],
+      "meta": {
+        "id": "08002001.5",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080020010082|מִּשְׁפַּחַת"
+      ],
+      "target": [
+        "08002001015|kaum"
+      ],
+      "meta": {
+        "id": "08002001.6",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080020010091|אֱלִימֶלֶךְ"
+      ],
+      "target": [
+        "08002001016|Elimelekh"
+      ],
+      "meta": {
+        "id": "08002001.7",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080020010102|שְׁמ"
+      ],
+      "target": [
+        "08002001018|namanya"
+      ],
+      "meta": {
+        "id": "08002001.8",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080020010111|בֹּעַז"
+      ],
+      "target": [
+        "08002001019|Boas"
+      ],
+      "meta": {
+        "id": "08002001.10",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080020020012|תֹּאמֶר"
+      ],
+      "target": [
+        "08002002008|berkata"
+      ],
+      "meta": {
+        "id": "08002002.1",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080020020021|רוּת"
+      ],
+      "target": [
+        "08002002002|Rut"
+      ],
+      "meta": {
+        "id": "08002002.2",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080020020032|מּוֹאֲבִיָּה"
+      ],
+      "target": [
+        "08002002005|Moab"
+      ],
+      "meta": {
+        "id": "08002002.3",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080020020051|נָעֳמִי"
+      ],
+      "target": [
+        "08002002010|Naomi"
+      ],
+      "meta": {
+        "id": "08002002.4",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080020020061|אֵלְכָה"
+      ],
+      "target": [
+        "08002002015|pergi"
+      ],
+      "meta": {
+        "id": "08002002.5",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080020020082|שָּׂדֶה"
+      ],
+      "target": [
+        "08002002017|ladang"
+      ],
+      "meta": {
+        "id": "08002002.6",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080020020092|אֲלַקֳטָּה"
+      ],
+      "target": [
+        "08002002018|memungut"
+      ],
+      "meta": {
+        "id": "08002002.7",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080020020102|שִׁבֳּלִים"
+      ],
+      "target": [
+        "08002002019|bulir-bulir"
+      ],
+      "meta": {
+        "id": "08002002.8",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080020020111|אַחַר"
+      ],
+      "target": [
+        "08002002022|belakang"
+      ],
+      "meta": {
+        "id": "08002002.9",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080020020162|תֹּאמֶר"
+      ],
+      "target": [
+        "08002002032|Naomi"
+      ],
+      "meta": {
+        "id": "08002002.10",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080020020181|לְכִי"
+      ],
+      "target": [
+        "08002002036|Pergilah"
+      ],
+      "meta": {
+        "id": "08002002.11",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080020020191|בִתִּ"
+      ],
+      "target": [
+        "08002002004|perempuan"
+      ],
+      "meta": {
+        "id": "08002002.12",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080020030012|תֵּלֶךְ"
+      ],
+      "target": [
+        "08002003001|Pergilah"
+      ],
+      "meta": {
+        "id": "08002003.1",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080020030022|תָּבוֹא"
+      ],
+      "target": [
+        "08002003005|sampai"
+      ],
+      "meta": {
+        "id": "08002003.2",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080020030032|תְּלַקֵּט"
+      ],
+      "target": [
+        "08002003009|memungut"
+      ],
+      "meta": {
+        "id": "08002003.3",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080020030042|שָּׂדֶה"
+      ],
+      "target": [
+        "08002003007|ladang"
+      ],
+      "meta": {
+        "id": "08002003.4",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080020030051|אַחֲרֵי"
+      ],
+      "target": [
+        "08002003012|belakang"
+      ],
+      "meta": {
+        "id": "08002003.5",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080020030062|קֹּצְרִים"
+      ],
+      "target": [
+        "08002003013|penyabit-penyabit"
+      ],
+      "meta": {
+        "id": "08002003.6",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080020030081|מִקְרֶ"
+      ],
+      "target": [
+        "08002003015|kebetulan"
+      ],
+      "meta": {
+        "id": "08002003.7",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080020030111|לְ"
+      ],
+      "target": [
+        "08002003020|milik"
+      ],
+      "meta": {
+        "id": "08002003.11",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080020030112|בֹעַז"
+      ],
+      "target": [
+        "08002003021|Boas"
+      ],
+      "meta": {
+        "id": "08002003.12",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080020030132|מִּשְׁפַּחַת"
+      ],
+      "target": [
+        "08002003026|kaum"
+      ],
+      "meta": {
+        "id": "08002003.13",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080020030141|אֱלִימֶלֶךְ"
+      ],
+      "target": [
+        "08002003027|Elimelekh"
+      ],
+      "meta": {
+        "id": "08002003.14",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080020040021|בֹעַז"
+      ],
+      "target": [
+        "08002004003|Boas"
+      ],
+      "meta": {
+        "id": "08002004.1",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080020040031|בָּא"
+      ],
+      "target": [
+        "08002004002|datanglah"
+      ],
+      "meta": {
+        "id": "08002004.2",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080020040042|בֵּית"
+      ],
+      "target": [
+        "08002004005|Betlehem"
+      ],
+      "meta": {
+        "id": "08002004.3",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080020040071|לַ"
+      ],
+      "target": [
+        "08002004008|berkata"
+      ],
+      "meta": {
+        "id": "08002004.6",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080020040081|יְהוָה"
+      ],
+      "target": [
+        "08002004014|Tuhan"
+      ],
+      "meta": {
+        "id": "08002004.7",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080020040101|וַ"
+      ],
+      "target": [
+        "08002004016|menyertai"
+      ],
+      "meta": {
+        "id": "08002004.10",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080020040131|יְהוָה"
+      ],
+      "target": [
+        "08002004025|Tuhan"
+      ],
+      "meta": {
+        "id": "08002004.11",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080020050012|יֹּאמֶר"
+      ],
+      "target": [
+        "08002005002|kata"
+      ],
+      "meta": {
+        "id": "08002005.1",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080020050021|בֹּעַז"
+      ],
+      "target": [
+        "08002005003|Boas"
+      ],
+      "meta": {
+        "id": "08002005.2",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080020050032|נַעֲר"
+      ],
+      "target": [
+        "08002005005|bujangnya"
+      ],
+      "meta": {
+        "id": "08002005.3",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080020050042|נִּצָּב"
+      ],
+      "target": [
+        "08002005007|mengawasi"
+      ],
+      "meta": {
+        "id": "08002005.5",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080020050062|קּוֹצְרִים"
+      ],
+      "target": [
+        "08002005008|penyabit-penyabit"
+      ],
+      "meta": {
+        "id": "08002005.6",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080020050082|נַּעֲרָה"
+      ],
+      "target": [
+        "08002005014|perempuan"
+      ],
+      "meta": {
+        "id": "08002005.7",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080020060012|יַּעַן"
+      ],
+      "target": [
+        "08002006006|menjawab"
+      ],
+      "meta": {
+        "id": "08002006.1",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080020060022|נַּעַר"
+      ],
+      "target": [
+        "08002006001|Bujang"
+      ],
+      "meta": {
+        "id": "08002006.2",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080020060032|נִּצָּב"
+      ],
+      "target": [
+        "08002006003|mengawasi"
+      ],
+      "meta": {
+        "id": "08002006.3",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080020060052|קּוֹצְרִים"
+      ],
+      "target": [
+        "08002006004|penyabit-penyabit"
+      ],
+      "meta": {
+        "id": "08002006.4",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080020060081|מוֹאֲבִיָּה"
+      ],
+      "target": [
+        "08002006013|Moab"
+      ],
+      "meta": {
+        "id": "08002006.6",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080020060102|שָּׁבָה"
+      ],
+      "target": [
+        "08002006016|pulang"
+      ],
+      "meta": {
+        "id": "08002006.7",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080020060111|עִם"
+      ],
+      "target": [
+        "08002006017|bersama-sama"
+      ],
+      "meta": {
+        "id": "08002006.8",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080020060121|נָעֳמִי"
+      ],
+      "target": [
+        "08002006019|Naomi"
+      ],
+      "meta": {
+        "id": "08002006.9",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080020060141|מוֹאָב"
+      ],
+      "target": [
+        "08002006022|Moab"
+      ],
+      "meta": {
+        "id": "08002006.10",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080020070012|תֹּאמֶר"
+      ],
+      "target": [
+        "08002007003|berkata"
+      ],
+      "meta": {
+        "id": "08002007.1",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080020070021|אֲלַקֳטָה"
+      ],
+      "target": [
+        "08002007008|memungut"
+      ],
+      "meta": {
+        "id": "08002007.2",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080020070031|נָּא"
+      ],
+      "target": [
+        "08002007006|kiranya"
+      ],
+      "meta": {
+        "id": "08002007.3",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080020070042|אָסַפְתִּי"
+      ],
+      "target": [
+        "08002007010|mengumpulkan"
+      ],
+      "meta": {
+        "id": "08002007.4",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080020070052|עֳמָרִים"
+      ],
+      "target": [
+        "08002007018|belakang"
+      ],
+      "meta": {
+        "id": "08002007.5",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080020070071|הַ"
+      ],
+      "target": [
+        "08002007019|penyabit-penyabit"
+      ],
+      "meta": {
+        "id": "08002007.6",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080020070081|וַ"
+      ],
+      "target": [
+        "08002007023|datang"
+      ],
+      "meta": {
+        "id": "08002007.7",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080020070091|וַ"
+      ],
+      "target": [
+        "08002007036|berhenti"
+      ],
+      "meta": {
+        "id": "08002007.8",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080020070111|הַ"
+      ],
+      "target": [
+        "08002007028|pagi"
+      ],
+      "meta": {
+        "id": "08002007.9",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080020070121|וְ"
+      ],
+      "target": [
+        "08002007029|sampai"
+      ],
+      "meta": {
+        "id": "08002007.11",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080020070122|עַד"
+      ],
+      "target": [
+        "08002007030|sekarang"
+      ],
+      "meta": {
+        "id": "08002007.12",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080020080012|יֹּאמֶר"
+      ],
+      "target": [
+        "08002008003|berkatalah"
+      ],
+      "meta": {
+        "id": "08002008.1",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080020080021|בֹּעַז"
+      ],
+      "target": [
+        "08002008004|Boas"
+      ],
+      "meta": {
+        "id": "08002008.2",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080020080041|רוּת"
+      ],
+      "target": [
+        "08002008006|Rut"
+      ],
+      "meta": {
+        "id": "08002008.3",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080020080052|לוֹא"
+      ],
+      "target": [
+        "08002008014|Tidak"
+      ],
+      "meta": {
+        "id": "08002008.4",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080020080061|שָׁמַעַתְּ"
+      ],
+      "target": [
+        "08002008009|Dengarlah"
+      ],
+      "meta": {
+        "id": "08002008.5",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080020080071|בִּתִּ"
+      ],
+      "target": [
+        "08002008036|perempuan"
+      ],
+      "meta": {
+        "id": "08002008.6",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080020080091|תֵּלְכִי"
+      ],
+      "target": [
+        "08002008017|pergi"
+      ],
+      "meta": {
+        "id": "08002008.8",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080020080102|לְקֹט"
+      ],
+      "target": [
+        "08002008018|memungut"
+      ],
+      "meta": {
+        "id": "08002008.9",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080020080112|שָׂדֶה"
+      ],
+      "target": [
+        "08002008021|ladang"
+      ],
+      "meta": {
+        "id": "08002008.10",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080020080121|אַחֵר"
+      ],
+      "target": [
+        "08002008022|lain"
+      ],
+      "meta": {
+        "id": "08002008.11",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080020080132|גַם"
+      ],
+      "target": [
+        "08002008026|juga"
+      ],
+      "meta": {
+        "id": "08002008.12",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080020080141|לֹא"
+      ],
+      "target": [
+        "08002008024|tidak"
+      ],
+      "meta": {
+        "id": "08002008.13",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080020080181|תִדְבָּקִי"
+      ],
+      "target": [
+        "08002008033|tetaplah"
+      ],
+      "meta": {
+        "id": "08002008.14",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080020080191|עִם"
+      ],
+      "target": [
+        "08002008034|dekat"
+      ],
+      "meta": {
+        "id": "08002008.15",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080020080201|נַעֲרֹתָ"
+      ],
+      "target": [
+        "08002008035|pengerja-pengerjaku"
+      ],
+      "meta": {
+        "id": "08002008.16",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080020090011|עֵינַיִ"
+      ],
+      "target": [
+        "08002009001|Lihat"
+      ],
+      "meta": {
+        "id": "08002009.1",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080020090022|שָּׂדֶה"
+      ],
+      "target": [
+        "08002009004|ladang"
+      ],
+      "meta": {
+        "id": "08002009.2",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080020090052|הָלַכְתִּ"
+      ],
+      "target": [
+        "08002009032|pergilah"
+      ],
+      "meta": {
+        "id": "08002009.3",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080020090061|אַחֲרֵי"
+      ],
+      "target": [
+        "08002009015|belakang"
+      ],
+      "meta": {
+        "id": "08002009.4",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080020090102|נְּעָרִים"
+      ],
+      "target": [
+        "08002009023|lelaki"
+      ],
+      "meta": {
+        "id": "08002009.6",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080020090112|בִלְתִּי"
+      ],
+      "target": [
+        "08002009024|jangan"
+      ],
+      "meta": {
+        "id": "08002009.7",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080020090121|נָגְעֵ"
+      ],
+      "target": [
+        "08002009025|mengganggu"
+      ],
+      "meta": {
+        "id": "08002009.8",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080020090132|צָמִת"
+      ],
+      "target": [
+        "08002009030|haus"
+      ],
+      "meta": {
+        "id": "08002009.10",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080020090172|שָׁתִית"
+      ],
+      "target": [
+        "08002009036|minumlah"
+      ],
+      "meta": {
+        "id": "08002009.12",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080020100031|פָּנֶי"
+      ],
+      "target": [
+        "08002010006|mukanya"
+      ],
+      "meta": {
+        "id": "08002010.1",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080020100042|תִּשְׁתַּחוּ"
+      ],
+      "target": [
+        "08002010002|sujudlah"
+      ],
+      "meta": {
+        "id": "08002010.3",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080020100051|אָרְצָ"
+      ],
+      "target": [
+        "08002010009|tanah"
+      ],
+      "meta": {
+        "id": "08002010.4",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080020100062|תֹּאמֶר"
+      ],
+      "target": [
+        "08002010011|berkata"
+      ],
+      "meta": {
+        "id": "08002010.6",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080020100071|אֵלָי"
+      ],
+      "target": [
+        "08002010012|kepadanya"
+      ],
+      "meta": {
+        "id": "08002010.7",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080020100081|מַדּוּעַ"
+      ],
+      "target": [
+        "08002010015|Mengapakah"
+      ],
+      "meta": {
+        "id": "08002010.9",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080020100091|מָצָאתִי"
+      ],
+      "target": [
+        "08002010017|mendapat"
+      ],
+      "meta": {
+        "id": "08002010.10",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080020100122|הַכִּירֵ"
+      ],
+      "target": [
+        "08002010025|memperhatikan"
+      ],
+      "meta": {
+        "id": "08002010.12",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080020100132|אָּנֹכִי"
+      ],
+      "target": [
+        "08002010016|aku"
+      ],
+      "meta": {
+        "id": "08002010.13",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080020100141|נָכְרִיָּה"
+      ],
+      "target": [
+        "08002010032|asing"
+      ],
+      "meta": {
+        "id": "08002010.14",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080020110012|יַּעַן"
+      ],
+      "target": [
+        "08002011002|menjawab"
+      ],
+      "meta": {
+        "id": "08002011.1",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080020110021|בֹּעַז"
+      ],
+      "target": [
+        "08002011001|Boas"
+      ],
+      "meta": {
+        "id": "08002011.2",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080020110051|הֻגֵּד"
+      ],
+      "target": [
+        "08002011006|dikabarkan"
+      ],
+      "meta": {
+        "id": "08002011.3",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080020110081|כֹּל"
+      ],
+      "target": [
+        "08002011011|segala"
+      ],
+      "meta": {
+        "id": "08002011.5",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080020110101|עָשִׂית"
+      ],
+      "target": [
+        "08002011015|lakukan"
+      ],
+      "meta": {
+        "id": "08002011.7",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080020110121|חֲמוֹתֵ"
+      ],
+      "target": [
+        "08002011017|mertuamu"
+      ],
+      "meta": {
+        "id": "08002011.8",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080020110131|אַחֲרֵי"
+      ],
+      "target": [
+        "08002011018|sesudah"
+      ],
+      "meta": {
+        "id": "08002011.10",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080020110141|מוֹת"
+      ],
+      "target": [
+        "08002011020|mati"
+      ],
+      "meta": {
+        "id": "08002011.11",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080020110151|אִישֵׁ"
+      ],
+      "target": [
+        "08002011007|orang"
+      ],
+      "meta": {
+        "id": "08002011.12",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080020110162|תַּעַזְבִי"
+      ],
+      "target": [
+        "08002011025|meninggalkan"
+      ],
+      "meta": {
+        "id": "08002011.14",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080020110182|אִמֵּ"
+      ],
+      "target": [
+        "08002011026|ibu"
+      ],
+      "meta": {
+        "id": "08002011.15",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080020110192|אֶרֶץ"
+      ],
+      "target": [
+        "08002011029|tanah"
+      ],
+      "meta": {
+        "id": "08002011.17",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080020110201|מוֹלַדְתֵּ"
+      ],
+      "target": [
+        "08002011030|kelahiranmu"
+      ],
+      "meta": {
+        "id": "08002011.18",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080020110212|תֵּלְכִי"
+      ],
+      "target": [
+        "08002011032|pergi"
+      ],
+      "meta": {
+        "id": "08002011.20",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080020110231|עַם"
+      ],
+      "target": [
+        "08002011035|bangsa"
+      ],
+      "meta": {
+        "id": "08002011.21",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080020110251|לֹא"
+      ],
+      "target": [
+        "08002011038|tidak"
+      ],
+      "meta": {
+        "id": "08002011.22",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080020110261|יָדַעַתְּ"
+      ],
+      "target": [
+        "08002011040|kenal"
+      ],
+      "meta": {
+        "id": "08002011.23",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080020110281|שִׁלְשׁוֹם"
+      ],
+      "target": [
+        "08002011037|dahulu"
+      ],
+      "meta": {
+        "id": "08002011.24",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080020120011|יְשַׁלֵּם"
+      ],
+      "target": [
+        "08002012003|membalas"
+      ],
+      "meta": {
+        "id": "08002012.1",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080020120021|יְהוָה"
+      ],
+      "target": [
+        "08002012001|Tuhan"
+      ],
+      "meta": {
+        "id": "08002012.2",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080020120051|מַשְׂכֻּרְתֵּ"
+      ],
+      "target": [
+        "08002012011|upahmu"
+      ],
+      "meta": {
+        "id": "08002012.3",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080020120061|שְׁלֵמָה"
+      ],
+      "target": [
+        "08002012012|sepenuhnya"
+      ],
+      "meta": {
+        "id": "08002012.5",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080020120081|יְהוָה"
+      ],
+      "target": [
+        "08002012014|Tuhan"
+      ],
+      "meta": {
+        "id": "08002012.6",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080020120091|אֱלֹהֵי"
+      ],
+      "target": [
+        "08002012016|Allah"
+      ],
+      "meta": {
+        "id": "08002012.7",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080020120101|יִשְׂרָאֵל"
+      ],
+      "target": [
+        "08002012017|Israel"
+      ],
+      "meta": {
+        "id": "08002012.8",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080020120111|אֲשֶׁר"
+      ],
+      "target": [
+        "08002012008|kepadamu"
+      ],
+      "meta": {
+        "id": "08002012.9",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080020120121|בָּאת"
+      ],
+      "target": [
+        "08002012024|datang"
+      ],
+      "meta": {
+        "id": "08002012.10",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080020120132|חֲסוֹת"
+      ],
+      "target": [
+        "08002012025|berlindung"
+      ],
+      "meta": {
+        "id": "08002012.11",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080020120141|תַּחַת"
+      ],
+      "target": [
+        "08002012021|bawah"
+      ],
+      "meta": {
+        "id": "08002012.12",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080020120151|כְּנָפָי"
+      ],
+      "target": [
+        "08002012022|sayap-Nya"
+      ],
+      "meta": {
+        "id": "08002012.13",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080020130012|תֹּאמֶר"
+      ],
+      "target": [
+        "08002013002|berkatalah"
+      ],
+      "meta": {
+        "id": "08002013.1",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080020130021|אֶמְצָא"
+      ],
+      "target": [
+        "08002013008|mendapat"
+      ],
+      "meta": {
+        "id": "08002013.2",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080020130051|אֲדֹנִ"
+      ],
+      "target": [
+        "08002013018|tuan"
+      ],
+      "meta": {
+        "id": "08002013.4",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080020130061|כִּי"
+      ],
+      "target": [
+        "08002013017|sebab"
+      ],
+      "meta": {
+        "id": "08002013.6",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080020130071|נִחַמְתָּ"
+      ],
+      "target": [
+        "08002013020|menghiburkan"
+      ],
+      "meta": {
+        "id": "08002013.7",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080020130111|לֵב"
+      ],
+      "target": [
+        "08002013025|hati"
+      ],
+      "meta": {
+        "id": "08002013.10",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080020130121|שִׁפְחָתֶ"
+      ],
+      "target": [
+        "08002013026|hambamu"
+      ],
+      "meta": {
+        "id": "08002013.11",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080020130132|אָנֹכִי"
+      ],
+      "target": [
+        "08002013007|aku"
+      ],
+      "meta": {
+        "id": "08002013.13",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080020130141|לֹא"
+      ],
+      "target": [
+        "08002013031|tidak"
+      ],
+      "meta": {
+        "id": "08002013.14",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080020130151|אֶהְיֶה"
+      ],
+      "target": [
+        "08002013033|seperti"
+      ],
+      "meta": {
+        "id": "08002013.15",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080020130162|אַחַת"
+      ],
+      "target": [
+        "08002013035|seorang"
+      ],
+      "meta": {
+        "id": "08002013.16",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080020140012|יֹּאמֶר"
+      ],
+      "target": [
+        "08002014006|berkatalah"
+      ],
+      "meta": {
+        "id": "08002014.1",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080020140031|בֹעַז"
+      ],
+      "target": [
+        "08002014007|Boas"
+      ],
+      "meta": {
+        "id": "08002014.2",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080020140042|עֵת"
+      ],
+      "target": [
+        "08002014003|waktu"
+      ],
+      "meta": {
+        "id": "08002014.3",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080020140051|הָ"
+      ],
+      "target": [
+        "08002014004|makan"
+      ],
+      "meta": {
+        "id": "08002014.4",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080020140061|גֹּשִׁי"
+      ],
+      "target": [
+        "08002014011|Datanglah"
+      ],
+      "meta": {
+        "id": "08002014.6",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080020140071|הֲלֹם"
+      ],
+      "target": [
+        "08002014013|mari"
+      ],
+      "meta": {
+        "id": "08002014.7",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080020140102|לֶּחֶם"
+      ],
+      "target": [
+        "08002014016|roti"
+      ],
+      "meta": {
+        "id": "08002014.9",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080020140121|פִּתֵּ"
+      ],
+      "target": [
+        "08002014020|suapmu"
+      ],
+      "meta": {
+        "id": "08002014.10",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080020140132|חֹמֶץ"
+      ],
+      "target": [
+        "08002014023|cuka"
+      ],
+      "meta": {
+        "id": "08002014.12",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080020140142|תֵּשֶׁב"
+      ],
+      "target": [
+        "08002014028|duduklah"
+      ],
+      "meta": {
+        "id": "08002014.13",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080020140152|צַּד"
+      ],
+      "target": [
+        "08002014031|sisi"
+      ],
+      "meta": {
+        "id": "08002014.14",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080020140162|קּוֹצְרִים"
+      ],
+      "target": [
+        "08002014032|penyabit-penyabit"
+      ],
+      "meta": {
+        "id": "08002014.15",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080020140191|קָלִי"
+      ],
+      "target": [
+        "08002014038|bertih"
+      ],
+      "meta": {
+        "id": "08002014.16",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080020140212|תִּשְׂבַּע"
+      ],
+      "target": [
+        "08002014045|kenyang"
+      ],
+      "meta": {
+        "id": "08002014.18",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080020140222|תֹּתַר"
+      ],
+      "target": [
+        "08002014049|sisanya"
+      ],
+      "meta": {
+        "id": "08002014.19",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080020150012|תָּקָם"
+      ],
+      "target": [
+        "08002015003|bangun"
+      ],
+      "meta": {
+        "id": "08002015.1",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080020150022|לַקֵּט"
+      ],
+      "target": [
+        "08002015005|memungut"
+      ],
+      "meta": {
+        "id": "08002015.2",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080020150032|יְצַו"
+      ],
+      "target": [
+        "08002015010|memerintahkan"
+      ],
+      "meta": {
+        "id": "08002015.3",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080020150041|בֹּעַז"
+      ],
+      "target": [
+        "08002015009|Boas"
+      ],
+      "meta": {
+        "id": "08002015.4",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080020150081|גַּם"
+      ],
+      "target": [
+        "08002015019|pun"
+      ],
+      "meta": {
+        "id": "08002015.5",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080020150091|בֵּין"
+      ],
+      "target": [
+        "08002015016|antara"
+      ],
+      "meta": {
+        "id": "08002015.6",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080020150102|עֳמָרִים"
+      ],
+      "target": [
+        "08002015017|berkas-berkas"
+      ],
+      "meta": {
+        "id": "08002015.7",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080020150111|תְּלַקֵּט"
+      ],
+      "target": [
+        "08002015022|memungut"
+      ],
+      "meta": {
+        "id": "08002015.8",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080020160012|גַם"
+      ],
+      "target": [
+        "08002016001|bahkan"
+      ],
+      "meta": {
+        "id": "08002016.1",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080020160072|עֲזַבְתֶּם"
+      ],
+      "target": [
+        "08002016015|meninggalkannya"
+      ],
+      "meta": {
+        "id": "08002016.2",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080020160082|לִקְּטָה"
+      ],
+      "target": [
+        "08002016018|dipungutnya"
+      ],
+      "meta": {
+        "id": "08002016.3",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080020170012|תְּלַקֵּט"
+      ],
+      "target": [
+        "08002017003|memungut"
+      ],
+      "meta": {
+        "id": "08002017.1",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080020170022|שָּׂדֶה"
+      ],
+      "target": [
+        "08002017005|ladang"
+      ],
+      "meta": {
+        "id": "08002017.2",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080020170031|עַד"
+      ],
+      "target": [
+        "08002017006|sampai"
+      ],
+      "meta": {
+        "id": "08002017.3",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080020170042|עָרֶב"
+      ],
+      "target": [
+        "08002017007|petang"
+      ],
+      "meta": {
+        "id": "08002017.4",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080020170052|תַּחְבֹּט"
+      ],
+      "target": [
+        "08002017011|mengirik"
+      ],
+      "meta": {
+        "id": "08002017.5",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080020170061|אֵת"
+      ],
+      "target": [
+        "08002017009|lalu"
+      ],
+      "meta": {
+        "id": "08002017.6",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080020170081|לִקֵּטָה"
+      ],
+      "target": [
+        "08002017013|dipungutnya"
+      ],
+      "meta": {
+        "id": "08002017.7",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080020170092|יְהִי"
+      ],
+      "target": [
+        "08002017001|Maka"
+      ],
+      "meta": {
+        "id": "08002017.8",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080020170102|אֵיפָה"
+      ],
+      "target": [
+        "08002017019|seefa"
+      ],
+      "meta": {
+        "id": "08002017.9",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080020170111|שְׂעֹרִים"
+      ],
+      "target": [
+        "08002017020|jelai"
+      ],
+      "meta": {
+        "id": "08002017.10",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080020180022|תָּבוֹא"
+      ],
+      "target": [
+        "08002018005|masuklah"
+      ],
+      "meta": {
+        "id": "08002018.1",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080020180032|עִיר"
+      ],
+      "target": [
+        "08002018008|kota"
+      ],
+      "meta": {
+        "id": "08002018.2",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080020180042|תֵּרֶא"
+      ],
+      "target": [
+        "08002018012|melihat"
+      ],
+      "meta": {
+        "id": "08002018.3",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080020180051|חֲמוֹתָ"
+      ],
+      "target": [
+        "08002018011|mertuanya"
+      ],
+      "meta": {
+        "id": "08002018.4",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080020180061|אֵת"
+      ],
+      "target": [
+        "08002018004|lalu"
+      ],
+      "meta": {
+        "id": "08002018.6",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080020180071|אֲשֶׁר"
+      ],
+      "target": [
+        "08002018013|apa"
+      ],
+      "meta": {
+        "id": "08002018.7",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080020180081|לִקֵּטָה"
+      ],
+      "target": [
+        "08002018015|dipungutnya"
+      ],
+      "meta": {
+        "id": "08002018.8",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080020180141|הוֹתִרָה"
+      ],
+      "target": [
+        "08002018025|sisa"
+      ],
+      "meta": {
+        "id": "08002018.9",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080020180152|שָּׂבְעָ"
+      ],
+      "target": [
+        "08002018029|kenyang"
+      ],
+      "meta": {
+        "id": "08002018.10",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080020190012|תֹּאמֶר"
+      ],
+      "target": [
+        "08002019002|berkatalah"
+      ],
+      "meta": {
+        "id": "08002019.1",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080020190031|חֲמוֹתָ"
+      ],
+      "target": [
+        "08002019003|mertuanya"
+      ],
+      "meta": {
+        "id": "08002019.2",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080020190041|אֵיפֹה"
+      ],
+      "target": [
+        "08002019008|mana"
+      ],
+      "meta": {
+        "id": "08002019.4",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080020190051|לִקַּטְתְּ"
+      ],
+      "target": [
+        "08002019010|memungut"
+      ],
+      "meta": {
+        "id": "08002019.5",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080020190062|יּוֹם"
+      ],
+      "target": [
+        "08002019016|hari"
+      ],
+      "meta": {
+        "id": "08002019.6",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080020190072|אָנָה"
+      ],
+      "target": [
+        "08002019013|mana"
+      ],
+      "meta": {
+        "id": "08002019.7",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080020190091|יְהִי"
+      ],
+      "target": [
+        "08002019001|maka"
+      ],
+      "meta": {
+        "id": "08002019.8",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080020190101|מַכִּירֵ"
+      ],
+      "target": [
+        "08002019021|orang"
+      ],
+      "meta": {
+        "id": "08002019.9",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080020190111|בָּרוּךְ"
+      ],
+      "target": [
+        "08002019019|Diberkatilah"
+      ],
+      "meta": {
+        "id": "08002019.10",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080020190132|חֲמוֹתָ"
+      ],
+      "target": [
+        "08002019032|mertuanya"
+      ],
+      "meta": {
+        "id": "08002019.11",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080020190141|אֵת"
+      ],
+      "target": [
+        "08002019029|Lalu"
+      ],
+      "meta": {
+        "id": "08002019.13",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080020190191|שֵׁם"
+      ],
+      "target": [
+        "08002019042|Nama"
+      ],
+      "meta": {
+        "id": "08002019.14",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080020190242|יּוֹם"
+      ],
+      "target": [
+        "08002019048|hari"
+      ],
+      "meta": {
+        "id": "08002019.16",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080020190251|בֹּעַז"
+      ],
+      "target": [
+        "08002019051|Boas"
+      ],
+      "meta": {
+        "id": "08002019.17",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080020200012|תֹּאמֶר"
+      ],
+      "target": [
+        "08002020003|berkatalah"
+      ],
+      "meta": {
+        "id": "08002020.1",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080020200021|נָעֳמִי"
+      ],
+      "target": [
+        "08002020004|Naomi"
+      ],
+      "meta": {
+        "id": "08002020.2",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080020200032|כַלָּתָ"
+      ],
+      "target": [
+        "08002020006|menantunya"
+      ],
+      "meta": {
+        "id": "08002020.3",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080020200041|בָּרוּךְ"
+      ],
+      "target": [
+        "08002020009|Diberkatilah"
+      ],
+      "meta": {
+        "id": "08002020.5",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080020200051|הוּא"
+      ],
+      "target": [
+        "08002020041|dialah"
+      ],
+      "meta": {
+        "id": "08002020.6",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080020200062|יהוָה"
+      ],
+      "target": [
+        "08002020014|Tuhan"
+      ],
+      "meta": {
+        "id": "08002020.7",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080020200101|חַסְדּ"
+      ],
+      "target": [
+        "08002020018|kasih"
+      ],
+      "meta": {
+        "id": "08002020.8",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080020200122|חַיִּים"
+      ],
+      "target": [
+        "08002020023|hidup"
+      ],
+      "meta": {
+        "id": "08002020.10",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080020200142|מֵּתִים"
+      ],
+      "target": [
+        "08002020026|mati"
+      ],
+      "meta": {
+        "id": "08002020.12",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080020200152|תֹּאמֶר"
+      ],
+      "target": [
+        "08002020030|kata"
+      ],
+      "meta": {
+        "id": "08002020.13",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080020200171|נָעֳמִי"
+      ],
+      "target": [
+        "08002020031|Naomi"
+      ],
+      "meta": {
+        "id": "08002020.14",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080020200202|אִישׁ"
+      ],
+      "target": [
+        "08002020011|orang"
+      ],
+      "meta": {
+        "id": "08002020.15",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080020200212|גֹּאֲלֵ"
+      ],
+      "target": [
+        "08002020046|menebus"
+      ],
+      "meta": {
+        "id": "08002020.16",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080020210012|תֹּאמֶר"
+      ],
+      "target": [
+        "08002021012|berkata"
+      ],
+      "meta": {
+        "id": "08002021.1",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080020210021|רוּת"
+      ],
+      "target": [
+        "08002021003|Rut"
+      ],
+      "meta": {
+        "id": "08002021.2",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080020210032|מּוֹאֲבִיָּה"
+      ],
+      "target": [
+        "08002021006|Moab"
+      ],
+      "meta": {
+        "id": "08002021.3",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080020210061|אָמַר"
+      ],
+      "target": [
+        "08002021002|kata"
+      ],
+      "meta": {
+        "id": "08002021.4",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080020210071|אֵלַ"
+      ],
+      "target": [
+        "08002021013|kepadaku"
+      ],
+      "meta": {
+        "id": "08002021.5",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080020210081|עִם"
+      ],
+      "target": [
+        "08002021016|dekat"
+      ],
+      "meta": {
+        "id": "08002021.7",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080020210121|תִּדְבָּקִי"
+      ],
+      "target": [
+        "08002021017|pengerja-pengerjaku"
+      ],
+      "meta": {
+        "id": "08002021.8",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080020210131|עַד"
+      ],
+      "target": [
+        "08002021018|sampai"
+      ],
+      "meta": {
+        "id": "08002021.10",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080020210151|כִּלּוּ"
+      ],
+      "target": [
+        "08002021020|menyelesaikan"
+      ],
+      "meta": {
+        "id": "08002021.11",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080020210161|אֵת"
+      ],
+      "target": [
+        "08002021001|Lalu"
+      ],
+      "meta": {
+        "id": "08002021.12",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080020210171|כָּל"
+      ],
+      "target": [
+        "08002021021|seluruh"
+      ],
+      "meta": {
+        "id": "08002021.13",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080020220012|תֹּאמֶר"
+      ],
+      "target": [
+        "08002022002|berkatalah"
+      ],
+      "meta": {
+        "id": "08002022.1",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080020220021|נָעֳמִי"
+      ],
+      "target": [
+        "08002022003|Naomi"
+      ],
+      "meta": {
+        "id": "08002022.2",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080020220041|רוּת"
+      ],
+      "target": [
+        "08002022005|Rut"
+      ],
+      "meta": {
+        "id": "08002022.3",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080020220051|כַּלָּתָ"
+      ],
+      "target": [
+        "08002022007|menantunya"
+      ],
+      "meta": {
+        "id": "08002022.4",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080020220071|בִּתִּ"
+      ],
+      "target": [
+        "08002022020|perempuan"
+      ],
+      "meta": {
+        "id": "08002022.6",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080020220091|תֵצְאִי"
+      ],
+      "target": [
+        "08002022016|keluar"
+      ],
+      "meta": {
+        "id": "08002022.8",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080020220101|עִם"
+      ],
+      "target": [
+        "08002022017|bersama-sama"
+      ],
+      "meta": {
+        "id": "08002022.9",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080020220111|נַעֲרוֹתָי"
+      ],
+      "target": [
+        "08002022019|pengerja-pengerjanya"
+      ],
+      "meta": {
+        "id": "08002022.10",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080020220152|שָׂדֶה"
+      ],
+      "target": [
+        "08002022028|ladang"
+      ],
+      "meta": {
+        "id": "08002022.12",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080020220161|אַחֵר"
+      ],
+      "target": [
+        "08002022029|lain"
+      ],
+      "meta": {
+        "id": "08002022.13",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080020230022|נַעֲרוֹת"
+      ],
+      "target": [
+        "08002023006|pengerja-pengerja"
+      ],
+      "meta": {
+        "id": "08002023.1",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080020230031|בֹּעַז"
+      ],
+      "target": [
+        "08002023008|Boas"
+      ],
+      "meta": {
+        "id": "08002023.2",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080020230042|לַקֵּט"
+      ],
+      "target": [
+        "08002023010|memungut"
+      ],
+      "meta": {
+        "id": "08002023.3",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080020230051|עַד"
+      ],
+      "target": [
+        "08002023012|sampai"
+      ],
+      "meta": {
+        "id": "08002023.4",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080020230061|כְּלוֹת"
+      ],
+      "target": [
+        "08002023021|berakhir"
+      ],
+      "meta": {
+        "id": "08002023.5",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080020230071|קְצִיר"
+      ],
+      "target": [
+        "08002023014|menuai"
+      ],
+      "meta": {
+        "id": "08002023.6",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080020230082|שְּׂעֹרִים"
+      ],
+      "target": [
+        "08002023015|jelai"
+      ],
+      "meta": {
+        "id": "08002023.7",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080020230092|קְצִיר"
+      ],
+      "target": [
+        "08002023018|menuai"
+      ],
+      "meta": {
+        "id": "08002023.8",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080020230102|חִטִּים"
+      ],
+      "target": [
+        "08002023019|gandum"
+      ],
+      "meta": {
+        "id": "08002023.9",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080020230112|תֵּשֶׁב"
+      ],
+      "target": [
+        "08002023027|tinggal"
+      ],
+      "meta": {
+        "id": "08002023.10",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080020230131|חֲמוֹתָ"
+      ],
+      "target": [
+        "08002023029|mertuanya"
+      ],
+      "meta": {
+        "id": "08002023.11",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080030010012|תֹּאמֶר"
+      ],
+      "target": [
+        "08003001007|berkata"
+      ],
+      "meta": {
+        "id": "08003001.1",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080030010031|נָעֳמִי"
+      ],
+      "target": [
+        "08003001002|Naomi"
+      ],
+      "meta": {
+        "id": "08003001.2",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080030010041|חֲמוֹתָ"
+      ],
+      "target": [
+        "08003001004|mertuanya"
+      ],
+      "meta": {
+        "id": "08003001.3",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080030010051|בִּתִּ"
+      ],
+      "target": [
+        "08003001011|Anakku"
+      ],
+      "meta": {
+        "id": "08003001.5",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080030010061|הֲ"
+      ],
+      "target": [
+        "08003001013|apakah"
+      ],
+      "meta": {
+        "id": "08003001.7",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080030010062|לֹא"
+      ],
+      "target": [
+        "08003001014|tidak"
+      ],
+      "meta": {
+        "id": "08003001.8",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080030010071|אֲבַקֶּשׁ"
+      ],
+      "target": [
+        "08003001019|mencari"
+      ],
+      "meta": {
+        "id": "08003001.9",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080030020012|עַתָּה"
+      ],
+      "target": [
+        "08003002002|sekarang"
+      ],
+      "meta": {
+        "id": "08003002.1",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080030020021|הֲ"
+      ],
+      "target": [
+        "08003002004|bukankah"
+      ],
+      "meta": {
+        "id": "08003002.2",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080030020031|בֹעַז"
+      ],
+      "target": [
+        "08003002005|Boas"
+      ],
+      "meta": {
+        "id": "08003002.3",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080030020041|מֹדַעְתָּ"
+      ],
+      "target": [
+        "08003002015|sanak"
+      ],
+      "meta": {
+        "id": "08003002.4",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080030020061|הָיִית"
+      ],
+      "target": [
+        "08003002001|Maka"
+      ],
+      "meta": {
+        "id": "08003002.5",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080030020081|נַעֲרוֹתָי"
+      ],
+      "target": [
+        "08003002008|pengerja-pengerjanya"
+      ],
+      "meta": {
+        "id": "08003002.6",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080030020101|הוּא"
+      ],
+      "target": [
+        "08003002018|Dia"
+      ],
+      "meta": {
+        "id": "08003002.8",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080030020111|זֹרֶה"
+      ],
+      "target": [
+        "08003002022|menampi"
+      ],
+      "meta": {
+        "id": "08003002.9",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080030020131|גֹּרֶן"
+      ],
+      "target": [
+        "08003002026|pengirikan"
+      ],
+      "meta": {
+        "id": "08003002.10",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080030020142|שְּׂעֹרִים"
+      ],
+      "target": [
+        "08003002023|jelai"
+      ],
+      "meta": {
+        "id": "08003002.11",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080030020151|הַ"
+      ],
+      "target": [
+        "08003002020|malam"
+      ],
+      "meta": {
+        "id": "08003002.12",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080030030012|רָחַצְתְּ"
+      ],
+      "target": [
+        "08003003002|mandilah"
+      ],
+      "meta": {
+        "id": "08003003.1",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080030030022|סַכְתְּ"
+      ],
+      "target": [
+        "08003003004|beruraplah"
+      ],
+      "meta": {
+        "id": "08003003.2",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080030030051|שִׂמְלֹתַיִ"
+      ],
+      "target": [
+        "08003003007|pakaian"
+      ],
+      "meta": {
+        "id": "08003003.3",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080030030082|יָרַדְתְּ"
+      ],
+      "target": [
+        "08003003010|pergilah"
+      ],
+      "meta": {
+        "id": "08003003.5",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080030030092|גֹּרֶן"
+      ],
+      "target": [
+        "08003003013|pengirikan"
+      ],
+      "meta": {
+        "id": "08003003.6",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080030030122|אִישׁ"
+      ],
+      "target": [
+        "08003003021|orang"
+      ],
+      "meta": {
+        "id": "08003003.7",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080030030141|כַּלֹּת"
+      ],
+      "target": [
+        "08003003026|selesai"
+      ],
+      "meta": {
+        "id": "08003003.8",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080030030152|אֱכֹל"
+      ],
+      "target": [
+        "08003003027|makan"
+      ],
+      "meta": {
+        "id": "08003003.10",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080030030163|שְׁתּוֹת"
+      ],
+      "target": [
+        "08003003029|minum"
+      ],
+      "meta": {
+        "id": "08003003.11",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080030040012|יהִי"
+      ],
+      "target": [
+        "08003004028|Maka"
+      ],
+      "meta": {
+        "id": "08003004.1",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080030040022|שָׁכְב"
+      ],
+      "target": [
+        "08003004005|tidur"
+      ],
+      "meta": {
+        "id": "08003004.2",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080030040032|יָדַעַתְּ"
+      ],
+      "target": [
+        "08003004009|perhatikan"
+      ],
+      "meta": {
+        "id": "08003004.4",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080030040052|מָּקוֹם"
+      ],
+      "target": [
+        "08003004011|tempat"
+      ],
+      "meta": {
+        "id": "08003004.5",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080030040061|אֲשֶׁר"
+      ],
+      "target": [
+        "08003004032|kepadamu"
+      ],
+      "meta": {
+        "id": "08003004.6",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080030040071|יִשְׁכַּב"
+      ],
+      "target": [
+        "08003004013|berbaring"
+      ],
+      "meta": {
+        "id": "08003004.7",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080030040081|שָׁם"
+      ],
+      "target": [
+        "08003004026|sana"
+      ],
+      "meta": {
+        "id": "08003004.8",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080030040092|בָאת"
+      ],
+      "target": [
+        "08003004016|datanglah"
+      ],
+      "meta": {
+        "id": "08003004.9",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080030040111|מַרְגְּלֹתָי"
+      ],
+      "target": [
+        "08003004024|berbaringlah"
+      ],
+      "meta": {
+        "id": "08003004.10",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080030040151|יַגִּיד"
+      ],
+      "target": [
+        "08003004031|memberitahukan"
+      ],
+      "meta": {
+        "id": "08003004.13",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080030040191|תַּעַשִׂי"
+      ],
+      "target": [
+        "08003004033|apa"
+      ],
+      "meta": {
+        "id": "08003004.14",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080030050021|אֵלֶי"
+      ],
+      "target": [
+        "08003005004|kepadanya"
+      ],
+      "meta": {
+        "id": "08003005.1",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080030050031|כֹּל"
+      ],
+      "target": [
+        "08003005007|Segala"
+      ],
+      "meta": {
+        "id": "08003005.3",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080030060012|תֵּרֶד"
+      ],
+      "target": [
+        "08003006003|pergilah"
+      ],
+      "meta": {
+        "id": "08003006.1",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080030060022|גֹּרֶן"
+      ],
+      "target": [
+        "08003006007|pengirikan"
+      ],
+      "meta": {
+        "id": "08003006.2",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080030060051|אֲשֶׁר"
+      ],
+      "target": [
+        "08003006009|dilakukannyalah"
+      ],
+      "meta": {
+        "id": "08003006.3",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080030060061|צִוַּתָּ"
+      ],
+      "target": [
+        "08003006013|diperintahkan"
+      ],
+      "meta": {
+        "id": "08003006.4",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080030060071|חֲמוֹתָ"
+      ],
+      "target": [
+        "08003006014|mertuanya"
+      ],
+      "meta": {
+        "id": "08003006.6",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080030070012|יֹּאכַל"
+      ],
+      "target": [
+        "08003007004|makan"
+      ],
+      "meta": {
+        "id": "08003007.1",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080030070021|בֹּעַז"
+      ],
+      "target": [
+        "08003007002|Boas"
+      ],
+      "meta": {
+        "id": "08003007.2",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080030070032|יֵּשְׁתְּ"
+      ],
+      "target": [
+        "08003007006|minum"
+      ],
+      "meta": {
+        "id": "08003007.3",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080030070042|יִּיטַב"
+      ],
+      "target": [
+        "08003007009|gembira"
+      ],
+      "meta": {
+        "id": "08003007.4",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080030070051|לִבּ"
+      ],
+      "target": [
+        "08003007008|hatinya"
+      ],
+      "meta": {
+        "id": "08003007.5",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080030070062|יָּבֹא"
+      ],
+      "target": [
+        "08003007011|datanglah"
+      ],
+      "meta": {
+        "id": "08003007.7",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080030070072|שְׁכַּב"
+      ],
+      "target": [
+        "08003007016|tidur"
+      ],
+      "meta": {
+        "id": "08003007.8",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080030070082|קְצֵה"
+      ],
+      "target": [
+        "08003007018|ujung"
+      ],
+      "meta": {
+        "id": "08003007.9",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080030070092|עֲרֵמָה"
+      ],
+      "target": [
+        "08003007019|timbunan"
+      ],
+      "meta": {
+        "id": "08003007.10",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080030070102|תָּבֹא"
+      ],
+      "target": [
+        "08003007024|datanglah"
+      ],
+      "meta": {
+        "id": "08003007.11",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080030070111|בַ"
+      ],
+      "target": [
+        "08003007029|diam-diam"
+      ],
+      "meta": {
+        "id": "08003007.12",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080030070131|מַרְגְּלֹתָי"
+      ],
+      "target": [
+        "08003007037|berbaringlah"
+      ],
+      "meta": {
+        "id": "08003007.14",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080030070142|תִּשְׁכָּב"
+      ],
+      "target": [
+        "08003007014|membaringkan"
+      ],
+      "meta": {
+        "id": "08003007.16",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080030080012|יְהִי"
+      ],
+      "target": [
+        "08003008018|ada"
+      ],
+      "meta": {
+        "id": "08003008.1",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080030080032|לַּיְלָה"
+      ],
+      "target": [
+        "08003008004|malam"
+      ],
+      "meta": {
+        "id": "08003008.2",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080030080042|יֶּחֱרַד"
+      ],
+      "target": [
+        "08003008006|terkejut"
+      ],
+      "meta": {
+        "id": "08003008.4",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080030080052|אִישׁ"
+      ],
+      "target": [
+        "08003008008|orang"
+      ],
+      "meta": {
+        "id": "08003008.6",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080030080081|אִשָּׁה"
+      ],
+      "target": [
+        "08003008020|perempuan"
+      ],
+      "meta": {
+        "id": "08003008.8",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080030080101|מַרְגְּלֹתָי"
+      ],
+      "target": [
+        "08003008021|berbaring"
+      ],
+      "meta": {
+        "id": "08003008.10",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080030090012|יֹּאמֶר"
+      ],
+      "target": [
+        "08003009010|Jawabnya"
+      ],
+      "meta": {
+        "id": "08003009.1",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080030090021|מִי"
+      ],
+      "target": [
+        "08003009005|Siapakah"
+      ],
+      "meta": {
+        "id": "08003009.2",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080030090051|אָנֹכִי"
+      ],
+      "target": [
+        "08003009013|Aku"
+      ],
+      "meta": {
+        "id": "08003009.3",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080030090061|רוּת"
+      ],
+      "target": [
+        "08003009014|Rut"
+      ],
+      "meta": {
+        "id": "08003009.4",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080030090071|אֲמָתֶ"
+      ],
+      "target": [
+        "08003009016|hambamu"
+      ],
+      "meta": {
+        "id": "08003009.5",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080030090111|אֲמָתְ"
+      ],
+      "target": [
+        "08003009022|hambamu"
+      ],
+      "meta": {
+        "id": "08003009.7",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080030090121|כִּי"
+      ],
+      "target": [
+        "08003009025|sebab"
+      ],
+      "meta": {
+        "id": "08003009.9",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080030090131|גֹאֵל"
+      ],
+      "target": [
+        "08003009031|menebus"
+      ],
+      "meta": {
+        "id": "08003009.10",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080030090141|אָתָּה"
+      ],
+      "target": [
+        "08003009006|engkau"
+      ],
+      "meta": {
+        "id": "08003009.11",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080030100012|יֹּאמֶר"
+      ],
+      "target": [
+        "08003010002|katanya"
+      ],
+      "meta": {
+        "id": "08003010.1",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080030100021|בְּרוּכָה"
+      ],
+      "target": [
+        "08003010005|Diberkatilah"
+      ],
+      "meta": {
+        "id": "08003010.2",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080030100042|יהוָה"
+      ],
+      "target": [
+        "08003010009|Tuhan"
+      ],
+      "meta": {
+        "id": "08003010.3",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080030100051|בִּתִּ"
+      ],
+      "target": [
+        "08003010012|anakku"
+      ],
+      "meta": {
+        "id": "08003010.4",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080030100061|הֵיטַבְתְּ"
+      ],
+      "target": [
+        "08003010035|baik"
+      ],
+      "meta": {
+        "id": "08003010.6",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080030100102|רִאשׁוֹן"
+      ],
+      "target": [
+        "08003010024|pertama"
+      ],
+      "meta": {
+        "id": "08003010.7",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080030100142|בַּחוּרִים"
+      ],
+      "target": [
+        "08003010033|muda"
+      ],
+      "meta": {
+        "id": "08003010.8",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080030100161|דַּל"
+      ],
+      "target": [
+        "08003010037|miskin"
+      ],
+      "meta": {
+        "id": "08003010.9",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080030100181|עָשִׁיר"
+      ],
+      "target": [
+        "08003010040|kaya"
+      ],
+      "meta": {
+        "id": "08003010.10",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080030110021|בִּתִּ"
+      ],
+      "target": [
+        "08003011005|anakku"
+      ],
+      "meta": {
+        "id": "08003011.1",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080030110041|תִּירְאִי"
+      ],
+      "target": [
+        "08003011008|takut"
+      ],
+      "meta": {
+        "id": "08003011.3",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080030110051|כֹּל"
+      ],
+      "target": [
+        "08003011010|segala"
+      ],
+      "meta": {
+        "id": "08003011.4",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080030110061|אֲשֶׁר"
+      ],
+      "target": [
+        "08003011016|kepadamu"
+      ],
+      "meta": {
+        "id": "08003011.5",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080030110081|אֶעֱשֶׂה"
+      ],
+      "target": [
+        "08003011015|kulakukan"
+      ],
+      "meta": {
+        "id": "08003011.6",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080030110101|כִּי"
+      ],
+      "target": [
+        "08003011002|sebab"
+      ],
+      "meta": {
+        "id": "08003011.7",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080030110111|יוֹדֵעַ"
+      ],
+      "target": [
+        "08003011024|tahu"
+      ],
+      "meta": {
+        "id": "08003011.8",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080030110121|כָּל"
+      ],
+      "target": [
+        "08003011019|setiap"
+      ],
+      "meta": {
+        "id": "08003011.9",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080030110131|שַׁעַר"
+      ],
+      "target": [
+        "08003011022|kota"
+      ],
+      "meta": {
+        "id": "08003011.10",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080030110141|עַמִּ"
+      ],
+      "target": [
+        "08003011020|orang"
+      ],
+      "meta": {
+        "id": "08003011.11",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080030110151|כִּי"
+      ],
+      "target": [
+        "08003011018|sebab"
+      ],
+      "meta": {
+        "id": "08003011.12",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080030110161|אֵשֶׁת"
+      ],
+      "target": [
+        "08003011029|perempuan"
+      ],
+      "meta": {
+        "id": "08003011.13",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080030120012|עַתָּה"
+      ],
+      "target": [
+        "08003012002|sekarang"
+      ],
+      "meta": {
+        "id": "08003012.1",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080030120031|אָמְנָם"
+      ],
+      "target": [
+        "08003012004|memang"
+      ],
+      "meta": {
+        "id": "08003012.2",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080030120071|אָנֹכִי"
+      ],
+      "target": [
+        "08003012010|menebus"
+      ],
+      "meta": {
+        "id": "08003012.3",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080030120081|וְ"
+      ],
+      "target": [
+        "08003012005|aku"
+      ],
+      "meta": {
+        "id": "08003012.4",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080030120101|גֹּאֵל"
+      ],
+      "target": [
+        "08003012016|ada"
+      ],
+      "meta": {
+        "id": "08003012.5",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080030120111|קָרוֹב"
+      ],
+      "target": [
+        "08003012019|penebus"
+      ],
+      "meta": {
+        "id": "08003012.6",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080030120121|מִמֶּ"
+      ],
+      "target": [
+        "08003012023|dekat"
+      ],
+      "meta": {
+        "id": "08003012.7",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080030130011|לִינִי"
+      ],
+      "target": [
+        "08003013001|Tinggallah"
+      ],
+      "meta": {
+        "id": "08003013.1",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080030130022|לַּיְלָה"
+      ],
+      "target": [
+        "08003013004|malam"
+      ],
+      "meta": {
+        "id": "08003013.2",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080030130032|הָיָה"
+      ],
+      "target": [
+        "08003013031|maka"
+      ],
+      "meta": {
+        "id": "08003013.3",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080030130042|בֹּקֶר"
+      ],
+      "target": [
+        "08003013009|pagi"
+      ],
+      "meta": {
+        "id": "08003013.4",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080030130051|אִם"
+      ],
+      "target": [
+        "08003013011|jika"
+      ],
+      "meta": {
+        "id": "08003013.5",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080030130061|יִגְאָלֵ"
+      ],
+      "target": [
+        "08003013014|menebus"
+      ],
+      "meta": {
+        "id": "08003013.6",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080030130071|טוֹב"
+      ],
+      "target": [
+        "08003013017|baik"
+      ],
+      "meta": {
+        "id": "08003013.8",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080030130081|יִגְאָל"
+      ],
+      "target": [
+        "08003013021|menebus"
+      ],
+      "meta": {
+        "id": "08003013.9",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080030130092|אִם"
+      ],
+      "target": [
+        "08003013024|jika"
+      ],
+      "meta": {
+        "id": "08003013.10",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080030130101|לֹא"
+      ],
+      "target": [
+        "08003013026|tidak"
+      ],
+      "meta": {
+        "id": "08003013.11",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080030130111|יַחְפֹּץ"
+      ],
+      "target": [
+        "08003013027|suka"
+      ],
+      "meta": {
+        "id": "08003013.12",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080030130122|גָאֳלֵ"
+      ],
+      "target": [
+        "08003013028|menebus"
+      ],
+      "meta": {
+        "id": "08003013.13",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080030130132|גְאַלְתִּי"
+      ],
+      "target": [
+        "08003013035|menebus"
+      ],
+      "meta": {
+        "id": "08003013.15",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080030130141|אָנֹכִי"
+      ],
+      "target": [
+        "08003013032|akulah"
+      ],
+      "meta": {
+        "id": "08003013.17",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080030130151|חַי"
+      ],
+      "target": [
+        "08003013041|hidup"
+      ],
+      "meta": {
+        "id": "08003013.18",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080030130161|יְהוָה"
+      ],
+      "target": [
+        "08003013039|Tuhan"
+      ],
+      "meta": {
+        "id": "08003013.19",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080030130171|שִׁכְבִי"
+      ],
+      "target": [
+        "08003013045|tidur"
+      ],
+      "meta": {
+        "id": "08003013.20",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080030130181|עַד"
+      ],
+      "target": [
+        "08003013046|sampai"
+      ],
+      "meta": {
+        "id": "08003013.21",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080030130192|בֹּקֶר"
+      ],
+      "target": [
+        "08003013047|pagi"
+      ],
+      "meta": {
+        "id": "08003013.22",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080030140012|תִּשְׁכַּב"
+      ],
+      "target": [
+        "08003014004|tidur"
+      ],
+      "meta": {
+        "id": "08003014.1",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080030140031|מַרְגְּלוֹתָי"
+      ],
+      "target": [
+        "08003014007|kakinya"
+      ],
+      "meta": {
+        "id": "08003014.2",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080030140041|עַד"
+      ],
+      "target": [
+        "08003014008|sampai"
+      ],
+      "meta": {
+        "id": "08003014.4",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080030140052|בֹּקֶר"
+      ],
+      "target": [
+        "08003014009|pagi"
+      ],
+      "meta": {
+        "id": "08003014.5",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080030140062|תָּקָם"
+      ],
+      "target": [
+        "08003014012|bangunlah"
+      ],
+      "meta": {
+        "id": "08003014.6",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080030140082|טֶרֶם"
+      ],
+      "target": [
+        "08003014015|sebelum"
+      ],
+      "meta": {
+        "id": "08003014.7",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080030140101|אִישׁ"
+      ],
+      "target": [
+        "08003014016|orang"
+      ],
+      "meta": {
+        "id": "08003014.8",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080030140111|אֶת"
+      ],
+      "target": [
+        "08003014011|lalu"
+      ],
+      "meta": {
+        "id": "08003014.9",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080030140132|יֹּאמֶר"
+      ],
+      "target": [
+        "08003014021|kata"
+      ],
+      "meta": {
+        "id": "08003014.10",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080030140151|יִוָּדַע"
+      ],
+      "target": [
+        "08003014029|bahwa"
+      ],
+      "meta": {
+        "id": "08003014.11",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080030140161|כִּי"
+      ],
+      "target": [
+        "08003014020|sebab"
+      ],
+      "meta": {
+        "id": "08003014.12",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080030140171|בָאָה"
+      ],
+      "target": [
+        "08003014032|datang"
+      ],
+      "meta": {
+        "id": "08003014.13",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080030140182|אִשָּׁה"
+      ],
+      "target": [
+        "08003014031|perempuan"
+      ],
+      "meta": {
+        "id": "08003014.14",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080030140192|גֹּרֶן"
+      ],
+      "target": [
+        "08003014035|pengirikan"
+      ],
+      "meta": {
+        "id": "08003014.15",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080030150012|יֹּאמֶר"
+      ],
+      "target": [
+        "08003015002|katanya"
+      ],
+      "meta": {
+        "id": "08003015.1",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080030150021|הָבִי"
+      ],
+      "target": [
+        "08003015005|Berikanlah"
+      ],
+      "meta": {
+        "id": "08003015.2",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080030150032|מִּטְפַּחַת"
+      ],
+      "target": [
+        "08003015006|selendang"
+      ],
+      "meta": {
+        "id": "08003015.3",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080030150111|שֵׁשׁ"
+      ],
+      "target": [
+        "08003015023|enam"
+      ],
+      "meta": {
+        "id": "08003015.4",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080030150121|שְׂעֹרִים"
+      ],
+      "target": [
+        "08003015025|jelai"
+      ],
+      "meta": {
+        "id": "08003015.5",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080030150152|יָּבֹא"
+      ],
+      "target": [
+        "08003015016|Lalu"
+      ],
+      "meta": {
+        "id": "08003015.6",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080030150162|עִיר"
+      ],
+      "target": [
+        "08003015036|kota"
+      ],
+      "meta": {
+        "id": "08003015.7",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080030160012|תָּבוֹא"
+      ],
+      "target": [
+        "08003016004|sampai"
+      ],
+      "meta": {
+        "id": "08003016.1",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080030160031|חֲמוֹתָ"
+      ],
+      "target": [
+        "08003016006|mertuanya"
+      ],
+      "meta": {
+        "id": "08003016.2",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080030160042|תֹּאמֶר"
+      ],
+      "target": [
+        "08003016008|berkatalah"
+      ],
+      "meta": {
+        "id": "08003016.4",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080030160051|מִי"
+      ],
+      "target": [
+        "08003016022|dilakukan"
+      ],
+      "meta": {
+        "id": "08003016.5",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080030160071|בִּתִּ"
+      ],
+      "target": [
+        "08003016002|perempuan"
+      ],
+      "meta": {
+        "id": "08003016.6",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080030160101|אֵת"
+      ],
+      "target": [
+        "08003016018|Lalu"
+      ],
+      "meta": {
+        "id": "08003016.8",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080030160111|כָּל"
+      ],
+      "target": [
+        "08003016020|semua"
+      ],
+      "meta": {
+        "id": "08003016.9",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080030160152|אִישׁ"
+      ],
+      "target": [
+        "08003016023|orang"
+      ],
+      "meta": {
+        "id": "08003016.10",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080030170021|שֵׁשׁ"
+      ],
+      "target": [
+        "08003017006|enam"
+      ],
+      "meta": {
+        "id": "08003017.1",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080030170032|שְּׂעֹרִים"
+      ],
+      "target": [
+        "08003017008|jelai"
+      ],
+      "meta": {
+        "id": "08003017.2",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080030170051|נָתַן"
+      ],
+      "target": [
+        "08003017010|diberikannya"
+      ],
+      "meta": {
+        "id": "08003017.3",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080030170071|כִּי"
+      ],
+      "target": [
+        "08003017013|sebab"
+      ],
+      "meta": {
+        "id": "08003017.4",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080030170081|אָמַר"
+      ],
+      "target": [
+        "08003017002|berkata"
+      ],
+      "meta": {
+        "id": "08003017.5",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080030170121|רֵיקָם"
+      ],
+      "target": [
+        "08003017024|hampa"
+      ],
+      "meta": {
+        "id": "08003017.6",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080030180012|תֹּאמֶר"
+      ],
+      "target": [
+        "08003018002|kata"
+      ],
+      "meta": {
+        "id": "08003018.1",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080030180021|שְׁבִי"
+      ],
+      "target": [
+        "08003018007|Duduk"
+      ],
+      "meta": {
+        "id": "08003018.2",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080030180031|בִתִּ"
+      ],
+      "target": [
+        "08003018011|anakku"
+      ],
+      "meta": {
+        "id": "08003018.3",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080030180041|עַד"
+      ],
+      "target": [
+        "08003018013|sampai"
+      ],
+      "meta": {
+        "id": "08003018.5",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080030180061|תֵּדְעִי"
+      ],
+      "target": [
+        "08003018015|mengetahui"
+      ],
+      "meta": {
+        "id": "08003018.6",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080030180071|אֵיךְ"
+      ],
+      "target": [
+        "08003018017|bagaimana"
+      ],
+      "meta": {
+        "id": "08003018.8",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080030180091|דָּבָר"
+      ],
+      "target": [
+        "08003018019|perkara"
+      ],
+      "meta": {
+        "id": "08003018.9",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080030180101|כִּי"
+      ],
+      "target": [
+        "08003018022|sebab"
+      ],
+      "meta": {
+        "id": "08003018.10",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080030180111|לֹא"
+      ],
+      "target": [
+        "08003018025|tidak"
+      ],
+      "meta": {
+        "id": "08003018.11",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080030180132|אִישׁ"
+      ],
+      "target": [
+        "08003018023|orang"
+      ],
+      "meta": {
+        "id": "08003018.12",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080030180172|דָּבָר"
+      ],
+      "target": [
+        "08003018031|perkara"
+      ],
+      "meta": {
+        "id": "08003018.14",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080030180182|יּוֹם"
+      ],
+      "target": [
+        "08003018034|hari"
+      ],
+      "meta": {
+        "id": "08003018.15",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080040010012|בֹעַז"
+      ],
+      "target": [
+        "08004001001|Boas"
+      ],
+      "meta": {
+        "id": "08004001.1",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080040010021|עָלָה"
+      ],
+      "target": [
+        "08004001003|pergi"
+      ],
+      "meta": {
+        "id": "08004001.2",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080040010032|שַּׁעַר"
+      ],
+      "target": [
+        "08004001006|gerbang"
+      ],
+      "meta": {
+        "id": "08004001.3",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080040010042|יֵּשֶׁב"
+      ],
+      "target": [
+        "08004001008|duduk"
+      ],
+      "meta": {
+        "id": "08004001.4",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080040010051|שָׁם"
+      ],
+      "target": [
+        "08004001010|sana"
+      ],
+      "meta": {
+        "id": "08004001.5",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080040010072|גֹּאֵל"
+      ],
+      "target": [
+        "08004001014|penebus"
+      ],
+      "meta": {
+        "id": "08004001.6",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080040010081|עֹבֵר"
+      ],
+      "target": [
+        "08004001013|lewatlah"
+      ],
+      "meta": {
+        "id": "08004001.7",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080040010111|בֹּעַז"
+      ],
+      "target": [
+        "08004001017|Boas"
+      ],
+      "meta": {
+        "id": "08004001.8",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080040010122|יֹּאמֶר"
+      ],
+      "target": [
+        "08004001021|berkatalah"
+      ],
+      "meta": {
+        "id": "08004001.9",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080040010141|שְׁבָ"
+      ],
+      "target": [
+        "08004001043|duduk"
+      ],
+      "meta": {
+        "id": "08004001.10",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080040010151|פֹּה"
+      ],
+      "target": [
+        "08004001035|sini"
+      ],
+      "meta": {
+        "id": "08004001.12",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080040010161|פְּלֹנִי"
+      ],
+      "target": [
+        "08004001026|saudara"
+      ],
+      "meta": {
+        "id": "08004001.13",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080040010192|יֵּשֵׁב"
+      ],
+      "target": [
+        "08004001033|duduklah"
+      ],
+      "meta": {
+        "id": "08004001.14",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080040020021|עֲשָׂרָה"
+      ],
+      "target": [
+        "08004002003|sepuluh"
+      ],
+      "meta": {
+        "id": "08004002.1",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080040020031|אֲנָשִׁים"
+      ],
+      "target": [
+        "08004002004|orang"
+      ],
+      "meta": {
+        "id": "08004002.2",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080040020042|זִּקְנֵי"
+      ],
+      "target": [
+        "08004002007|tua-tua"
+      ],
+      "meta": {
+        "id": "08004002.3",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080040020052|עִיר"
+      ],
+      "target": [
+        "08004002008|kota"
+      ],
+      "meta": {
+        "id": "08004002.4",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080040020062|יֹּאמֶר"
+      ],
+      "target": [
+        "08004002012|berkata"
+      ],
+      "meta": {
+        "id": "08004002.5",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080040020071|שְׁבוּ"
+      ],
+      "target": [
+        "08004002015|Duduklah"
+      ],
+      "meta": {
+        "id": "08004002.6",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080040020081|פֹה"
+      ],
+      "target": [
+        "08004002018|sini"
+      ],
+      "meta": {
+        "id": "08004002.7",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080040020092|יֵּשֵׁבוּ"
+      ],
+      "target": [
+        "08004002022|duduklah"
+      ],
+      "meta": {
+        "id": "08004002.8",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080040030012|יֹּאמֶר"
+      ],
+      "target": [
+        "08004003002|berkatalah"
+      ],
+      "meta": {
+        "id": "08004003.1",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080040030022|גֹּאֵל"
+      ],
+      "target": [
+        "08004003005|penebus"
+      ],
+      "meta": {
+        "id": "08004003.2",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080040030031|חֶלְקַת"
+      ],
+      "target": [
+        "08004003016|dijual"
+      ],
+      "meta": {
+        "id": "08004003.3",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080040030062|אָחִי"
+      ],
+      "target": [
+        "08004003012|saudara"
+      ],
+      "meta": {
+        "id": "08004003.4",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080040030072|אֱלִימֶלֶךְ"
+      ],
+      "target": [
+        "08004003014|Elimelekh"
+      ],
+      "meta": {
+        "id": "08004003.6",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080040030091|נָעֳמִי"
+      ],
+      "target": [
+        "08004003018|Naomi"
+      ],
+      "meta": {
+        "id": "08004003.8",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080040030102|שָּׁבָה"
+      ],
+      "target": [
+        "08004003022|pulang"
+      ],
+      "meta": {
+        "id": "08004003.9",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080040030121|מוֹאָב"
+      ],
+      "target": [
+        "08004003025|Moab"
+      ],
+      "meta": {
+        "id": "08004003.10",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080040040012|אֲנִי"
+      ],
+      "target": [
+        "08004004049|aku"
+      ],
+      "meta": {
+        "id": "08004004.1",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080040040021|אָמַרְתִּי"
+      ],
+      "target": [
+        "08004004070|berkatalah"
+      ],
+      "meta": {
+        "id": "08004004.2",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080040040061|קְנֵה"
+      ],
+      "target": [
+        "08004004013|Belilah"
+      ],
+      "meta": {
+        "id": "08004004.3",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080040040071|נֶגֶד"
+      ],
+      "target": [
+        "08004004017|depan"
+      ],
+      "meta": {
+        "id": "08004004.4",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080040040082|יֹּשְׁבִים"
+      ],
+      "target": [
+        "08004004020|duduk"
+      ],
+      "meta": {
+        "id": "08004004.5",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080040040092|נֶגֶד"
+      ],
+      "target": [
+        "08004004025|depan"
+      ],
+      "meta": {
+        "id": "08004004.6",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080040040101|זִקְנֵי"
+      ],
+      "target": [
+        "08004004027|tua-tua"
+      ],
+      "meta": {
+        "id": "08004004.7",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080040040111|עַמִּ"
+      ],
+      "target": [
+        "08004004028|bangsa"
+      ],
+      "meta": {
+        "id": "08004004.8",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080040040121|אִם"
+      ],
+      "target": [
+        "08004004031|Jika"
+      ],
+      "meta": {
+        "id": "08004004.10",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080040040131|תִּגְאַל"
+      ],
+      "target": [
+        "08004004034|menebusnya"
+      ],
+      "meta": {
+        "id": "08004004.11",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080040040141|גְּאָל"
+      ],
+      "target": [
+        "08004004043|menebusnya"
+      ],
+      "meta": {
+        "id": "08004004.12",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080040040152|אִם"
+      ],
+      "target": [
+        "08004004039|jika"
+      ],
+      "meta": {
+        "id": "08004004.13",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080040040161|לֹא"
+      ],
+      "target": [
+        "08004004041|tidak"
+      ],
+      "meta": {
+        "id": "08004004.14",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080040040171|יִגְאַל"
+      ],
+      "target": [
+        "08004004058|menebusnya"
+      ],
+      "meta": {
+        "id": "08004004.15",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080040040181|הַגִּידָ"
+      ],
+      "target": [
+        "08004004045|beritahukanlah"
+      ],
+      "meta": {
+        "id": "08004004.16",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080040040221|כִּי"
+      ],
+      "target": [
+        "08004004052|sebab"
+      ],
+      "meta": {
+        "id": "08004004.18",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080040040231|אֵין"
+      ],
+      "target": [
+        "08004004054|ada"
+      ],
+      "meta": {
+        "id": "08004004.19",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080040040241|זוּלָתְ"
+      ],
+      "target": [
+        "08004004059|kecuali"
+      ],
+      "meta": {
+        "id": "08004004.20",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080040040252|גְאוֹל"
+      ],
+      "target": [
+        "08004004076|menebusnya"
+      ],
+      "meta": {
+        "id": "08004004.22",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080040040262|אָנֹכִי"
+      ],
+      "target": [
+        "08004004009|kepadamu"
+      ],
+      "meta": {
+        "id": "08004004.23",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080040040271|אַחֲרֶי"
+      ],
+      "target": [
+        "08004004063|sesudah"
+      ],
+      "meta": {
+        "id": "08004004.24",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080040040291|אָנֹכִי"
+      ],
+      "target": [
+        "08004004066|aku"
+      ],
+      "meta": {
+        "id": "08004004.26",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080040050012|יֹּאמֶר"
+      ],
+      "target": [
+        "08004005002|kata"
+      ],
+      "meta": {
+        "id": "08004005.1",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080040050021|בֹּעַז"
+      ],
+      "target": [
+        "08004005003|Boas"
+      ],
+      "meta": {
+        "id": "08004005.2",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080040050041|קְנוֹתְ"
+      ],
+      "target": [
+        "08004005009|membeli"
+      ],
+      "meta": {
+        "id": "08004005.3",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080040050052|שָּׂדֶה"
+      ],
+      "target": [
+        "08004005010|tanah"
+      ],
+      "meta": {
+        "id": "08004005.5",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080040050062|יַּד"
+      ],
+      "target": [
+        "08004005013|tangan"
+      ],
+      "meta": {
+        "id": "08004005.6",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080040050071|נָעֳמִי"
+      ],
+      "target": [
+        "08004005014|Naomi"
+      ],
+      "meta": {
+        "id": "08004005.7",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080040050091|רוּת"
+      ],
+      "target": [
+        "08004005018|Rut"
+      ],
+      "meta": {
+        "id": "08004005.8",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080040050102|מּוֹאֲבִיָּה"
+      ],
+      "target": [
+        "08004005022|Moab"
+      ],
+      "meta": {
+        "id": "08004005.9",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080040050111|אֵשֶׁת"
+      ],
+      "target": [
+        "08004005021|perempuan"
+      ],
+      "meta": {
+        "id": "08004005.10",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080040050122|מֵּת"
+      ],
+      "target": [
+        "08004005028|mati"
+      ],
+      "meta": {
+        "id": "08004005.11",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080040050152|הָקִים"
+      ],
+      "target": [
+        "08004005032|menegakkan"
+      ],
+      "meta": {
+        "id": "08004005.13",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080040050161|שֵׁם"
+      ],
+      "target": [
+        "08004005033|nama"
+      ],
+      "meta": {
+        "id": "08004005.14",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080040050191|נַחֲלָת"
+      ],
+      "target": [
+        "08004005039|pusakanya"
+      ],
+      "meta": {
+        "id": "08004005.16",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080040060012|יֹּאמֶר"
+      ],
+      "target": [
+        "08004006002|berkatalah"
+      ],
+      "meta": {
+        "id": "08004006.1",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080040060021|הַ"
+      ],
+      "target": [
+        "08004006026|engkau"
+      ],
+      "meta": {
+        "id": "08004006.2",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080040060022|גֹּאֵל"
+      ],
+      "target": [
+        "08004006003|penebus"
+      ],
+      "meta": {
+        "id": "08004006.3",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080040060031|לֹא"
+      ],
+      "target": [
+        "08004006012|tidak"
+      ],
+      "meta": {
+        "id": "08004006.4",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080040060041|אוּכַל"
+      ],
+      "target": [
+        "08004006013|dapat"
+      ],
+      "meta": {
+        "id": "08004006.5",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080040060062|גְאָל"
+      ],
+      "target": [
+        "08004006038|menebusnya"
+      ],
+      "meta": {
+        "id": "08004006.6",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080040060081|פֶּן"
+      ],
+      "target": [
+        "08004006014|menebusnya"
+      ],
+      "meta": {
+        "id": "08004006.7",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080040060091|אַשְׁחִית"
+      ],
+      "target": [
+        "08004006019|merusakkan"
+      ],
+      "meta": {
+        "id": "08004006.8",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080040060101|אֶת"
+      ],
+      "target": [
+        "08004006001|Lalu"
+      ],
+      "meta": {
+        "id": "08004006.9",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080040060111|נַחֲלָתִ"
+      ],
+      "target": [
+        "08004006021|pusakaku"
+      ],
+      "meta": {
+        "id": "08004006.10",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080040060121|גְּאַל"
+      ],
+      "target": [
+        "08004006027|menebus"
+      ],
+      "meta": {
+        "id": "08004006.12",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080040060171|כִּי"
+      ],
+      "target": [
+        "08004006016|sebab"
+      ],
+      "meta": {
+        "id": "08004006.16",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080040060181|לֹא"
+      ],
+      "target": [
+        "08004006036|tidak"
+      ],
+      "meta": {
+        "id": "08004006.17",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080040060191|אוּכַל"
+      ],
+      "target": [
+        "08004006037|dapat"
+      ],
+      "meta": {
+        "id": "08004006.18",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080040070032|יִשְׂרָאֵל"
+      ],
+      "target": [
+        "08004007005|Israel"
+      ],
+      "meta": {
+        "id": "08004007.1",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080040070052|גְּאוּלָּה"
+      ],
+      "target": [
+        "08004007008|menebus"
+      ],
+      "meta": {
+        "id": "08004007.2",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080040070072|תְּמוּרָה"
+      ],
+      "target": [
+        "08004007010|menukar"
+      ],
+      "meta": {
+        "id": "08004007.3",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080040070091|כָּל"
+      ],
+      "target": [
+        "08004007012|setiap"
+      ],
+      "meta": {
+        "id": "08004007.4",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080040070101|דָּבָר"
+      ],
+      "target": [
+        "08004007007|hal"
+      ],
+      "meta": {
+        "id": "08004007.5",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080040070121|אִישׁ"
+      ],
+      "target": [
+        "08004007014|orang"
+      ],
+      "meta": {
+        "id": "08004007.6",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080040070131|נַעֲל"
+      ],
+      "target": [
+        "08004007024|kasutnya"
+      ],
+      "meta": {
+        "id": "08004007.7",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080040070142|נָתַן"
+      ],
+      "target": [
+        "08004007027|memberikannya"
+      ],
+      "meta": {
+        "id": "08004007.9",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080040070152|רֵעֵ"
+      ],
+      "target": [
+        "08004007030|lain"
+      ],
+      "meta": {
+        "id": "08004007.10",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080040070182|יִשְׂרָאֵל"
+      ],
+      "target": [
+        "08004007038|Israel"
+      ],
+      "meta": {
+        "id": "08004007.12",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080040080012|יֹּאמֶר"
+      ],
+      "target": [
+        "08004008004|berkata"
+      ],
+      "meta": {
+        "id": "08004008.1",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080040080021|הַ"
+      ],
+      "target": [
+        "08004008009|Engkau"
+      ],
+      "meta": {
+        "id": "08004008.2",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080040080022|גֹּאֵל"
+      ],
+      "target": [
+        "08004008002|penebus"
+      ],
+      "meta": {
+        "id": "08004008.3",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080040080032|בֹעַז"
+      ],
+      "target": [
+        "08004008006|Boas"
+      ],
+      "meta": {
+        "id": "08004008.4",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080040080041|קְנֵה"
+      ],
+      "target": [
+        "08004008012|membelinya"
+      ],
+      "meta": {
+        "id": "08004008.5",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080040080071|נַעֲל"
+      ],
+      "target": [
+        "08004008017|kasutnya"
+      ],
+      "meta": {
+        "id": "08004008.8",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080040090012|יֹּאמֶר"
+      ],
+      "target": [
+        "08004009002|berkatalah"
+      ],
+      "meta": {
+        "id": "08004009.1",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080040090021|בֹּעַז"
+      ],
+      "target": [
+        "08004009003|Boas"
+      ],
+      "meta": {
+        "id": "08004009.2",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080040090032|זְּקֵנִים"
+      ],
+      "target": [
+        "08004009006|tua-tua"
+      ],
+      "meta": {
+        "id": "08004009.3",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080040090042|כָל"
+      ],
+      "target": [
+        "08004009023|segala"
+      ],
+      "meta": {
+        "id": "08004009.4",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080040090052|עָם"
+      ],
+      "target": [
+        "08004009010|orang"
+      ],
+      "meta": {
+        "id": "08004009.5",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080040090061|עֵדִים"
+      ],
+      "target": [
+        "08004009020|saksi"
+      ],
+      "meta": {
+        "id": "08004009.6",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080040090082|יּוֹם"
+      ],
+      "target": [
+        "08004009017|hari"
+      ],
+      "meta": {
+        "id": "08004009.7",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080040090091|כִּי"
+      ],
+      "target": [
+        "08004009022|bahwa"
+      ],
+      "meta": {
+        "id": "08004009.8",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080040090121|כָּל"
+      ],
+      "target": [
+        "08004009027|segala"
+      ],
+      "meta": {
+        "id": "08004009.9",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080040090142|אֱלִימֶלֶךְ"
+      ],
+      "target": [
+        "08004009025|Elimelekh"
+      ],
+      "meta": {
+        "id": "08004009.10",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080040090161|כָּל"
+      ],
+      "target": [
+        "08004009009|semua"
+      ],
+      "meta": {
+        "id": "08004009.11",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080040090182|כִלְיוֹן"
+      ],
+      "target": [
+        "08004009031|Mahlon"
+      ],
+      "meta": {
+        "id": "08004009.12",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080040090202|יַּד"
+      ],
+      "target": [
+        "08004009036|tangan"
+      ],
+      "meta": {
+        "id": "08004009.14",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080040090211|נָעֳמִי"
+      ],
+      "target": [
+        "08004009037|Naomi"
+      ],
+      "meta": {
+        "id": "08004009.15",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080040100012|גַם"
+      ],
+      "target": [
+        "08004010001|juga"
+      ],
+      "meta": {
+        "id": "08004010.1",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080040100031|רוּת"
+      ],
+      "target": [
+        "08004010002|Rut"
+      ],
+      "meta": {
+        "id": "08004010.2",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080040100042|מֹּאֲבִיָּה"
+      ],
+      "target": [
+        "08004010005|Moab"
+      ],
+      "meta": {
+        "id": "08004010.3",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080040100051|אֵשֶׁת"
+      ],
+      "target": [
+        "08004010004|perempuan"
+      ],
+      "meta": {
+        "id": "08004010.4",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080040100061|מַחְלוֹן"
+      ],
+      "target": [
+        "08004010009|Mahlon"
+      ],
+      "meta": {
+        "id": "08004010.5",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080040100071|קָנִיתִי"
+      ],
+      "target": [
+        "08004010012|peroleh"
+      ],
+      "meta": {
+        "id": "08004010.6",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080040100092|אִשָּׁה"
+      ],
+      "target": [
+        "08004010008|isteri"
+      ],
+      "meta": {
+        "id": "08004010.7",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080040100102|הָקִים"
+      ],
+      "target": [
+        "08004010016|menegakkan"
+      ],
+      "meta": {
+        "id": "08004010.8",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080040100111|שֵׁם"
+      ],
+      "target": [
+        "08004010017|nama"
+      ],
+      "meta": {
+        "id": "08004010.9",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080040100122|מֵּת"
+      ],
+      "target": [
+        "08004010021|mati"
+      ],
+      "meta": {
+        "id": "08004010.10",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080040100141|נַחֲלָת"
+      ],
+      "target": [
+        "08004010026|pusakanya"
+      ],
+      "meta": {
+        "id": "08004010.11",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080040100152|לֹא"
+      ],
+      "target": [
+        "08004010032|tidak"
+      ],
+      "meta": {
+        "id": "08004010.13",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080040100161|יִכָּרֵת"
+      ],
+      "target": [
+        "08004010034|lenyap"
+      ],
+      "meta": {
+        "id": "08004010.14",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080040100171|שֵׁם"
+      ],
+      "target": [
+        "08004010029|nama"
+      ],
+      "meta": {
+        "id": "08004010.15",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080040100201|אֶחָי"
+      ],
+      "target": [
+        "08004010037|saudara-saudaranya"
+      ],
+      "meta": {
+        "id": "08004010.17",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080040100231|עֵדִים"
+      ],
+      "target": [
+        "08004010049|saksi"
+      ],
+      "meta": {
+        "id": "08004010.19",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080040100252|יּוֹם"
+      ],
+      "target": [
+        "08004010046|hari"
+      ],
+      "meta": {
+        "id": "08004010.20",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080040110012|יֹּאמְרוּ"
+      ],
+      "target": [
+        "08004011014|berkata"
+      ],
+      "meta": {
+        "id": "08004011.1",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080040110021|כָּל"
+      ],
+      "target": [
+        "08004011002|seluruh"
+      ],
+      "meta": {
+        "id": "08004011.2",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080040110032|עָם"
+      ],
+      "target": [
+        "08004011003|orang"
+      ],
+      "meta": {
+        "id": "08004011.3",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080040110052|שַּׁעַר"
+      ],
+      "target": [
+        "08004011009|gerbang"
+      ],
+      "meta": {
+        "id": "08004011.4",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080040110063|זְּקֵנִים"
+      ],
+      "target": [
+        "08004011013|tua-tua"
+      ],
+      "meta": {
+        "id": "08004011.5",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080040110071|עֵדִים"
+      ],
+      "target": [
+        "08004011019|saksi"
+      ],
+      "meta": {
+        "id": "08004011.6",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080040110081|יִתֵּן"
+      ],
+      "target": [
+        "08004011023|membuat"
+      ],
+      "meta": {
+        "id": "08004011.7",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080040110091|יְהוָה"
+      ],
+      "target": [
+        "08004011021|Tuhan"
+      ],
+      "meta": {
+        "id": "08004011.8",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080040110112|אִשָּׁה"
+      ],
+      "target": [
+        "08004011024|perempuan"
+      ],
+      "meta": {
+        "id": "08004011.9",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080040110122|בָּאָה"
+      ],
+      "target": [
+        "08004011027|masuk"
+      ],
+      "meta": {
+        "id": "08004011.10",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080040110131|אֶל"
+      ],
+      "target": [
+        "08004011032|seperti"
+      ],
+      "meta": {
+        "id": "08004011.11",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080040110141|בֵּיתֶ"
+      ],
+      "target": [
+        "08004011029|rumahmu"
+      ],
+      "meta": {
+        "id": "08004011.12",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080040110152|רָחֵל"
+      ],
+      "target": [
+        "08004011033|Rahel"
+      ],
+      "meta": {
+        "id": "08004011.13",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080040110163|לֵאָה"
+      ],
+      "target": [
+        "08004011035|Lea"
+      ],
+      "meta": {
+        "id": "08004011.14",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080040110181|בָּנוּ"
+      ],
+      "target": [
+        "08004011040|membangunkan"
+      ],
+      "meta": {
+        "id": "08004011.15",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080040110191|שְׁתֵּי"
+      ],
+      "target": [
+        "08004011038|keduanya"
+      ],
+      "meta": {
+        "id": "08004011.16",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080040110221|יִשְׂרָאֵל"
+      ],
+      "target": [
+        "08004011042|Israel"
+      ],
+      "meta": {
+        "id": "08004011.18",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080040110252|אֶפְרָתָה"
+      ],
+      "target": [
+        "08004011049|Efrata"
+      ],
+      "meta": {
+        "id": "08004011.19",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080040110262|קְרָא"
+      ],
+      "target": [
+        "08004011053|termasyhur"
+      ],
+      "meta": {
+        "id": "08004011.20",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080040110282|בֵית"
+      ],
+      "target": [
+        "08004011055|Betlehem"
+      ],
+      "meta": {
+        "id": "08004011.22",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080040120012|יהִי"
+      ],
+      "target": [
+        "08004012004|seperti"
+      ],
+      "meta": {
+        "id": "08004012.1",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080040120041|פֶּרֶץ"
+      ],
+      "target": [
+        "08004012006|Peres"
+      ],
+      "meta": {
+        "id": "08004012.2",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080040120051|אֲשֶׁר"
+      ],
+      "target": [
+        "08004012019|kepadamu"
+      ],
+      "meta": {
+        "id": "08004012.3",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080040120061|יָלְדָה"
+      ],
+      "target": [
+        "08004012008|dilahirkan"
+      ],
+      "meta": {
+        "id": "08004012.4",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080040120071|תָמָר"
+      ],
+      "target": [
+        "08004012009|Tamar"
+      ],
+      "meta": {
+        "id": "08004012.5",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080040120082|יהוּדָה"
+      ],
+      "target": [
+        "08004012011|Yehuda"
+      ],
+      "meta": {
+        "id": "08004012.6",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080040120102|זֶּרַע"
+      ],
+      "target": [
+        "08004012005|keturunan"
+      ],
+      "meta": {
+        "id": "08004012.7",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080040120121|יִתֵּן"
+      ],
+      "target": [
+        "08004012017|diberikan"
+      ],
+      "meta": {
+        "id": "08004012.8",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080040120131|יְהוָה"
+      ],
+      "target": [
+        "08004012018|Tuhan"
+      ],
+      "meta": {
+        "id": "08004012.9",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080040120162|נַּעֲרָה"
+      ],
+      "target": [
+        "08004012021|perempuan"
+      ],
+      "meta": {
+        "id": "08004012.10",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080040130012|יִּקַּח"
+      ],
+      "target": [
+        "08004013003|mengambil"
+      ],
+      "meta": {
+        "id": "08004013.1",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080040130021|בֹּעַז"
+      ],
+      "target": [
+        "08004013002|Boas"
+      ],
+      "meta": {
+        "id": "08004013.2",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080040130031|אֶת"
+      ],
+      "target": [
+        "08004013001|Lalu"
+      ],
+      "meta": {
+        "id": "08004013.3",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080040130041|רוּת"
+      ],
+      "target": [
+        "08004013004|Rut"
+      ],
+      "meta": {
+        "id": "08004013.4",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080040130052|תְּהִי"
+      ],
+      "target": [
+        "08004013014|Maka"
+      ],
+      "meta": {
+        "id": "08004013.5",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080040130072|אִשָּׁה"
+      ],
+      "target": [
+        "08004013006|perempuan"
+      ],
+      "meta": {
+        "id": "08004013.6",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080040130082|יָּבֹא"
+      ],
+      "target": [
+        "08004013022|lalu"
+      ],
+      "meta": {
+        "id": "08004013.7",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080040130111|יְהוָה"
+      ],
+      "target": [
+        "08004013017|Tuhan"
+      ],
+      "meta": {
+        "id": "08004013.8",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080040130131|הֵרָיוֹן"
+      ],
+      "target": [
+        "08004013020|mengandung"
+      ],
+      "meta": {
+        "id": "08004013.9",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080040130142|תֵּלֶד"
+      ],
+      "target": [
+        "08004013023|melahirkan"
+      ],
+      "meta": {
+        "id": "08004013.10",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080040130151|בֵּן"
+      ],
+      "target": [
+        "08004013025|anak"
+      ],
+      "meta": {
+        "id": "08004013.11",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080040140012|תֹּאמַרְנָה"
+      ],
+      "target": [
+        "08004014004|berkata"
+      ],
+      "meta": {
+        "id": "08004014.1",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080040140022|נָּשִׁים"
+      ],
+      "target": [
+        "08004014003|perempuan-perempuan"
+      ],
+      "meta": {
+        "id": "08004014.2",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080040140041|נָעֳמִי"
+      ],
+      "target": [
+        "08004014006|Naomi"
+      ],
+      "meta": {
+        "id": "08004014.3",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080040140051|בָּרוּךְ"
+      ],
+      "target": [
+        "08004014009|Terpujilah"
+      ],
+      "meta": {
+        "id": "08004014.4",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080040140061|יְהוָה"
+      ],
+      "target": [
+        "08004014010|Tuhan"
+      ],
+      "meta": {
+        "id": "08004014.5",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080040140111|גֹּאֵל"
+      ],
+      "target": [
+        "08004014022|penebus"
+      ],
+      "meta": {
+        "id": "08004014.6",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080040140122|יּוֹם"
+      ],
+      "target": [
+        "08004014018|hari"
+      ],
+      "meta": {
+        "id": "08004014.7",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080040140141|שְׁמ"
+      ],
+      "target": [
+        "08004014026|nama"
+      ],
+      "meta": {
+        "id": "08004014.8",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080040140152|יִשְׂרָאֵל"
+      ],
+      "target": [
+        "08004014030|Israel"
+      ],
+      "meta": {
+        "id": "08004014.10",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080040150012|הָיָה"
+      ],
+      "target": [
+        "08004015011|waktu"
+      ],
+      "meta": {
+        "id": "08004015.1",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080040150031|לְ"
+      ],
+      "target": [
+        "08004015005|menyegarkan"
+      ],
+      "meta": {
+        "id": "08004015.2",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080040150041|נֶפֶשׁ"
+      ],
+      "target": [
+        "08004015006|jiwamu"
+      ],
+      "meta": {
+        "id": "08004015.4",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080040150053|כַלְכֵּל"
+      ],
+      "target": [
+        "08004015008|memelihara"
+      ],
+      "meta": {
+        "id": "08004015.5",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080040150071|שֵׂיבָתֵ"
+      ],
+      "target": [
+        "08004015014|putih"
+      ],
+      "meta": {
+        "id": "08004015.6",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080040150081|כִּי"
+      ],
+      "target": [
+        "08004015016|sebab"
+      ],
+      "meta": {
+        "id": "08004015.8",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080040150091|כַלָּתֵ"
+      ],
+      "target": [
+        "08004015017|menantumu"
+      ],
+      "meta": {
+        "id": "08004015.9",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080040150111|אֲהֵבַתֶ"
+      ],
+      "target": [
+        "08004015019|mengasihi"
+      ],
+      "meta": {
+        "id": "08004015.11",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080040150131|אֲשֶׁר"
+      ],
+      "target": [
+        "08004015030|tujuh"
+      ],
+      "meta": {
+        "id": "08004015.13",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080040150141|הִיא"
+      ],
+      "target": [
+        "08004015031|anak"
+      ],
+      "meta": {
+        "id": "08004015.14",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080040160012|תִּקַּח"
+      ],
+      "target": [
+        "08004016003|mengambil"
+      ],
+      "meta": {
+        "id": "08004016.1",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080040160021|נָעֳמִי"
+      ],
+      "target": [
+        "08004016002|Naomi"
+      ],
+      "meta": {
+        "id": "08004016.2",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080040160042|יֶּלֶד"
+      ],
+      "target": [
+        "08004016004|anak"
+      ],
+      "meta": {
+        "id": "08004016.3",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080040160062|חֵיקָ"
+      ],
+      "target": [
+        "08004016009|pangkuannya"
+      ],
+      "meta": {
+        "id": "08004016.4",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080040170032|שְּׁכֵנוֹת"
+      ],
+      "target": [
+        "08004017003|perempuan"
+      ],
+      "meta": {
+        "id": "08004017.1",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080040170041|שֵׁם"
+      ],
+      "target": [
+        "08004017005|nama"
+      ],
+      "meta": {
+        "id": "08004017.2",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080040170061|יֻלַּד"
+      ],
+      "target": [
+        "08004017016|lahir"
+      ],
+      "meta": {
+        "id": "08004017.3",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080040170071|בֵּן"
+      ],
+      "target": [
+        "08004017007|anak"
+      ],
+      "meta": {
+        "id": "08004017.4",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080040170082|נָעֳמִי"
+      ],
+      "target": [
+        "08004017014|Naomi"
+      ],
+      "meta": {
+        "id": "08004017.5",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080040170101|שְׁמ"
+      ],
+      "target": [
+        "08004017025|namanya"
+      ],
+      "meta": {
+        "id": "08004017.6",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080040170111|עוֹבֵד"
+      ],
+      "target": [
+        "08004017026|Obed"
+      ],
+      "meta": {
+        "id": "08004017.8",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080040170121|הוּא"
+      ],
+      "target": [
+        "08004017028|Dialah"
+      ],
+      "meta": {
+        "id": "08004017.9",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080040170131|אֲבִי"
+      ],
+      "target": [
+        "08004017029|ayah"
+      ],
+      "meta": {
+        "id": "08004017.10",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080040170141|יִשַׁי"
+      ],
+      "target": [
+        "08004017030|Isai"
+      ],
+      "meta": {
+        "id": "08004017.11",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080040170151|אֲבִי"
+      ],
+      "target": [
+        "08004017032|ayah"
+      ],
+      "meta": {
+        "id": "08004017.12",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080040170161|דָוִד"
+      ],
+      "target": [
+        "08004017033|Daud"
+      ],
+      "meta": {
+        "id": "08004017.13",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080040180012|אֵלֶּה"
+      ],
+      "target": [
+        "08004018001|Inilah"
+      ],
+      "meta": {
+        "id": "08004018.1",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080040180021|תּוֹלְדוֹת"
+      ],
+      "target": [
+        "08004018002|keturunan"
+      ],
+      "meta": {
+        "id": "08004018.2",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080040180031|פָּרֶץ"
+      ],
+      "target": [
+        "08004018003|Peres"
+      ],
+      "meta": {
+        "id": "08004018.3",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080040180041|פֶּרֶץ"
+      ],
+      "target": [
+        "08004018005|Peres"
+      ],
+      "meta": {
+        "id": "08004018.4",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080040180051|הוֹלִיד"
+      ],
+      "target": [
+        "08004018006|memperanakkan"
+      ],
+      "meta": {
+        "id": "08004018.5",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080040180071|חֶצְרוֹן"
+      ],
+      "target": [
+        "08004018007|Hezron"
+      ],
+      "meta": {
+        "id": "08004018.6",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080040190012|חֶצְרוֹן"
+      ],
+      "target": [
+        "08004019001|Hezron"
+      ],
+      "meta": {
+        "id": "08004019.1",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080040190021|הוֹלִיד"
+      ],
+      "target": [
+        "08004019002|memperanakkan"
+      ],
+      "meta": {
+        "id": "08004019.2",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080040190041|רָם"
+      ],
+      "target": [
+        "08004019003|Ram"
+      ],
+      "meta": {
+        "id": "08004019.3",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080040190052|רָם"
+      ],
+      "target": [
+        "08004019005|Ram"
+      ],
+      "meta": {
+        "id": "08004019.4",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080040190061|הוֹלִיד"
+      ],
+      "target": [
+        "08004019006|memperanakkan"
+      ],
+      "meta": {
+        "id": "08004019.5",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080040190081|עַמִּינָדָב"
+      ],
+      "target": [
+        "08004019007|Aminadab"
+      ],
+      "meta": {
+        "id": "08004019.6",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080040200012|עַמִּינָדָב"
+      ],
+      "target": [
+        "08004020001|Aminadab"
+      ],
+      "meta": {
+        "id": "08004020.1",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080040200021|הוֹלִיד"
+      ],
+      "target": [
+        "08004020002|memperanakkan"
+      ],
+      "meta": {
+        "id": "08004020.2",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080040200041|נַחְשׁוֹן"
+      ],
+      "target": [
+        "08004020003|Nahason"
+      ],
+      "meta": {
+        "id": "08004020.3",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080040200052|נַחְשׁוֹן"
+      ],
+      "target": [
+        "08004020005|Nahason"
+      ],
+      "meta": {
+        "id": "08004020.4",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080040200061|הוֹלִיד"
+      ],
+      "target": [
+        "08004020006|memperanakkan"
+      ],
+      "meta": {
+        "id": "08004020.5",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080040210012|שַׂלְמוֹן"
+      ],
+      "target": [
+        "08004021002|memperanakkan"
+      ],
+      "meta": {
+        "id": "08004021.1",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080040210041|בֹּעַז"
+      ],
+      "target": [
+        "08004021003|Boas"
+      ],
+      "meta": {
+        "id": "08004021.3",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080040210052|בֹעַז"
+      ],
+      "target": [
+        "08004021005|Boas"
+      ],
+      "meta": {
+        "id": "08004021.4",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080040210061|הוֹלִיד"
+      ],
+      "target": [
+        "08004021006|memperanakkan"
+      ],
+      "meta": {
+        "id": "08004021.5",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080040210081|עוֹבֵד"
+      ],
+      "target": [
+        "08004021007|Obed"
+      ],
+      "meta": {
+        "id": "08004021.6",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080040220012|עֹבֵד"
+      ],
+      "target": [
+        "08004022001|Obed"
+      ],
+      "meta": {
+        "id": "08004022.1",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080040220021|הוֹלִיד"
+      ],
+      "target": [
+        "08004022002|memperanakkan"
+      ],
+      "meta": {
+        "id": "08004022.2",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080040220041|יִשָׁי"
+      ],
+      "target": [
+        "08004022003|Isai"
+      ],
+      "meta": {
+        "id": "08004022.3",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080040220052|יִשַׁי"
+      ],
+      "target": [
+        "08004022005|Isai"
+      ],
+      "meta": {
+        "id": "08004022.4",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080040220061|הוֹלִיד"
+      ],
+      "target": [
+        "08004022006|memperanakkan"
+      ],
+      "meta": {
+        "id": "08004022.5",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "o080040220081|דָּוִד"
+      ],
+      "target": [
+        "08004022007|Daud"
+      ],
+      "meta": {
+        "id": "08004022.6",
+        "origin": "manual"
+      }
+    }
+  ]
+}
