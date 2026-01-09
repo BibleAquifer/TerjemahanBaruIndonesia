@@ -32778,392 +32778,392 @@
       },
       "alignments/01.alignment.json": {
         "mimeType": "text/json",
-        "size": 3444835,
+        "size": 3284185,
         "scope": {
           "GEN": []
         }
       },
       "alignments/02.alignment.json": {
         "mimeType": "text/json",
-        "size": 3214604,
+        "size": 3063310,
         "scope": {
           "EXO": []
         }
       },
       "alignments/03.alignment.json": {
         "mimeType": "text/json",
-        "size": 2269424,
+        "size": 2188124,
         "scope": {
           "LEV": []
         }
       },
       "alignments/04.alignment.json": {
         "mimeType": "text/json",
-        "size": 2809651,
+        "size": 2674036,
         "scope": {
           "NUM": []
         }
       },
       "alignments/05.alignment.json": {
         "mimeType": "text/json",
-        "size": 3231668,
+        "size": 3093899,
         "scope": {
           "DEU": []
         }
       },
       "alignments/06.alignment.json": {
         "mimeType": "text/json",
-        "size": 2386462,
+        "size": 2283290,
         "scope": {
           "JOS": []
         }
       },
       "alignments/07.alignment.json": {
         "mimeType": "text/json",
-        "size": 1551006,
+        "size": 1480719,
         "scope": {
           "JDG": []
         }
       },
       "alignments/08.alignment.json": {
         "mimeType": "text/json",
-        "size": 192050,
+        "size": 184134,
         "scope": {
           "RUT": []
         }
       },
       "alignments/09.alignment.json": {
         "mimeType": "text/json",
-        "size": 3251877,
+        "size": 3152199,
         "scope": {
           "1SA": []
         }
       },
       "alignments/10.alignment.json": {
         "mimeType": "text/json",
-        "size": 1778994,
+        "size": 1709570,
         "scope": {
           "2SA": []
         }
       },
       "alignments/11.alignment.json": {
         "mimeType": "text/json",
-        "size": 2137370,
+        "size": 2027011,
         "scope": {
           "1KI": []
         }
       },
       "alignments/12.alignment.json": {
         "mimeType": "text/json",
-        "size": 2033641,
+        "size": 1938531,
         "scope": {
           "2KI": []
         }
       },
       "alignments/13.alignment.json": {
         "mimeType": "text/json",
-        "size": 1947286,
+        "size": 1800370,
         "scope": {
           "1CH": []
         }
       },
       "alignments/14.alignment.json": {
         "mimeType": "text/json",
-        "size": 2256491,
+        "size": 2110519,
         "scope": {
           "2CH": []
         }
       },
       "alignments/15.alignment.json": {
         "mimeType": "text/json",
-        "size": 607533,
+        "size": 572320,
         "scope": {
           "EZR": []
         }
       },
       "alignments/16.alignment.json": {
         "mimeType": "text/json",
-        "size": 886616,
+        "size": 826086,
         "scope": {
           "NEH": []
         }
       },
       "alignments/17.alignment.json": {
         "mimeType": "text/json",
-        "size": 481697,
+        "size": 462311,
         "scope": {
           "EST": []
         }
       },
       "alignments/18.alignment.json": {
         "mimeType": "text/json",
-        "size": 1217196,
+        "size": 1128115,
         "scope": {
           "JOB": []
         }
       },
       "alignments/19.alignment.json": {
         "mimeType": "text/json",
-        "size": 5011083,
+        "size": 4493507,
         "scope": {
           "PSA": []
         }
       },
       "alignments/20.alignment.json": {
         "mimeType": "text/json",
-        "size": 1740951,
+        "size": 1689423,
         "scope": {
           "PRO": []
         }
       },
       "alignments/21.alignment.json": {
         "mimeType": "text/json",
-        "size": 439263,
+        "size": 417874,
         "scope": {
           "ECC": []
         }
       },
       "alignments/22.alignment.json": {
         "mimeType": "text/json",
-        "size": 192539,
+        "size": 174070,
         "scope": {
           "SNG": []
         }
       },
       "alignments/23.alignment.json": {
         "mimeType": "text/json",
-        "size": 2715726,
+        "size": 2479877,
         "scope": {
           "ISA": []
         }
       },
       "alignments/24.alignment.json": {
         "mimeType": "text/json",
-        "size": 3468408,
+        "size": 3227980,
         "scope": {
           "JER": []
         }
       },
       "alignments/25.alignment.json": {
         "mimeType": "text/json",
-        "size": 269068,
+        "size": 236395,
         "scope": {
           "LAM": []
         }
       },
       "alignments/26.alignment.json": {
         "mimeType": "text/json",
-        "size": 2885659,
+        "size": 2643504,
         "scope": {
           "EZK": []
         }
       },
       "alignments/27.alignment.json": {
         "mimeType": "text/json",
-        "size": 753685,
+        "size": 708750,
         "scope": {
           "DAN": []
         }
       },
       "alignments/28.alignment.json": {
         "mimeType": "text/json",
-        "size": 583666,
+        "size": 551291,
         "scope": {
           "HOS": []
         }
       },
       "alignments/29.alignment.json": {
         "mimeType": "text/json",
-        "size": 160492,
+        "size": 141980,
         "scope": {
           "JOL": []
         }
       },
       "alignments/30.alignment.json": {
         "mimeType": "text/json",
-        "size": 335322,
+        "size": 315497,
         "scope": {
           "AMO": []
         }
       },
       "alignments/31.alignment.json": {
         "mimeType": "text/json",
-        "size": 72175,
+        "size": 68686,
         "scope": {
           "OBA": []
         }
       },
       "alignments/32.alignment.json": {
         "mimeType": "text/json",
-        "size": 101767,
+        "size": 97833,
         "scope": {
           "JON": []
         }
       },
       "alignments/33.alignment.json": {
         "mimeType": "text/json",
-        "size": 227339,
+        "size": 208068,
         "scope": {
           "MIC": []
         }
       },
       "alignments/34.alignment.json": {
         "mimeType": "text/json",
-        "size": 88800,
+        "size": 80388,
         "scope": {
           "NAM": []
         }
       },
       "alignments/35.alignment.json": {
         "mimeType": "text/json",
-        "size": 166798,
+        "size": 154679,
         "scope": {
           "HAB": []
         }
       },
       "alignments/36.alignment.json": {
         "mimeType": "text/json",
-        "size": 127112,
+        "size": 115552,
         "scope": {
           "ZEP": []
         }
       },
       "alignments/37.alignment.json": {
         "mimeType": "text/json",
-        "size": 93885,
+        "size": 91138,
         "scope": {
           "HAG": []
         }
       },
       "alignments/38.alignment.json": {
         "mimeType": "text/json",
-        "size": 503101,
+        "size": 474462,
         "scope": {
           "ZEC": []
         }
       },
       "alignments/39.alignment.json": {
         "mimeType": "text/json",
-        "size": 141434,
+        "size": 132020,
         "scope": {
           "MAL": []
         }
       },
       "alignments/40.alignment.json": {
         "mimeType": "text/json",
-        "size": 2911007,
+        "size": 2771837,
         "scope": {
           "MAT": []
         }
       },
       "alignments/41.alignment.json": {
         "mimeType": "text/json",
-        "size": 1249985,
+        "size": 1165906,
         "scope": {
           "MRK": []
         }
       },
       "alignments/42.alignment.json": {
         "mimeType": "text/json",
-        "size": 3167039,
+        "size": 3020082,
         "scope": {
           "LUK": []
         }
       },
       "alignments/43.alignment.json": {
         "mimeType": "text/json",
-        "size": 1739237,
+        "size": 1623049,
         "scope": {
           "JHN": []
         }
       },
       "alignments/44.alignment.json": {
         "mimeType": "text/json",
-        "size": 2941236,
+        "size": 2810040,
         "scope": {
           "ACT": []
         }
       },
       "alignments/45.alignment.json": {
         "mimeType": "text/json",
-        "size": 788349,
+        "size": 748130,
         "scope": {
           "ROM": []
         }
       },
       "alignments/46.alignment.json": {
         "mimeType": "text/json",
-        "size": 783647,
+        "size": 744336,
         "scope": {
           "1CO": []
         }
       },
       "alignments/47.alignment.json": {
         "mimeType": "text/json",
-        "size": 475472,
+        "size": 457089,
         "scope": {
           "2CO": []
         }
       },
       "alignments/48.alignment.json": {
         "mimeType": "text/json",
-        "size": 390070,
+        "size": 376464,
         "scope": {
           "GAL": []
         }
       },
       "alignments/49.alignment.json": {
         "mimeType": "text/json",
-        "size": 338758,
+        "size": 317987,
         "scope": {
           "EPH": []
         }
       },
       "alignments/50.alignment.json": {
         "mimeType": "text/json",
-        "size": 170460,
+        "size": 162310,
         "scope": {
           "PHP": []
         }
       },
       "alignments/51.alignment.json": {
         "mimeType": "text/json",
-        "size": 155121,
+        "size": 148420,
         "scope": {
           "COL": []
         }
       },
       "alignments/52.alignment.json": {
         "mimeType": "text/json",
-        "size": 247972,
+        "size": 237496,
         "scope": {
           "1TH": []
         }
       },
       "alignments/53.alignment.json": {
         "mimeType": "text/json",
-        "size": 121903,
+        "size": 116344,
         "scope": {
           "2TH": []
         }
       },
       "alignments/54.alignment.json": {
         "mimeType": "text/json",
-        "size": 174537,
+        "size": 166218,
         "scope": {
           "1TI": []
         }
       },
       "alignments/55.alignment.json": {
         "mimeType": "text/json",
-        "size": 133585,
+        "size": 127740,
         "scope": {
           "2TI": []
         }
       },
       "alignments/56.alignment.json": {
         "mimeType": "text/json",
-        "size": 121622,
+        "size": 115596,
         "scope": {
           "TIT": []
         }
@@ -33177,63 +33177,63 @@
       },
       "alignments/58.alignment.json": {
         "mimeType": "text/json",
-        "size": 549937,
+        "size": 515822,
         "scope": {
           "HEB": []
         }
       },
       "alignments/59.alignment.json": {
         "mimeType": "text/json",
-        "size": 295347,
+        "size": 284528,
         "scope": {
           "JAS": []
         }
       },
       "alignments/60.alignment.json": {
         "mimeType": "text/json",
-        "size": 194932,
+        "size": 184740,
         "scope": {
           "1PE": []
         }
       },
       "alignments/61.alignment.json": {
         "mimeType": "text/json",
-        "size": 122001,
+        "size": 115426,
         "scope": {
           "2PE": []
         }
       },
       "alignments/62.alignment.json": {
         "mimeType": "text/json",
-        "size": 214641,
+        "size": 203882,
         "scope": {
           "1JN": []
         }
       },
       "alignments/63.alignment.json": {
         "mimeType": "text/json",
-        "size": 26411,
+        "size": 25267,
         "scope": {
           "2JN": []
         }
       },
       "alignments/64.alignment.json": {
         "mimeType": "text/json",
-        "size": 24981,
+        "size": 23349,
         "scope": {
           "3JN": []
         }
       },
       "alignments/65.alignment.json": {
         "mimeType": "text/json",
-        "size": 81445,
+        "size": 76535,
         "scope": {
           "JUD": []
         }
       },
       "alignments/66.alignment.json": {
         "mimeType": "text/json",
-        "size": 1122033,
+        "size": 1055924,
         "scope": {
           "REV": []
         }
@@ -33784,7 +33784,7 @@
   },
   "article_metadata": {},
   "alignment_metadata": {
-    "alignment_source": "https://github.com/Clear-Bible/alignments-ind/",
+    "alignment_source": "https://github.com/Clear-Bible/alignments-ind/tree/main/data/alignments/TBI",
     "alignment_ot_basis": "https://github.com/Clear-Bible/Alignments/tree/main/data/sources/WLCM.tsv",
     "alignment_nt_basis": "https://github.com/Clear-Bible/Alignments/tree/main/data/sources/SBLGNT.tsv",
     "licenses": [
@@ -33794,7 +33794,6 @@
           "url": "https://creativecommons.org/licenses/by-sa/4.0/"
         }
       }
-    ],
-    "target_token_differences": {}
+    ]
   }
 }

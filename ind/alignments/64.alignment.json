@@ -117,18 +117,6 @@
     },
     {
       "source": [
-        "n64001002008|ὑγιαίνειν"
-      ],
-      "target": [
-        "64001002012|sehat-sehat"
-      ],
-      "meta": {
-        "id": "64001002.5",
-        "origin": "manual"
-      }
-    },
-    {
-      "source": [
         "n64001002009|καθὼς"
       ],
       "target": [
@@ -333,18 +321,6 @@
     },
     {
       "source": [
-        "n64001004010|τέκνα"
-      ],
-      "target": [
-        "64001004013|anak-anakku"
-      ],
-      "meta": {
-        "id": "64001004.6",
-        "origin": "manual"
-      }
-    },
-    {
-      "source": [
         "n64001004013|ἀληθείᾳ"
       ],
       "target": [
@@ -400,18 +376,6 @@
       ],
       "meta": {
         "id": "64001005.3",
-        "origin": "manual"
-      }
-    },
-    {
-      "source": [
-        "n64001005009|ἀδελφοὺς"
-      ],
-      "target": [
-        "64001005018|saudara-saudara"
-      ],
-      "meta": {
-        "id": "64001005.4",
         "origin": "manual"
       }
     },
@@ -532,18 +496,6 @@
       ],
       "meta": {
         "id": "64001007.1",
-        "origin": "manual"
-      }
-    },
-    {
-      "source": [
-        "n64001007004|ὀνόματος"
-      ],
-      "target": [
-        "64001007003|nama-Nya"
-      ],
-      "meta": {
-        "id": "64001007.2",
         "origin": "manual"
       }
     },
@@ -856,18 +808,6 @@
       ],
       "meta": {
         "id": "64001010.9",
-        "origin": "manual"
-      }
-    },
-    {
-      "source": [
-        "n64001010024|ἀδελφοὺς"
-      ],
-      "target": [
-        "64001010043|saudara-saudara"
-      ],
-      "meta": {
-        "id": "64001010.12",
         "origin": "manual"
       }
     },
@@ -1300,30 +1240,6 @@
       ],
       "meta": {
         "id": "64001015.2",
-        "origin": "manual"
-      }
-    },
-    {
-      "source": [
-        "n64001015006|φίλοι"
-      ],
-      "target": [
-        "64001015013|sahabat-sahabat"
-      ],
-      "meta": {
-        "id": "64001015.3",
-        "origin": "manual"
-      }
-    },
-    {
-      "source": [
-        "n64001015009|φίλους"
-      ],
-      "target": [
-        "64001015008|sahabat-sahabatmu"
-      ],
-      "meta": {
-        "id": "64001015.5",
         "origin": "manual"
       }
     }
