@@ -45,18 +45,6 @@
     },
     {
       "source": [
-        "n63001001007|τέκνοις"
-      ],
-      "target": [
-        "63001001008|anak-anaknya"
-      ],
-      "meta": {
-        "id": "63001001.3",
-        "origin": "manual"
-      }
-    },
-    {
-      "source": [
         "n63001001011|ἀγαπῶ"
       ],
       "target": [
@@ -124,18 +112,6 @@
       ],
       "meta": {
         "id": "63001002.3",
-        "origin": "manual"
-      }
-    },
-    {
-      "source": [
-        "n63001002014|αἰῶνα"
-      ],
-      "target": [
-        "63001002015|selama-lamanya"
-      ],
-      "meta": {
-        "id": "63001002.4",
         "origin": "manual"
       }
     },
@@ -316,18 +292,6 @@
       ],
       "meta": {
         "id": "63001004.3",
-        "origin": "manual"
-      }
-    },
-    {
-      "source": [
-        "n63001004007|τέκνων"
-      ],
-      "target": [
-        "63001004012|anak-anakmu"
-      ],
-      "meta": {
-        "id": "63001004.4",
         "origin": "manual"
       }
     },
@@ -580,18 +544,6 @@
       ],
       "meta": {
         "id": "63001006.4",
-        "origin": "manual"
-      }
-    },
-    {
-      "source": [
-        "n63001006014|ἐντολή"
-      ],
-      "target": [
-        "63001006012|perintah-Nya"
-      ],
-      "meta": {
-        "id": "63001006.5",
         "origin": "manual"
       }
     },
@@ -1372,18 +1324,6 @@
       ],
       "meta": {
         "id": "63001013.2",
-        "origin": "manual"
-      }
-    },
-    {
-      "source": [
-        "n63001013004|τέκνα"
-      ],
-      "target": [
-        "63001013005|anak-anak"
-      ],
-      "meta": {
-        "id": "63001013.3",
         "origin": "manual"
       }
     },

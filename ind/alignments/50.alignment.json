@@ -45,18 +45,6 @@
     },
     {
       "source": [
-        "n50001001004|δοῦλοι"
-      ],
-      "target": [
-        "50001001006|hamba-hamba"
-      ],
-      "meta": {
-        "id": "50001001.3",
-        "origin": "manual"
-      }
-    },
-    {
-      "source": [
         "n50001001005|Χριστοῦ"
       ],
       "target": [
@@ -1233,18 +1221,6 @@
     },
     {
       "source": [
-        "n50001012005|ἀδελφοί"
-      ],
-      "target": [
-        "50001012004|saudara-saudara"
-      ],
-      "meta": {
-        "id": "50001012.4",
-        "origin": "manual"
-      }
-    },
-    {
-      "source": [
         "n50001012009|ἐμὲ"
       ],
       "target": [
@@ -1456,18 +1432,6 @@
       ],
       "meta": {
         "id": "50001014.7",
-        "origin": "manual"
-      }
-    },
-    {
-      "source": [
-        "n50001014017|λαλεῖν"
-      ],
-      "target": [
-        "50001014014|berkata-kata"
-      ],
-      "meta": {
-        "id": "50001014.8",
         "origin": "manual"
       }
     },
@@ -2140,18 +2104,6 @@
       ],
       "meta": {
         "id": "50001023.2",
-        "origin": "manual"
-      }
-    },
-    {
-      "source": [
-        "n50001023013|σὺν"
-      ],
-      "target": [
-        "50001023012|bersama-sama"
-      ],
-      "meta": {
-        "id": "50001023.3",
         "origin": "manual"
       }
     },
@@ -3021,18 +2973,6 @@
     },
     {
       "source": [
-        "n50002003006|κενοδοξίαν"
-      ],
-      "target": [
-        "50002003009|sia-sia"
-      ],
-      "meta": {
-        "id": "50002003.2",
-        "origin": "manual"
-      }
-    },
-    {
-      "source": [
         "n50002003007|ἀλλὰ"
       ],
       "target": [
@@ -3285,18 +3225,6 @@
     },
     {
       "source": [
-        "n50002007002|ἑαυτὸν"
-      ],
-      "target": [
-        "50002007004|diri-Nya"
-      ],
-      "meta": {
-        "id": "50002007.2",
-        "origin": "manual"
-      }
-    },
-    {
-      "source": [
         "n50002007004|μορφὴν"
       ],
       "target": [
@@ -3376,18 +3304,6 @@
       ],
       "meta": {
         "id": "50002008.1",
-        "origin": "manual"
-      }
-    },
-    {
-      "source": [
-        "n50002008002|ἑαυτὸν"
-      ],
-      "target": [
-        "50002008010|diri-Nya"
-      ],
-      "meta": {
-        "id": "50002008.2",
         "origin": "manual"
       }
     },
@@ -3729,18 +3645,6 @@
     },
     {
       "source": [
-        "n50002012001|Ὥστε"
-      ],
-      "target": [
-        "50002012002|saudara-saudaraku"
-      ],
-      "meta": {
-        "id": "50002012.1",
-        "origin": "manual"
-      }
-    },
-    {
-      "source": [
         "n50002012002|ἀγαπητοί"
       ],
       "target": [
@@ -3969,18 +3873,6 @@
     },
     {
       "source": [
-        "n50002013016|εὐδοκίας"
-      ],
-      "target": [
-        "50002013013|kerelaan-Nya"
-      ],
-      "meta": {
-        "id": "50002013.5",
-        "origin": "manual"
-      }
-    },
-    {
-      "source": [
         "n50002014001|Πάντα"
       ],
       "target": [
@@ -3993,30 +3885,6 @@
     },
     {
       "source": [
-        "n50002014004|γογγυσμῶν"
-      ],
-      "target": [
-        "50002014006|bersungut-sungut"
-      ],
-      "meta": {
-        "id": "50002014.2",
-        "origin": "manual"
-      }
-    },
-    {
-      "source": [
-        "n50002014006|διαλογισμῶν"
-      ],
-      "target": [
-        "50002014008|berbantah-bantahan"
-      ],
-      "meta": {
-        "id": "50002014.3",
-        "origin": "manual"
-      }
-    },
-    {
-      "source": [
         "n50002015001|ἵνα"
       ],
       "target": [
@@ -4024,30 +3892,6 @@
       ],
       "meta": {
         "id": "50002015.1",
-        "origin": "manual"
-      }
-    },
-    {
-      "source": [
-        "n50002015005|ἀκέραιοι"
-      ],
-      "target": [
-        "50002015016|tengah-tengah"
-      ],
-      "meta": {
-        "id": "50002015.2",
-        "origin": "manual"
-      }
-    },
-    {
-      "source": [
-        "n50002015006|τέκνα"
-      ],
-      "target": [
-        "50002015010|anak-anak"
-      ],
-      "meta": {
-        "id": "50002015.3",
         "origin": "manual"
       }
     },
@@ -4120,18 +3964,6 @@
       ],
       "meta": {
         "id": "50002015.11",
-        "origin": "manual"
-      }
-    },
-    {
-      "source": [
-        "n50002015018|φωστῆρες"
-      ],
-      "target": [
-        "50002015033|bintang-bintang"
-      ],
-      "meta": {
-        "id": "50002015.12",
         "origin": "manual"
       }
     },
@@ -5337,18 +5169,6 @@
     },
     {
       "source": [
-        "n50003001003|ἀδελφοί"
-      ],
-      "target": [
-        "50003001003|saudara-saudaraku"
-      ],
-      "meta": {
-        "id": "50003001.1",
-        "origin": "manual"
-      }
-    },
-    {
-      "source": [
         "n50003001005|χαίρετε"
       ],
       "target": [
@@ -5373,42 +5193,6 @@
     },
     {
       "source": [
-        "n50003002001|Βλέπετε"
-      ],
-      "target": [
-        "50003002001|Hati-hatilah"
-      ],
-      "meta": {
-        "id": "50003002.1",
-        "origin": "manual"
-      }
-    },
-    {
-      "source": [
-        "n50003002003|κύνας"
-      ],
-      "target": [
-        "50003002003|anjing-anjing"
-      ],
-      "meta": {
-        "id": "50003002.2",
-        "origin": "manual"
-      }
-    },
-    {
-      "source": [
-        "n50003002004|βλέπετε"
-      ],
-      "target": [
-        "50003002005|hati-hatilah"
-      ],
-      "meta": {
-        "id": "50003002.3",
-        "origin": "manual"
-      }
-    },
-    {
-      "source": [
         "n50003002006|κακοὺς"
       ],
       "target": [
@@ -5416,42 +5200,6 @@
       ],
       "meta": {
         "id": "50003002.4",
-        "origin": "manual"
-      }
-    },
-    {
-      "source": [
-        "n50003002007|ἐργάτας"
-      ],
-      "target": [
-        "50003002007|pekerja-pekerja"
-      ],
-      "meta": {
-        "id": "50003002.5",
-        "origin": "manual"
-      }
-    },
-    {
-      "source": [
-        "n50003002008|βλέπετε"
-      ],
-      "target": [
-        "50003002011|hati-hatilah"
-      ],
-      "meta": {
-        "id": "50003002.6",
-        "origin": "manual"
-      }
-    },
-    {
-      "source": [
-        "n50003002010|κατατομήν"
-      ],
-      "target": [
-        "50003002013|penyunat-penyunat"
-      ],
-      "meta": {
-        "id": "50003002.7",
         "origin": "manual"
       }
     },
@@ -6249,18 +5997,6 @@
     },
     {
       "source": [
-        "n50003010008|ἀναστάσεως"
-      ],
-      "target": [
-        "50003010008|kebangkitan-Nya"
-      ],
-      "meta": {
-        "id": "50003010.3",
-        "origin": "manual"
-      }
-    },
-    {
-      "source": [
         "n50003010011|κοινωνίαν"
       ],
       "target": [
@@ -6268,30 +6004,6 @@
       ],
       "meta": {
         "id": "50003010.4",
-        "origin": "manual"
-      }
-    },
-    {
-      "source": [
-        "n50003010012|παθημάτων"
-      ],
-      "target": [
-        "50003010012|penderitaan-Nya"
-      ],
-      "meta": {
-        "id": "50003010.5",
-        "origin": "manual"
-      }
-    },
-    {
-      "source": [
-        "n50003010016|θανάτῳ"
-      ],
-      "target": [
-        "50003010022|kematian-Nya"
-      ],
-      "meta": {
-        "id": "50003010.6",
         "origin": "manual"
       }
     },
@@ -6412,18 +6124,6 @@
       ],
       "meta": {
         "id": "50003012.7",
-        "origin": "manual"
-      }
-    },
-    {
-      "source": [
-        "n50003013001|ἀδελφοί"
-      ],
-      "target": [
-        "50003013001|Saudara-saudara"
-      ],
-      "meta": {
-        "id": "50003013.1",
         "origin": "manual"
       }
     },
@@ -6736,18 +6436,6 @@
       ],
       "meta": {
         "id": "50003017.2",
-        "origin": "manual"
-      }
-    },
-    {
-      "source": [
-        "n50003017004|ἀδελφοί"
-      ],
-      "target": [
-        "50003017001|Saudara-saudara"
-      ],
-      "meta": {
-        "id": "50003017.3",
         "origin": "manual"
       }
     },
@@ -7161,18 +6849,6 @@
     },
     {
       "source": [
-        "n50003021016|ἐνέργειαν"
-      ],
-      "target": [
-        "50003021018|kuasa-Nya"
-      ],
-      "meta": {
-        "id": "50003021.7",
-        "origin": "manual"
-      }
-    },
-    {
-      "source": [
         "n50003021018|δύνασθαι"
       ],
       "target": [
@@ -7204,30 +6880,6 @@
       ],
       "meta": {
         "id": "50003021.10",
-        "origin": "manual"
-      }
-    },
-    {
-      "source": [
-        "n50004001001|ὥστε"
-      ],
-      "target": [
-        "50004001023|saudara-saudaraku"
-      ],
-      "meta": {
-        "id": "50004001.1",
-        "origin": "manual"
-      }
-    },
-    {
-      "source": [
-        "n50004001002|ἀδελφοί"
-      ],
-      "target": [
-        "50004001004|saudara-saudara"
-      ],
-      "meta": {
-        "id": "50004001.2",
         "origin": "manual"
       }
     },
@@ -7456,18 +7108,6 @@
       ],
       "meta": {
         "id": "50004003.8",
-        "origin": "manual"
-      }
-    },
-    {
-      "source": [
-        "n50004003025|ὀνόματα"
-      ],
-      "target": [
-        "50004003036|nama-namanya"
-      ],
-      "meta": {
-        "id": "50004003.10",
         "origin": "manual"
       }
     },
@@ -7852,18 +7492,6 @@
       ],
       "meta": {
         "id": "50004008.1",
-        "origin": "manual"
-      }
-    },
-    {
-      "source": [
-        "n50004008003|ἀδελφοί"
-      ],
-      "target": [
-        "50004008004|saudara-saudara"
-      ],
-      "meta": {
-        "id": "50004008.2",
         "origin": "manual"
       }
     },
@@ -8781,18 +8409,6 @@
     },
     {
       "source": [
-        "n50004019014|δόξῃ"
-      ],
-      "target": [
-        "50004019009|kemuliaan-Nya"
-      ],
-      "meta": {
-        "id": "50004019.7",
-        "origin": "manual"
-      }
-    },
-    {
-      "source": [
         "n50004019016|Χριστῷ"
       ],
       "target": [
@@ -8836,18 +8452,6 @@
       ],
       "meta": {
         "id": "50004020.2",
-        "origin": "manual"
-      }
-    },
-    {
-      "source": [
-        "n50004020011|αἰῶνας"
-      ],
-      "target": [
-        "50004020006|selama-lamanya"
-      ],
-      "meta": {
-        "id": "50004020.3",
         "origin": "manual"
       }
     },
@@ -8925,18 +8529,6 @@
     },
     {
       "source": [
-        "n50004021010|σὺν"
-      ],
-      "target": [
-        "50004021017|bersama-sama"
-      ],
-      "meta": {
-        "id": "50004021.6",
-        "origin": "manual"
-      }
-    },
-    {
-      "source": [
         "n50004021011|ἐμοὶ"
       ],
       "target": [
@@ -8944,18 +8536,6 @@
       ],
       "meta": {
         "id": "50004021.7",
-        "origin": "manual"
-      }
-    },
-    {
-      "source": [
-        "n50004021012|ἀδελφοί"
-      ],
-      "target": [
-        "50004021014|saudara-saudara"
-      ],
-      "meta": {
-        "id": "50004021.8",
         "origin": "manual"
       }
     },
