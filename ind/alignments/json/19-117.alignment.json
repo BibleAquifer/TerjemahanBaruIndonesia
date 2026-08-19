@@ -1,0 +1,189 @@
+{
+  "format": "alignment",
+  "version": "0.4",
+  "groups": [
+    {
+      "type": "translation",
+      "meta": {
+        "creator": "Mission Mutual",
+        "conformsTo": "0.4",
+        "llm": {
+          "provider": "gloo",
+          "model": "gloo-google-gemini-3.7-flash",
+          "reasoning_effort": "low"
+        },
+        "nonEquivalent": {
+          "source": [
+            "191170010021|אֶת"
+          ],
+          "target": [
+            "19117001004|hai",
+            "19117001011|hai"
+          ]
+        }
+      },
+      "documents": [
+        {
+          "scheme": "BCVWP|token-string",
+          "docid": "WLCM"
+        },
+        {
+          "scheme": "BCVWP|token-string",
+          "docid": "TBI"
+        }
+      ],
+      "roles": [
+        "source",
+        "target"
+      ],
+      "records": [
+        {
+          "source": [
+            "191170010011|הַלְלוּ"
+          ],
+          "target": [
+            "19117001001|Pujilah"
+          ]
+        },
+        {
+          "source": [
+            "191170010031|יְהוָה"
+          ],
+          "target": [
+            "19117001002|Tuhan"
+          ]
+        },
+        {
+          "source": [
+            "191170010041|כָּל"
+          ],
+          "target": [
+            "19117001005|segala"
+          ]
+        },
+        {
+          "source": [
+            "191170010051|גּוֹיִם"
+          ],
+          "target": [
+            "19117001006|bangsa"
+          ]
+        },
+        {
+          "source": [
+            "191170010061|שַׁבְּחוּ"
+          ],
+          "target": [
+            "19117001008|megahkanlah"
+          ]
+        },
+        {
+          "source": [
+            "191170010062|הוּ"
+          ],
+          "target": [
+            "19117001009|Dia"
+          ]
+        },
+        {
+          "source": [
+            "191170010071|כָּל"
+          ],
+          "target": [
+            "19117001012|segala"
+          ]
+        },
+        {
+          "source": [
+            "191170010081|הָ",
+            "191170010082|אֻמִּים"
+          ],
+          "target": [
+            "19117001013|suku",
+            "19117001014|bangsa"
+          ],
+          "meta": {
+            "secondary": {
+              "source": [
+                "191170010081|הָ"
+              ]
+            }
+          }
+        },
+        {
+          "source": [
+            "191170020011|כִּי"
+          ],
+          "target": [
+            "19117002001|Sebab"
+          ]
+        },
+        {
+          "source": [
+            "191170020021|גָבַר"
+          ],
+          "target": [
+            "19117002003|hebat"
+          ]
+        },
+        {
+          "source": [
+            "191170020031|עָלֵי"
+          ],
+          "target": [
+            "19117002004|atas"
+          ]
+        },
+        {
+          "source": [
+            "191170020032|נוּ"
+          ],
+          "target": [
+            "19117002005|kita"
+          ]
+        },
+        {
+          "source": [
+            "191170020051|וֶ"
+          ],
+          "target": [
+            "19117002007|dan"
+          ]
+        },
+        {
+          "source": [
+            "191170020052|אֱמֶת"
+          ],
+          "target": [
+            "19117002008|kesetiaan"
+          ]
+        },
+        {
+          "source": [
+            "191170020061|יְהוָה"
+          ],
+          "target": [
+            "19117002009|Tuhan"
+          ]
+        },
+        {
+          "source": [
+            "191170020071|לְ"
+          ],
+          "target": [
+            "19117002010|untuk"
+          ]
+        },
+        {
+          "source": [
+            "191170020081|הַלְלוּ",
+            "191170020091|יָהּ"
+          ],
+          "target": [
+            "19117002013|Haleluya"
+          ]
+        }
+      ]
+    }
+  ]
+}
